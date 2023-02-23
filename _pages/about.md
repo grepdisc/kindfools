@@ -8,7 +8,7 @@ toc: true
 
 ## Kind Fools' Vision
 
-**Expressing out truth, and having it listened to, heals us.**
+**Expressing our truth, and having it listened to, heals us.**
 
 ## Kinds Fools' Mission Statement
 
