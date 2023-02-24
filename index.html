@@ -15,6 +15,9 @@ all_posts:
 
 <h1><center>Recent Reflections</center></h1>
 <br />
+  {% for post in site.posts limit:8 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
 <div class="grid_wrapper">
 </div>
 
