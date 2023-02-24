@@ -2,8 +2,8 @@
 permalink: /about/
 title: "About"
 excerpt: "What type of fool are you?"
-last_modified_at: 2023-02-22
-toc: true
+author_profile: false
+
 ---
 
 ## Kind Fools' Vision
