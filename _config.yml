@@ -20,7 +20,7 @@ title                    : "Kind Fools"
 title_separator          : "-"
 subtitle                 : "Expressing Our Truth"
 name                     : &name "Hy Carrel" # &name is a YAML anchor which can be *referenced later
-description              : &description "Expressing out truth, and having it listened to, heals us."
+description              : &description "Expressing our truth, and having it listened to, heals us."
 url                      : https://kindfools.org # the base hostname & protocol for your site
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "grepdisc/kindfools"
