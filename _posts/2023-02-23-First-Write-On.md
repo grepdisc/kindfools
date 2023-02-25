@@ -33,14 +33,14 @@ Hy led us through a check in round, "Name and what brought you here today?" As s
 Then, we were writing. If a pen stopped for too long, we were reminded to write the words "to tell the truth," until we knew what to write next. 
 
 After putting our pens down, we did a brief check-in, where each person gave a word describing a color or emotion that they felt right at that moment of putting down the pen.
-After the second free write, we enjoyed a break with more tea and fruit and fresh chocolate chip cookies. 
+After the second free-write, we enjoyed a break with more tea and fruit and fresh chocolate-chip cookies. 
 
 <figure class="align-center">
-  <img src="/assets/images/firstwriteon/break.jpg" alt="people on a break">
+  <img src="/assets/images/firstwriteon/break.jpg" alt="participants on a break">
   <figcaption>Participants enjoying a break after writing</figcaption>
 </figure> 
 
-At this point, we reconvened as two circles, to ensure that there was time for everyone to share. Hy facilitated one circle and his wife Nicole facilitated the other. 
+At this point, we reconvened as two circles. This ensured there was time for everyone to share. Hy facilitated one circle and his wife Nicole facilitated the other. 
 
 <figure class="align-center">
   <img src="/assets/images/firstwriteon/group1.jpg" alt="breakout group 1">
@@ -66,4 +66,6 @@ The adults and children who showed up to this event came from many different bac
 <figure class="align-center">
   <img src="/assets/images/firstwriteon/centerpiece.jpg" alt="centerpiece">
   <figcaption>Our centerpiece and community agreements</figcaption>
-</figure> 
+</figure>
+
+
