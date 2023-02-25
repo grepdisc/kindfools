@@ -8,7 +8,7 @@ tags:
   - Kind Fools
 ---
 
-<figure style="width: 600px">
+<figure class="align-center">
   <img src="/assets/images/firstwriteon/sign.jpg" alt="sign outside building">
   <figcaption>A welcoming sign</figcaption>
 </figure> 
@@ -21,7 +21,7 @@ At one minute before six, all 11 chairs set up around the centerpiece were occup
 
 Over the next few minutes, a dozen more people would trickle in, swelling the circle to 23 people sitting on blankets and bolsters and even a long bench. 
 
-<figure style="width: 600px">
+<figure class="align-center">
   <img src="/assets/images/firstwriteon/group.jpg" alt="people in the circle">
   <figcaption>The circle is underway</figcaption>
 </figure> 
@@ -35,21 +35,21 @@ Then, we were writing. If a pen stopped for too long, we were reminded to write 
 After putting our pens down, we did a brief check-in, where each person gave a word describing a color or emotion that they felt right at that moment of putting down the pen.
 After the second free write, we enjoyed a break with more tea and fruit and fresh chocolate chip cookies. 
 
-<figure style="width: 600px">
+<figure class="align-center">
   <img src="/assets/images/firstwriteon/break.jpg" alt="people on a break">
   <figcaption>Participants enjoying a break after writing</figcaption>
 </figure> 
 
 At this point, we reconvened as two circles, to ensure that there was time for everyone to share. Hy facilitated one circle and his wife Nicole facilitated the other. 
 
-<figure style="width: 600px">
+<figure class="align-center">
   <img src="/assets/images/firstwriteon/group1.jpg" alt="breakout group 1">
   <figcaption>Nicole facilitating the first breakout group</figcaption>
 </figure> 
 
 Each person chose one of their two pieces to read. The writing was engaging, and elegant and ever so vulnerable. The groups took quickly to the idea of offering only-positive reflections and responses to hearing each others' written truth. 
 
-<figure style="width: 600px">
+<figure class="align-center">
   <img src="/assets/images/firstwriteon/group2.jpg" alt="breakout group 2">
   <figcaption>Hy facilitating the second breakout group</figcaption>
 </figure> 
@@ -63,7 +63,7 @@ After the closing circle, one of the participants felt called to offer the follo
 
 The adults and children who showed up to this event came from many different backgrounds and life experiences. By sitting together and participating in this experience, we felt a greater appreciation for each other and our similarities.
 
-<figure style="width: 600px">
+<figure class="align-center">
   <img src="/assets/images/firstwriteon/centerpiece.jpg" alt="centerpiece">
   <figcaption>Our centerpiece and community agreements</figcaption>
 </figure> 
