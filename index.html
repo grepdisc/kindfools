@@ -13,7 +13,24 @@ all_posts:
 
 ---
 
-<h1><center>Current Projects</center></h1>
+<h1>Programs</h1>
+
+<div class="grid">
+    {% for project in site.data.projects %}
+        <div class="grid-item">
+            <a alt="{{ project.name }}" href="{{ project.link }}" title="{{ project.name }}">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        {{ project.name }}
+                    </div>
+                    <div class="panel-body" style="background: url('{{ project.image }}') no-repeat; background-size: cover; min-height: 200px;"></div>
+                </div>
+            </a>
+        </div>
+    {% endfor %}
+</div>
+
+<h1><center>Recent Stories</center></h1>
 <br />
   {% for post in site.posts limit:8 %}
     {% include archive-single.html type="grid" %}
