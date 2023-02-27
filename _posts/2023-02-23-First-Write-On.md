@@ -1,6 +1,9 @@
 ---
 title: "A First Write On!"
 
+header:
+  teaser: /assets/images/firstwriteon/group2.jpg
+
 categories:
   - writing
 
@@ -62,6 +65,8 @@ After the closing circle, one of the participants felt called to offer the follo
 <cite>- Peer Advisory Council Chair</cite>
 
 The adults and children who showed up to this event came from many different backgrounds and life experiences. By sitting together and participating in this experience, we felt a greater appreciation for each other and our similarities.
+
+Learn about future **[WRITE ON! workshops](/writeon/)** 
 
 <figure class="align-center">
   <img src="/assets/images/firstwriteon/centerpiece.jpg" alt="centerpiece">
