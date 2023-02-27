@@ -23,7 +23,7 @@ We find our purpose on the streets and through what we have experienced, inspiri
 
 ## Contact us
 
-Please reach out to Hy Carrel at [hcarrel@gmail.com](mailto:hcarrel@gmail.com)
+Please reach out to Hy Carrel at [hy@kindfools.org](mailto:hy@kindfools.org)
 
 ## History 
 

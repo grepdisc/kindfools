@@ -29,7 +29,7 @@ A key feature of WRITE ON! is how we respond to each others' writing. After our 
 * share your writing and receive only positive reflections
 
 Do you want to get involved? Do you have questions? Please reach out via **[our contact form](
-https://docs.google.com/forms/d/1Wj5y8ASondVinKovjU4feQgDX7PNfCs12B4aHEiegx4/viewform)** or by emailing our lead facilitator Hy Carrel at [hcarrel@gmail.com](mailto:hcarrel@gmail.com)
+https://docs.google.com/forms/d/1Wj5y8ASondVinKovjU4feQgDX7PNfCs12B4aHEiegx4/viewform)** or by emailing our lead facilitator Hy Carrel at [hy@kindfools.org](mailto:hy@kindfools.org)
 
 Info about our recent Feb 21, 2023 workshop is **[available here](https://www.facebook.com/events/593084972216087)**
 
