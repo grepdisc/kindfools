@@ -6,5 +6,7 @@ main:
     url: /writeon/
   - title: "Blog"
     url: /year-archive/
+  - title: "Poetry"
+    url: https://withkindness.org/
   - title: "Privacy"
     url: /privacy/
