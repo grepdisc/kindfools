@@ -6,8 +6,11 @@ header:
   image: /assets/images/writeonbanner.png
 ---
 
-Kind Fools presents WRITE ON! (an intuitive writing workshop)<br>
-**[RSVP for our March 7th workshop here](https://www.facebook.com/events/161314222995251)**
+Kind Fools presents WRITE ON! (an intuitive writing workshop)
+
+**[RSVP for our March 7th in-person workshop here](https://www.facebook.com/events/161314222995251)**
+
+**[RSVP for our March 14th virtual workshop here](https://www.facebook.com/events/1637487610014641)**
 
 ## Our story 
 
