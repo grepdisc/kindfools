@@ -6,6 +6,8 @@ main:
     url: /writeon/
   - title: "Blog"
     url: /year-archive/
+  - title: "Community Canvases"
+    url: "https://communitycanvases.org"
   - title: "Poetry"
     url: https://withkindness.org/
   - title: "Privacy"
