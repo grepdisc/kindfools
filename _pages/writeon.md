@@ -39,4 +39,4 @@ Do you want to get involved? Do you have questions? Please reach out via **[our 
 
 Info about our recent Feb 21, 2023 workshop is **[available here](https://www.facebook.com/events/593084972216087)**
 
-How did you enjoy your WRITE ON! workshop? Please complete our **[survey here](https://docs.google.com/forms/d/1i4PdvanXdZ3MVSjauNvbnToasI810mvt8mTbj1KkCGY/edit)**.
+How did you enjoy your WRITE ON! workshop? Please complete our **[survey here](/survey/)**.
