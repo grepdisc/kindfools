@@ -12,7 +12,7 @@ Kind Fools presents WRITE ON! (an intuitive writing workshop)
 
 **[RSVP for our March 14th virtual workshop here](https://www.facebook.com/events/1637487610014641)** at 6pm
 
-RSVP (soon) for our March 16th in-person workshop at Fitz Books at 1pm
+**[RSVP for our March 16th in-person workshop at Fitz Books](/signups/writeon20230316/)** at 1pm
 
 ## Our story 
 
