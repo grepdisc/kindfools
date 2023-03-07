@@ -8,6 +8,7 @@ header:
 
 Kind Fools presents WRITE ON! (an intuitive writing workshop)
 
+Please **[sign in here](/signin/)** for our March 7th workshop.<br>
 **[RSVP for our March 7th in-person workshop at Hostel Buffalo-Niagara](https://www.facebook.com/events/161314222995251)** at 6pm (Facilitator: Hy Carrel)
 
 **[RSVP for our March 14th virtual workshop here](/signups/writeon20230314/)** or via [FB](https://www.facebook.com/events/1637487610014641) at 6pm (Facilitator: Hy Carrel)
