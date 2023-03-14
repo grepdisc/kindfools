@@ -10,5 +10,7 @@ main:
     url: "https://communitycanvases.org"
   - title: "Poetry"
     url: https://withkindness.org/
+  - title: "Donate"
+    url: "https://communitycanvases.org/donate/"
   - title: "Privacy"
     url: /privacy/
