@@ -8,10 +8,10 @@ header:
 
 Kind Fools presents WRITE ON! (an intuitive writing workshop)
 
+{% comment %}
 Please **[sign in here](/signin/)** for our March 14th workshop.<br>
 {: .notice--info}
-**[RSVP for our March 14th virtual workshop here](/signups/writeon20230314/)** or via [FB](https://www.facebook.com/events/1637487610014641) at 6pm (Facilitator: Hy Carrel)
-
+{% endcomment %}
 **[RSVP for our March 16th in-person workshop at Fitz Books](/signups/writeon20230316/)** at 1pm (Facilitator: Hy Carrel)
 
 ## Our story 
@@ -40,5 +40,7 @@ Do you want to get involved? Do you have questions? Please reach out via **[our 
 Info about our recent Feb 21, 2023 workshop is **[available here](https://www.facebook.com/events/593084972216087)**
 
 Info about our recent March 7, 2023 workshop at Hostel Buffalo-Niagara is **[available here](https://www.facebook.com/events/161314222995251)**
+
+Info about our recent [our March 14th virtual workshop](https://www.facebook.com/events/1637487610014641) at 6pm (Facilitator: Hy Carrel)
 
 How did you enjoy your WRITE ON! workshop? Please complete our **[survey here](/survey/)**.
