@@ -8,9 +8,9 @@ header:
 
 Kind Fools presents WRITE ON! (an intuitive writing workshop)
 
-{% comment %}
-Please **[sign in here](/signin/)** for our March 14th workshop.<br>
+Please **[sign in here](/signin/)** for our March 16th workshop.<br>
 {: .notice--info}
+{% comment %}
 {% endcomment %}
 **[RSVP for our March 16th in-person workshop at Fitz Books](/signups/writeon20230316/)** at 1pm (Facilitator: Hy Carrel)
 
