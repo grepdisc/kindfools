@@ -20,9 +20,9 @@ WRITE ON! is a writing workshop created by Robert-Harry Rovin. Through participa
 
 ## What is WRITE ON! ?
 
-WRITE ON! is a process of accessing what is **your truth** in this moment, and expressing it. First, we establish a trusting container by sitting in a circle and giving each person an opprtunity to "show up" and check-in. Second, we participate in a body awareness meditation, to pay attention and listen to what is true for each part of ourselves in this moment. Third, we listen to an inspiring poem. Fourth, we free-write, getting out of our heads and trusting that we will know what needs to be written in this moment. 
+WRITE ON! is a process of accessing what is **your truth** in this moment, and expressing it. First, we establish a trusting container by sitting in a circle and giving each person an opportunity to "show up" and check-in. Second, we participate in a body awareness meditation, to pay attention and listen to what is true for each part of ourselves in this moment. Third, we listen to an inspiring poem. Fourth, we free-write, getting out of our heads and trusting that we will know what needs to be written in this moment. 
 
-A key feature of WRITE ON! is how we respond to each others' writing. After our second free-write, we have a break. Then we are each invited to read one of our two writings. After reading, people are invited to respond if they wish. We ask that each response be purely encouraging and only positive. There are other opportunities for feedback and criticm, and we set the intention that WRITE ON! is a "safe space" of purely positive and authentic responses to what others trust us by sharing.
+A key feature of WRITE ON! is how we respond to each others' writing. After our second free-write, we have a break. Then we are each invited to read one of our two writings. After reading, people are invited to respond if they wish. We ask that each response be purely encouraging and only positive. There are other opportunities for feedback and criticsm, and we set the intention that WRITE ON! is a "safe space" of purely positive and authentic responses to what others trust us by sharing.
 
 ## Description
 
