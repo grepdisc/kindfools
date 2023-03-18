@@ -11,9 +11,10 @@ Kind Fools presents WRITE ON! (an intuitive writing workshop)
 {% comment %}
 Please **[sign in here](/signin/)** for our March 30th workshop.<br>
 {: .notice--info}
-{% endcomment %}
 **This *is* the page you are looking for. Please check back here often to find our upcoming workshops**
 {: .notice--info}
+{% endcomment %}
+**[RSVP for our March 30th in-person workshop at MHA WNY](/signups/writeon20230330/)** on the 4th Floor at 1021 Broadway Street at 1pm (Facilitator: Hy Carrel)
 
 ## Our story 
 
