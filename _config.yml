@@ -181,6 +181,9 @@ collections:
   signups:
     output: true
     permalink: /:collection/:path/
+  writtenat:
+    output: true
+    permalink: /:collection/:path/
   #pets:
   #  output: true
   #  permalink: /:collection/:path/
@@ -227,15 +230,27 @@ defaults:
       type: signups
     values:
       layout: single
-  # _pets
+      author_profile: false
+      share: false
+      comments: false
+  # _writtenat
   - scope:
-      path: ""
-      type: pets
+      path: "_writtenat"
+      type: writtenat
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
+  # _gatherings
+  - scope:
+      path: "_gatherings"
+      type: gatherings
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comment: false
   # _portfolio
   - scope:
       path: ""
