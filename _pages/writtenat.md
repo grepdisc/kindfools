@@ -8,5 +8,6 @@ entries_layout: grid
 classes: wide
 ---
 
-## Register for upcoming events
+## Written at WRITE ON!
 
+Written at WRITE ON! is a series of articles written by participants during a WRITE ON! workshop, and shared with the community.
