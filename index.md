@@ -13,7 +13,8 @@ all_posts:
 
 ---
 
-<h1>Programs</h1>
+# Programs
+{: .text-center}
 
 <div class="grid">
     {% for project in site.data.projects %}
@@ -30,11 +31,12 @@ all_posts:
     {% endfor %}
 </div>
 
-<h1><center>Recent Stories</center></h1>
-<br />
+# Recent Stories
+{: .text-center}
+
+<div class="grid_wrapper">
   {% for post in site.posts limit:8 %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
-<div class="grid_wrapper">
 </div>
 
