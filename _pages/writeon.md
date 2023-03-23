@@ -39,15 +39,13 @@ A key feature of WRITE ON! is how we respond to each others' writing. After our 
 * break
 * share your writing and receive only positive reflections
 
-Do you want to get involved? Do you have questions? Please reach out via **[our contact form](
-/interest/)** or by emailing our lead facilitator Hy Carrel at [hy@kindfools.org](mailto:hy@kindfools.org)
+Do you want to get involved? Do you have questions? Please reach out via [our contact form](/interest/) or by emailing our lead facilitator Hy Carrel at [hy@kindfools.org](mailto:hy@kindfools.org)
 
-Info about our recent Feb 21, 2023 workshop is **[available here](https://www.facebook.com/events/593084972216087)**
+## Prior workshops
 
-Info about our recent March 7, 2023 workshop at Hostel Buffalo-Niagara is **[available here](https://www.facebook.com/events/161314222995251)**
+- Feb 21, 2023 workshop info [available here](https://www.facebook.com/events/593084972216087)
+- March 7, 2023 workshop at Hostel Buffalo-Niagara info [available here](https://www.facebook.com/events/161314222995251)
+- March 14, 2023 workshop info [available here](https://www.facebook.com/events/1637487610014641) 
+- Thank you to [Fitz Books and Waffles](https://www.fitzbooks.net) for hosting our March 16th in-person workshop.
 
-Info about our recent [our March 14th virtual workshop](https://www.facebook.com/events/1637487610014641) at 6pm (Facilitator: Hy Carrel)
-
-Thank you to [Fitz Books and Waffles](https://www.fitzbooks.net) for hosting our March 16th in-person workshop.
-
-How did you enjoy your WRITE ON! workshop? Please complete our **[survey](/survey/)**.
+How did you enjoy your WRITE ON! workshop? Please complete our [survey](/survey/).
