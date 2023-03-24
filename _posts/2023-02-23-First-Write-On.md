@@ -4,6 +4,8 @@ title: "A First Write On!"
 header:
   teaser: /assets/images/firstwriteon/group2.jpg
 
+excerpt: "On a chilly February evening, people began entering SolRise Farm and Cultural Arts Center. At one minute before six, all 11 chairs set up around the centerpiece were occupied."
+
 categories:
   - writing
 
