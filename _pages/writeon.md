@@ -6,7 +6,7 @@ header:
   image: /assets/images/writeonbanner.png
 ---
 
-Kind Fools presents WRITE ON! (an intuitive writing workshop)
+Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive writing workshop)
 
 ## Upcoming workshops
 {% comment %}
