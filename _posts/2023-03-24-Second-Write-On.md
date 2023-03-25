@@ -14,7 +14,7 @@ tags:
 
 For our second WRITE ON! workshop, 14 persons gathered in the back event space of [Hostel Buffalo-Niagara](https://www.hostelbuffalo.com). The Hostel holds a strong sense of community, from its murals to its communal kitchen to its front art gallery.
 
-In this gloriously decorated room of this beautiful Buffalo institution, we entered as strangers and found a way to write from our hearts and our bodies, and to feel comfortable sharing with each other.
+In this artfully decorated room of this beautiful Buffalo institution, we entered as strangers and found a way to write from our hearts and our bodies, and to feel comfortable sharing with each other.
 
 <figure class="align-center">
   <img src="/assets/images/secondwriteon/second-writeon-1.jpg" alt="People sitting and writing intently">
