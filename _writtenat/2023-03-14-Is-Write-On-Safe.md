@@ -7,6 +7,8 @@ categories:
 tags:
   - Kind Fools
 
+excerpt: "I see WRITE ON! as a safe space. WRITE ON! is neither a dialogue nor a conversation."
+
 author:
   name             : Hy Carrel 
   avatar           : # "/assets/images/"
