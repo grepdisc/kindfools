@@ -48,8 +48,12 @@ There are times, however, when hearing someone’s truth may be difficult for us
 Whatever space we have, we can always seek to include ridiculousness, which itself can heal our psyche.
 
 <br>
-Listen
+Listen on SoundCloud
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1482953536&color=%237f00bf&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kind-fools" title="Kind Fools" target="_blank" style="color: #cccccc; text-decoration: none;">Kind Fools</a> · <a href="https://soundcloud.com/kind-fools/is-write-on-a-safe-space-redux" title="Is WRITE ON! A Safe Space redux" target="_blank" style="color: #cccccc; text-decoration: none;">Is WRITE ON! A Safe Space redux</a></div>
+<br>
+Listen on Internet Archive
+<iframe src="https://archive.org/embed/write-on-safe-space" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <br>
 Do you want to get involved? Do you have questions? Please reach out via **[our contact form](
 https://docs.google.com/forms/d/1Wj5y8ASondVinKovjU4feQgDX7PNfCs12B4aHEiegx4/viewform)** or by emailing our lead facilitator Hy Carrel at [hy@kindfools.org](mailto:hy@kindfools.org)
