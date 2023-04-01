@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "What type of fool are you?"
+excerpt: "What kind of fool are you?"
 author_profile: false
 
 ---
