@@ -53,3 +53,16 @@ $header-font-family : $sans-serif-narrow;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 $footer-background-color: #175901;
 @import "minimal-mistakes"; // main partials
+
+// override the hiding of excerpt on mobile
+.grid__item {
+  .archive__item-excerpt {
+    display: block;
+    font-size: $type-size-5;
+
+    @include breakpoint($medium) {
+      display: block;
+      font-size: $type-size-6;
+    }
+  }
+}
