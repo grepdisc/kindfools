@@ -19,9 +19,9 @@ author:
 
 ## Written at WRITE ON!
 
-Written at WRITE ON! is a series of articles written by participants during a WRITE ON! workshop, and shared with the community.
+[Written at WRITE ON!](/writtenat/) is a series of articles written by participants during a [WRITE ON! workshop](/writeon/), and shared with the community.
 
-This first piece was written by facilitator Hy Carrel during Kind Fools' third WRITE ON! workshop.
+This first piece was written by Hy Carrel during Kind Fools' third WRITE ON! workshop.
 
 ## Is WRITE ON! A safe space?
 
