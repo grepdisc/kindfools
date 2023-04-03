@@ -52,6 +52,10 @@ $header-font-family : $sans-serif-narrow;
 
 .clear-left { clear: left;}
 
+.maxwidthbox {
+	max-width: 600px;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 $footer-background-color: #175901;
 @import "minimal-mistakes"; // main partials

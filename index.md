@@ -13,7 +13,15 @@ all_posts:
 
 ---
 
-# Programs
+# Upcoming Events
+{: .text-center}
+
+**WRITE ON! April 4, 2023 at 6:00pm on Zoom** [Register](/signups/writeon20230404/){: .btn .btn--success}<br>
+**WRITE ON! April 11, 2023 at 6:00pm at Sol Rise (226 East Utica St)** [Register](/signups/writeon20230411/){: .btn .btn--success}<br>
+**WRITE ON! workshops** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}
+{: .notice--info .maxwidthbox .align-center}
+
+ Programs
 {: .text-center}
 
 <div class="grid">
