@@ -32,10 +32,19 @@ all_posts:
 </div>
 
 # Recent Stories
-{: .text-center}
+{: .text-center .clear-left}
 
 <div class="grid_wrapper">
   {% for post in site.posts limit:8 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
+
+# [Written at WRITE ON!](/writtenat/)
+{: .text-center .clear-left}
+
+<div class="grid_wrapper">
+  {% for post in site.writtenat limit:8 %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
