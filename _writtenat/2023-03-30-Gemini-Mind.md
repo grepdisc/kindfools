@@ -46,6 +46,9 @@ But here I am, and here we are.<br>
 Playing our part in our own runaway satirical epic drama comedy<br>
 documentary telenovela with a bottomless box of microwave popcorn.<br>
 
+## Listen on Internet Archive
+<iframe src="https://archive.org/embed/gemini-mind" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <br>
 Do you want to write with us?
 :    Please join us for an upcoming Kind Fools' **[WRITE ON! workshop](/writeon/).**
