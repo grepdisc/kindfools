@@ -8,10 +8,11 @@ header:
 
 Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive writing workshop)
 
-## Upcoming workshops
-{% comment %}
 Please **[sign in here](/signin/)** for our April 4th workshop.<br>
 {: .notice--info}
+
+## Upcoming workshops
+{% comment %}
 **This *is* the page you are looking for. Please check back here often to find our upcoming workshops**
 {: .notice--info}
 {% endcomment %}
