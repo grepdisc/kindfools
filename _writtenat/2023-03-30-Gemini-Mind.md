@@ -22,6 +22,7 @@ author:
 [Written at WRITE ON!](/writtenat/) is a series of articles written by participants during a [WRITE ON! workshop](/writeon), and shared with the community.
 
 This was written by Jeremiah Schmelling during Kind Fools' fifth WRITE ON! workshop.
+Inspired by *Life Among the Gemini* by Jesse James Johnson on page 98 of *[Living in the Land of the Dead](https://www.faithfulfools.org/product-page/living-in-the-land-of-the-dead-poetry-anthology).*
 
 ## I Have A Gemini Mind
 
