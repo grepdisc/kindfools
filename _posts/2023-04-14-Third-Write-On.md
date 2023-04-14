@@ -33,6 +33,8 @@ Here are a few testimonials demonstrating the range of healing and connection th
 
 > I like this! I still have wounds that have not healed, but in this environment I can get a stitch here and a stitch there.
 
+> I came here to write, my obituary
+
 ### Sixth workshop
 
 > Definitely was a great date night for us.
