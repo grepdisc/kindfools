@@ -12,11 +12,11 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 {% comment %}
 Please **[sign in here](/signin/)** for our April 11th workshop.<br>
 {: .notice--info}
-**This *is* the page you are looking for. Please check back here often to find our upcoming workshops**
-{: .notice--info}
+RSVP for our **April 11th in-person workshop at Sol Rise Farm and Cultural Arts Center** at 226 East Utica St., Buffalo, NY 14208 at 6:00pm (Facilitator: Hy Carrel) [Sign Up](/signups/writeon20230411/){: .btn .btn--success}
 {% endcomment %}
 
-RSVP for our **April 11th in-person workshop at Sol Rise Farm and Cultural Arts Center** at 226 East Utica St., Buffalo, NY 14208 at 6:00pm (Facilitator: Hy Carrel) [Sign Up](/signups/writeon20230411/){: .btn .btn--success}
+**This *is* the page you are looking for. Please check back here often to find our upcoming workshops**
+{: .notice--info}
 
 ## Our story 
 
@@ -42,12 +42,13 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 
 ## Prior workshops
 
-- Feb 21, 2023 workshop info [available here](https://www.facebook.com/events/593084972216087)
-- March 7, 2023 workshop at Hostel Buffalo-Niagara info [available here](https://www.facebook.com/events/161314222995251)
-- March 14, 2023 workshop info [available here](https://www.facebook.com/events/1637487610014641) 
+- Feb 21, 2023 workshop info [available here](https://www.facebook.com/events/593084972216087) and [write up here](/writing/first-write-on/)
+- March 7, 2023 workshop at Hostel Buffalo-Niagara info [available here](https://www.facebook.com/events/161314222995251) [write up here](/writing/second-write-on/)
+- March 14, 2023 workshop info [available here](https://www.facebook.com/events/1637487610014641) and [write up here](/writing/third-write-on/)
 - Thank you to [Fitz Books and Waffles](https://www.fitzbooks.net) for hosting our March 16th in-person workshop.
 - Thank you to [MHA WNY](https://mhawny.org) for hosting our March 30th workshop.
 - Thank you to everyone who joined our April 4th virtual workshop.
+- Thank you to everyone who joined our April 11th workshop at Sol Rise Farm and Cultural Arts Center.
 
 
 How did you enjoy your WRITE ON! workshop? Please complete our [survey](/survey/).

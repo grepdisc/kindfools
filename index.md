@@ -16,8 +16,7 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON! April 11, 2023 at 6:00pm at Sol Rise (226 East Utica St)** [Register](/signups/writeon20230411/){: .btn .btn--success}<br>
-**WRITE ON! workshops** [Learn More](https://kindfools.org/writeon/){: .btn .btn--info}
+**WRITE ON! workshops** [Learn More](/writeon/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
  Programs
