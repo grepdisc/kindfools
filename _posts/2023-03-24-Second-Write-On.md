@@ -5,6 +5,8 @@ header:
   image: /assets/images/secondwriteon/second-writeon-header.jpg
   teaser: /assets/images/secondwriteon/second-writeon-header-small.jpg
 
+author_profile: false
+
 categories:
   - writing
 
@@ -36,6 +38,6 @@ During the time for sharing our writing, it was an honor to witness each person'
 </figure> 
 
 
-Do you want to get involved? Do you have questions? Please [Sign Up](https://kindfools.org/writeon), or reach out via [our contact form](
+Do you want to get involved? Do you have questions? Please [Sign Up](/writeon), or reach out via [our contact form](
 https://docs.google.com/forms/d/1Wj5y8ASondVinKovjU4feQgDX7PNfCs12B4aHEiegx4/viewform) or by emailing our lead facilitator Hy Carrel at [hy@kindfools.org](mailto:hy@kindfools.org)
 
