@@ -10,7 +10,7 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-RSVP for our **Tuesday May 2nd in-person workshop at Indigo House** at 366 14th St., Buffalo, NY 14213 at 6:00pm (Facilitator: Hy Carrel) [Sign Up](/signups/writeon20230502/){: .btn .btn--success}
+RSVP for our **Tuesday May 2nd in-person workshop at [Indigo House](https://www.indigohousebuffalo.com)** at 366 14th St., Buffalo, NY 14213 at 6:00pm (Facilitator: Hy Carrel) [Sign Up](/signups/writeon20230502/){: .btn .btn--success}
 
 RSVP for our **Monday May 8th virtual workshop on Zoom** at 6:00pm (Facilitator: Hy Carrel) [Sign Up](/signups/writeon20230508/){: .btn .btn--success}
 
