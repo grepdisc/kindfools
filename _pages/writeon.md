@@ -9,14 +9,20 @@ header:
 Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive writing workshop)
 
 ## Upcoming workshops
+
+RSVP for our **Tuesday May 2nd in-person workshop at Indigo House** at 366 14th St., Buffalo, NY 14213 at 6:00pm (Facilitator: Hy Carrel) [Sign Up](/signups/writeon20230502/){: .btn .btn--success}
+
+RSVP for our **Monday May 8th virtual workshop on Zoom** at 6:00pm (Facilitator: Hy Carrel) [Sign Up](/signups/writeon20230508/){: .btn .btn--success}
+
+RSVP for our **Thursday May 11th in-person workshop** at 4:30pm to 6:30pm
+in the children's section at Central Library, 1 Lafayette Square, Buffalo, NY 14203 (Facilitator: Hy Carrel) [Sign Up](/signups/writeon20230511/){: .btn .btn--success} Everyone is welcome. This workshop will be part of Youth Mental Health Awareness Day Flash Mob, which runs from 3pm to 7pm.
+
 {% comment %}
 Please **[sign in here](/signin/)** for our April 11th workshop.<br>
 {: .notice--info}
-RSVP for our **April 11th in-person workshop at Sol Rise Farm and Cultural Arts Center** at 226 East Utica St., Buffalo, NY 14208 at 6:00pm (Facilitator: Hy Carrel) [Sign Up](/signups/writeon20230411/){: .btn .btn--success}
-{% endcomment %}
-
 **This *is* the page you are looking for. Please check back here often to find our upcoming workshops**
 {: .notice--info}
+{% endcomment %}
 
 ## Our story 
 
@@ -47,7 +53,7 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - March 14, 2023 workshop info [available here](https://www.facebook.com/events/1637487610014641) and [write up here](/writing/third-write-on/)
 - Thank you to [Fitz Books and Waffles](https://www.fitzbooks.net) for hosting our March 16th in-person workshop.
 - Thank you to [MHA WNY](https://mhawny.org) for hosting our March 30th workshop.
-- Thank you to everyone who joined our April 4th virtual workshop.
+- Thank you to everyone who joined our April 4th virtual workshop. [Write up here](/writing/third-write-on/)
 - Thank you to everyone who joined our April 11th workshop at Sol Rise Farm and Cultural Arts Center.
 
 
