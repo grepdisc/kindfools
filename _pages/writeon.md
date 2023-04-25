@@ -17,6 +17,13 @@ RSVP for our **Monday May 8th virtual workshop on Zoom** at 6:00pm (Facilitator:
 RSVP for our **Thursday May 11th in-person workshop** at 4:30pm to 6:30pm
 in the children's section at Central Library, 1 Lafayette Square, Buffalo, NY 14203 (Facilitator: Hy Carrel) [Sign Up](/signups/writeon20230511/){: .btn .btn--success} Everyone is welcome. This workshop will be part of Youth Mental Health Awareness Day Flash Mob, which runs from 3pm to 7pm.
 
+RSVP for our **Thursday May 18th in-person workshop at 1:00pm
+at [CAO Rafi Greene Masten Resource Center](
+https://www.caowny.org/masten-resource-center)**
+at 1423 Fillmore Ave., Buffalo, NY 14211
+(Facilitator: Hy Carrel)
+[Sign Up](/signups/writeon20230518/){: .btn .btn--success}
+
 {% comment %}
 Please **[sign in here](/signin/)** for our April 11th workshop.<br>
 {: .notice--info}
