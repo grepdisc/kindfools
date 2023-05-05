@@ -10,8 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-RSVP for our **Tuesday May 2nd in-person workshop at [Indigo House](https://www.indigohousebuffalo.com)** at 366 14th St., Buffalo, NY 14213 at 6:00pm (Facilitator: Hy Carrel) [Sign Up](/signups/writeon20230502/){: .btn .btn--success}
-
 RSVP for our **Monday May 8th virtual workshop on Zoom** at 6:00pm (Facilitator: Hy Carrel) [Sign Up](/signups/writeon20230508/){: .btn .btn--success}
 
 RSVP for our **Thursday May 11th in-person workshop** at 4:30pm to 6:30pm
@@ -62,6 +60,8 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - Thank you to [MHA WNY](https://mhawny.org) for hosting our March 30th workshop.
 - Thank you to everyone who joined our April 4th virtual workshop. [Write up here](/writing/third-write-on/)
 - Thank you to everyone who joined our April 11th workshop at Sol Rise Farm and Cultural Arts Center.
+- Thank you to [Indigo House](https://www.indigohousebuffalo.com) for hosting our May 2nd workshopfor hosting our May 2nd workshop.
+
 
 
 How did you enjoy your WRITE ON! workshop? Please complete our [survey](/survey/).
