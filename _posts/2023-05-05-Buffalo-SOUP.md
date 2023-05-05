@@ -23,7 +23,8 @@ For the 4 minute pitch, Hy pitched in the form of a poem, which he wrote during 
 
 {% include video id="824158871" provider="vimeo" %}
 
-The pitch really gets going when we break out the poetry about 40 seconds in. Next time, we'll start with a story/poem to pull people in from the start.<br>
+The pitch really gets going when we break out the poetry about 40 seconds in. Next time, we'll start with a story/poem to pull people in from the start.
+
 Thank you to Rita, Katherine, Ian, Nate and Caroline showing up in support!
 Congratulations to [Project Mona's House](https://www.projectmonashouse.com)
 for receiving the night's donations to help their young women build resilience,
