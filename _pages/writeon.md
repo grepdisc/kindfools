@@ -10,12 +10,10 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-RSVP for our **Monday May 8th virtual workshop on Zoom** at 6:00pm (Facilitator: Hy Carrel) [Sign Up](/signups/writeon20230508/){: .btn .btn--success}
-
 RSVP for our **Thursday May 11th in-person workshop** at 4:30pm to 6:30pm
-in the children's section at Central Library, 1 Lafayette Square, Buffalo, NY 14203 (Facilitator: Hy Carrel) [Sign Up](/signups/writeon20230511/){: .btn .btn--success} Everyone is welcome. This workshop will be part of Youth Mental Health Awareness Day Flash Mob, which runs from 3pm to 7pm.
+in the children's section at Central Library, 1 Lafayette Square, Buffalo, NY 14203 (Facilitator: Hy Carrel) [Sign Up](/signups/writeon20230511/){: .btn .btn--success} <br>Everyone is welcome. This workshop will be part of Youth Mental Health Awareness Day Flash Mob, which runs from 2pm to 7pm, and includes music, food and community.
 
-RSVP for our **Thursday May 18th in-person workshop at 1:00pm
+RSVP for our **Thursday May 18th in-person workshop at 1:00pm to 3:30pm
 at [CAO Rafi Greene Masten Resource Center](
 https://www.caowny.org/masten-resource-center)**
 at 1423 Fillmore Ave., Buffalo, NY 14211
@@ -61,6 +59,7 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - Thank you to everyone who joined our April 4th virtual workshop. [Write up here](/writing/third-write-on/)
 - Thank you to everyone who joined our April 11th workshop at Sol Rise Farm and Cultural Arts Center.
 - Thank you to [Indigo House](https://www.indigohousebuffalo.com) for hosting our May 2nd workshopfor hosting our May 2nd workshop.
+- In our Monday May 8th virtual workshop on Zoom we held space for each other and expressed our truths.
 
 
 

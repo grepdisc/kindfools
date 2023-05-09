@@ -16,7 +16,7 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON! workshops available at 6pm May 8th, 4:30pm May 11th, and 1pm May 18th** [Learn More](/writeon/){: .btn .btn--info}
+**WRITE ON! workshops available at 4:30pm May 11th and 1pm May 18th** [Learn More](/writeon/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
  Programs
