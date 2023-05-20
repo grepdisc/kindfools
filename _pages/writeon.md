@@ -62,7 +62,7 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
   health and healing in all its beauty.
 - Our Thursday May 18th workshop
   at [CAO Rafi Greene Masten Resource Center](
-  https://www.caowny.org/masten-resource-center)**
+  https://www.caowny.org/masten-resource-center)
   brought together community members from near and far
   to share.
 
