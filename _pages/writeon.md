@@ -10,12 +10,11 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-RSVP for our **Thursday May 18th in-person workshop at 1:00pm to 3:30pm
-at [CAO Rafi Greene Masten Resource Center](
-https://www.caowny.org/masten-resource-center)**
-at 1423 Fillmore Ave., Buffalo, NY 14211
+RSVP for our **Tuesday June 6th in-person workshop at 6:00pm to 8:30pm
+at SolRise Farm and Cultural Arts Center**
+at 226 E. Utica Street, Buffalo, NY 14208
 (Facilitator: Hy Carrel)
-[Sign Up](/signups/writeon20230518/){: .btn .btn--success}
+[Sign Up](/signups/writeon20230606/){: .btn .btn--success}
 
 {% comment %}
 Please **[sign in here](/signin/)** for our April 11th workshop.<br>
@@ -61,7 +60,11 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
   children's section at Buffalo's Central Library as a partner
   in Mental Health Awareness Day Flash Mob, celebrating life,
   health and healing in all its beauty.
-
+- Our Thursday May 18th workshop
+  at [CAO Rafi Greene Masten Resource Center](
+  https://www.caowny.org/masten-resource-center)**
+  brought together community members from near and far
+  to share.
 
 
 How did you enjoy your WRITE ON! workshop? Please complete our [survey](/survey/).

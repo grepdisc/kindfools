@@ -16,7 +16,7 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON! workshop at 1pm May 18th** [Learn More](/writeon/){: .btn .btn--info}
+**WRITE ON! workshop at 6pm June 6th** [Learn More](/writeon/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
  Programs
