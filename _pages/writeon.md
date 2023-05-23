@@ -16,6 +16,13 @@ at 226 E. Utica Street, Buffalo, NY 14208
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20230606/){: .btn .btn--success}
 
+RSVP for our **Thursday June 15th in-person workshop at 1:00pm to 3:30pm
+at [CAO Rafi Greene Masten Resource Center](
+https://www.caowny.org/masten-resource-center)**
+at 1423 Fillmore Ave., Buffalo, NY 14211
+(Facilitator: Hy Carrel)
+[Sign Up](/signups/writeon20230615/){: .btn .btn--success}
+
 {% comment %}
 Please **[sign in here](/signin/)** for our April 11th workshop.<br>
 {: .notice--info}
