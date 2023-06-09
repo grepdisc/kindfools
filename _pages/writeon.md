@@ -10,12 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-RSVP for our **Tuesday June 6th in-person workshop at 6:00pm to 8:30pm
-at SolRise Farm and Cultural Arts Center**
-at 226 E. Utica Street, Buffalo, NY 14208
-(Facilitator: Hy Carrel)
-[Sign Up](/signups/writeon20230606/){: .btn .btn--success}
-
 RSVP for our **Thursday June 15th in-person workshop at 1:00pm to 3:30pm
 at [CAO Rafi Greene Masten Resource Center](
 https://www.caowny.org/masten-resource-center)**
@@ -72,6 +66,9 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
   https://www.caowny.org/masten-resource-center)
   brought together community members from near and far
   to share.
+- We wrote together at Sol Rise on Tuesday June 6th.
+  Thank you to everyone who braved the smoke to join us.
+
 
 
 How did you enjoy your WRITE ON! workshop? Please complete our [survey](/survey/).
