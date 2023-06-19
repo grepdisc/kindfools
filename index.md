@@ -16,7 +16,11 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
+{% comment %}
 **WRITE ON! workshop at 1pm June 15th** [Learn More](/writeon/){: .btn .btn--info}
+{% endcomment %}
+
+Please check back here soon.
 {: .notice--info .maxwidthbox .align-center}
 
  Programs
