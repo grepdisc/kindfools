@@ -16,7 +16,7 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**Starting July 6, 2023 for young adults (writing & art)**<br>
+**Starting July 2023 for young adults (writing & art)**<br>
 **Collaborative Community Art** [SIGN UP July 2023](https://communitycanvases.org/events/communityartsummer2023/){: .btn .btn--success .btn--large}<br>
 {: .notice--success .maxwidthbox .align-center}
 
