@@ -20,12 +20,13 @@ all_posts:
 **Collaborative Community Art** [SIGN UP July 2023](https://communitycanvases.org/events/communityartsummer2023/){: .btn .btn--success .btn--large}<br>
 {: .notice--success .maxwidthbox .align-center}
 
-{% comment %}
-**WRITE ON! workshop at 1pm June 15th** [Learn More](/writeon/){: .btn .btn--info}
-{% endcomment %}
-
-Please check back here soon for more WRITE ON workshops.
+**WRITE ON! workshop at 1pm July 20th** [Learn More](/writeon/){: .btn .btn--info}<br>
+**WRITE ON! workshop at 7pm July 25th** [Learn More](/writeon/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
+
+{% comment %}
+Please check back here soon for more WRITE ON workshops.
+{% endcomment %}
 
  Programs
 {: .text-center}

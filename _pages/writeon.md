@@ -12,14 +12,20 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 Please check back here soon.
 
-{% comment %}
-RSVP for our **Thursday June 15th in-person workshop at 1:00pm to 3:30pm
+RSVP for our **Thursday July 20th in-person workshop at 1:00pm to 3:30pm
 at [CAO Rafi Greene Masten Resource Center](
 https://www.caowny.org/masten-resource-center)**
 at 1423 Fillmore Ave., Buffalo, NY 14211
 (Facilitator: Hy Carrel)
-[Sign Up](/signups/writeon20230615/){: .btn .btn--success}
+[Sign Up](/signups/writeon20230720/){: .btn .btn--success}
 
+RSVP for our **Thursday July 25th in-person workshop at 7:00pm to 9:30pm
+at [Burning Books](https://burningbooks.com/pages/contact)**
+at 420 Connecticut St., Buffalo, NY 14213
+(Facilitator: Hy Carrel)
+[Sign Up](/signups/writeon20230725/){: .btn .btn--success}
+
+{% comment %}
 Please **[sign in here](/signin/)** for our April 11th workshop.<br>
 {: .notice--info}
 **This *is* the page you are looking for. Please check back here often to find our upcoming workshops**
