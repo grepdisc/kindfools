@@ -16,15 +16,15 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**Starting July 2023 for young adults (writing & art)**<br>
-**Collaborative Community Art** [SIGN UP July 2023](https://communitycanvases.org/events/communityartsummer2023/){: .btn .btn--success .btn--large}<br>
-{: .notice--success .maxwidthbox .align-center}
-
 **WRITE ON! workshop at 1pm July 20th** [Learn More](/writeon/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 7pm July 25th** [Learn More](/writeon/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+**Starting July 2023 for young adults (writing & art)**<br>
+**Collaborative Community Art** [SIGN UP July 2023](https://communitycanvases.org/events/communityartsummer2023/){: .btn .btn--success .btn--large}<br>
+{: .notice--success .maxwidthbox .align-center}
+
 Please check back here soon for more WRITE ON workshops.
 {% endcomment %}
 
