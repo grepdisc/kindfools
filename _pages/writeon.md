@@ -19,11 +19,18 @@ at 1423 Fillmore Ave., Buffalo, NY 14211
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20230720/){: .btn .btn--success}
 
-RSVP for our **Thursday July 25th in-person workshop at 7:00pm to 9:30pm
+RSVP for our **Tuesday July 25th in-person workshop at 7:00pm to 9:30pm
 at [Burning Books](https://burningbooks.com/pages/contact)**
 at 420 Connecticut St., Buffalo, NY 14213
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20230725/){: .btn .btn--success}
+
+RSVP for our **Tuesday August 8th in-person workshop at 6:00pm to 8:30pm
+at Sol Rise Farm and Cultural Arts Center**
+at 226 E. Utica Street4, Buffalo, NY 14208
+(Facilitator: Hy Carrel)
+[Sign Up](/signups/writeon20230808/){: .btn .btn--success}
+
 
 {% comment %}
 Please **[sign in here](/signin/)** for our April 11th workshop.<br>
