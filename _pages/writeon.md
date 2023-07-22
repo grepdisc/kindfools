@@ -10,8 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-Please check back here soon.
-
 RSVP for our **Tuesday July 25th in-person workshop at 7:00pm to 9:30pm
 at [Burning Books](https://burningbooks.com/pages/contact)**
 at 420 Connecticut St., Buffalo, NY 14213
@@ -26,6 +24,7 @@ at 226 E. Utica Street4, Buffalo, NY 14208
 
 
 {% comment %}
+Please check back here soon.
 Please **[sign in here](/signin/)** for our April 11th workshop.<br>
 {: .notice--info}
 **This *is* the page you are looking for. Please check back here often to find our upcoming workshops**
