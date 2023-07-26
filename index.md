@@ -16,7 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON! workshop at 7pm July 25th** [Learn More](/writeon/){: .btn .btn--info}
 **WRITE ON! workshop at 6pm August 8th** [Learn More](/writeon/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
