@@ -16,7 +16,12 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON! workshop at 6pm August 8th** [Learn More](/writeon/){: .btn .btn--info}
+**WRITE ON! workshop at 6pm August 8th** [Learn More](
+/writeon/){: .btn .btn--info}<br>
+**WRITE ON! workshop at 6pm August 22nd** [Learn More](
+/writeon/){: .btn .btn--info}<br>
+All Community Canvases [Events](
+https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}

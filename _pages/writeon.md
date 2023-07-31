@@ -12,10 +12,15 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 RSVP for our **Tuesday August 8th in-person workshop at 6:00pm to 8:30pm
 at Sol Rise Farm and Cultural Arts Center**
-at 226 E. Utica Street4, Buffalo, NY 14208
+at 226 E. Utica Street, Buffalo, NY 14208
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20230808/){: .btn .btn--success}
 
+RSVP for our **Tuesday August 22nd in-person workshop at 6:00pm to 8:30pm
+at The Healing Grounds Co-op**
+at 218 Grant Street, Buffalo, NY 14213
+(Facilitator: Hy Carrel)
+[Sign Up](/signups/writeon20230822/){: .btn .btn--success}
 
 {% comment %}
 Please check back here soon.
