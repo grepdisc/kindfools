@@ -22,6 +22,13 @@ at 218 Grant Street, Buffalo, NY 14213
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20230822/){: .btn .btn--success}
 
+RSVP for our **Thurday September 7th in-person workshop at 1:00pm to 3:30pm
+at [Fitz Books and Waffles](
+https://www.fitzbooks.net)**
+at 431 Ellicott St., Buffalo, NY 14203.
+(Facilitator: Hy Carrel)
+[Sign Up](/signups/writeon20230907/){: .btn .btn--success}
+
 {% comment %}
 Please check back here soon.
 Please **[sign in here](/signin/)** for our April 11th workshop.<br>
