@@ -10,12 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-RSVP for our **Tuesday August 8th in-person workshop at 6:00pm to 8:30pm
-at Sol Rise Farm and Cultural Arts Center**
-at 226 E. Utica Street, Buffalo, NY 14208
-(Facilitator: Hy Carrel)
-[Sign Up](/signups/writeon20230808/){: .btn .btn--success}
-
 RSVP for our **Tuesday August 22nd in-person workshop at 6:00pm to 8:30pm
 at The Healing Grounds Co-op**
 at 218 Grant Street, Buffalo, NY 14213
@@ -86,6 +80,8 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
   for hosting us again on Thursdays June 15th and July 20th.
 - Thank you to [Burning Books](https://burningbooks.com/pages/contact)
   for hosting our Tuesday July 25th workshop.
+- Sol Rise hosted our 16th workshop on August 8th.
+
 
 
 
