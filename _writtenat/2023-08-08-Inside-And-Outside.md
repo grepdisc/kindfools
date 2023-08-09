@@ -29,7 +29,7 @@ author:
 EJ wrote this during Kind Fools' sixteenth
 WRITE ON! workshop.
 
-This villanelle is about the human condition internally and externally.
+*This villanelle is about the human condition internally and externally.*
 
 ## Inside & Outside
 
