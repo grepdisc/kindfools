@@ -14,6 +14,10 @@ author:
   avatar           : # "/assets/images/"
   bio              : "Exploring foolishness and kind service with each other."
   location         : "Buffalo, NY"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/kindfools"
 
 ---
 
