@@ -16,8 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON! workshop at 6pm August 22nd** [Learn More](
-/writeon/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 1pm September 7th** [Learn More](
 /writeon/){: .btn .btn--info}<br>
 All Community Canvases [Events](
