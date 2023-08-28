@@ -18,6 +18,8 @@ all_posts:
 
 **WRITE ON! workshop at 1pm September 7th** [Learn More](
 /writeon/){: .btn .btn--info}<br>
+**Community Canvases' Party in the Park at 11am Sept 16** [Learn More](
+    https://communitycanvases.org/events/partyinthepark20230916/){: .btn .btn--info}<br>
 All Community Canvases [Events](
 https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
