@@ -11,11 +11,17 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 ## Upcoming workshops
 
 RSVP for our **Thurday September 7th in-person workshop at 1:00pm to 3:30pm
-at [Fitz Books and Waffles](
+at [Fitz Books & Waffles](
 https://www.fitzbooks.net)**
 at 431 Ellicott St., Buffalo, NY 14203.
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20230907/){: .btn .btn--success}
+
+RSVP for our **Tuesday September 26th in-person workshop at 6:00pm to 8:30pm
+at [The Healing Grounds Co-op](https://www.facebook.com/TheHealingGroundsCoop/)**
+at 218 Grant St., Buffalo, NY 14213.
+(Facilitator: Hy Carrel)
+[Sign Up](/signups/writeon20230926/){: .btn .btn--success}
 
 {% comment %}
 Please check back here soon.
