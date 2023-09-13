@@ -16,12 +16,10 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON! workshop at 1pm September 7th** [Info/Sign-up](
-/writeon/){: .btn .btn--info}<br>
+**Party in the Park at 11am Sept 16** [Join Us There](
+    https://communitycanvases.org/events/partyinthepark20230916/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 6pm September 26th** [Info/Sign-up](
 /writeon/){: .btn .btn--info}<br>
-**Community Canvases' Party in the Park at 11am Sept 16** [Learn More](
-    https://communitycanvases.org/events/partyinthepark20230916/){: .btn .btn--info}<br>
 **CALL FOR ARTISTS** - Signal Box Art Project - Due: Sept 19th [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
