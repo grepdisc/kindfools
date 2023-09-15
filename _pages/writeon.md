@@ -17,11 +17,11 @@ at 218 Grant St., Buffalo, NY 14213.
 [Sign Up](/signups/writeon20230926/){: .btn .btn--success}
 
 RSVP for our **Tuesday October 10th virtual workshop at 6:00pm to 8:30pm
-on Zoom
+on Zoom**
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20231010/){: .btn .btn--success}
 
-RSVP for our **Thuyrsday October 26th in-person workshop at 6:00pm to 8:30pm
+RSVP for our **Thursday October 26th in-person workshop at 6:00pm to 8:30pm
 at [CAO Masten Resource Center](https://www.caowny.org/masten-resource-center/)**
 at 21423 Fillmore Ave., Buffalo, NY 14211.
 (Facilitator: Hy Carrel)
