@@ -16,8 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**TODAY - Party in the Park at 11am Sept 16** [Join Us There](
-    https://communitycanvases.org/events/partyinthepark20230916/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 6pm September 26th** [Info/Sign-up](
 /writeon/){: .btn .btn--info}<br>
 **CALL FOR ARTISTS** - Signal Box Art Project - Due: Sept 19th [Info/Application](
