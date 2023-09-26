@@ -18,11 +18,14 @@ all_posts:
 
 **WRITE ON! workshop at 6pm September 26th** [Info/Sign-up](
 /writeon/){: .btn .btn--info}<br>
-**CALL FOR ARTISTS** - Signal Box Art Project - Due: Sept 19th [Info/Application](
+**100,000 Poets for Change Open Mic** 3pm September 30th [Info](
+    /events/hundredthousandpoets2023/){: .btn .btn--info}<br>
+**Community Swing at 6pm September 27th** [Info](
+https://www.facebook.com/photo/?fbid=703168775190010&set=a.627391839434371
+){: .btn .btn--info}<br>
+**Signal Box Art Project[Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
-**100,000 Poets for Change** 3pm September 30th [Info](
-    /events/hundredthousandpoets2023/){: .btn .btn--info}<br>
 All Community Canvases [Events](
 https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
