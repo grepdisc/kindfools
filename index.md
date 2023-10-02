@@ -16,15 +16,14 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**100,000 Poets for Change Open Mic** 3pm September 30th [Info](
-    /events/hundredthousandpoets2023/){: .btn .btn--info}<br>
-{: .notice--success .maxwidthbox .align-center}
-
 **WRITE ON! workshop at 6pm Oct 10th** [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
+**Pumpking Carving and Film Night Fundraiser Oct 13th** [Tickets](
+    https://www.chateaubuffalo.com/suite-16-cinema-series
+    ){: .btn .btn--success}<br>
 **WRITE ON! workshop at 1pm Oct 26th** [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
-**Signal Box Art Project[Info/Application](
+Signal Box Art Project[Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
 All Community Canvases [Events](
@@ -35,6 +34,10 @@ https://communitycanvases.org/events/){: .btn .btn--info}
 **Starting July 2023 for young adults (writing & art)**<br>
 **Collaborative Community Art** [SIGN UP July 2023](https://communitycanvases.org/events/communityartsummer2023/){: .btn .btn--success .btn--large}<br>
 {: .notice--success .maxwidthbox .align-center}
+**100,000 Poets for Change Open Mic** 3pm September 30th [Info](
+    /events/hundredthousandpoets2023/){: .btn .btn--info}<br>
+{: .notice--success .maxwidthbox .align-center}
+
 
 Please check back here soon for more WRITE ON workshops.
 {% endcomment %}
