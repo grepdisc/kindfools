@@ -16,11 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON! workshop at 6pm Oct 10th** [Info/Sign-up](
-    /writeon/){: .btn .btn--info}<br>
-**Pumpking Carving and Film Party/Fundraiser Oct 13th** [Tickets](
-    https://www.chateaubuffalo.com/suite-16-cinema-series
-    ){: .btn .btn--success}<br>
 **WRITE ON! workshop at 1pm Oct 26th** [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
 Signal Box Art Project[Info/Application](
