@@ -10,16 +10,16 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-RSVP for our **Tuesday October 10th virtual workshop at 6:00pm to 8:30pm
-on Zoom**
-(Facilitator: Hy Carrel)
-[Sign Up](/signups/writeon20231010/){: .btn .btn--success}
-
-RSVP for our **Thursday October 26th in-person workshop at 6:00pm to 8:30pm
-at [CAO Masten Resource Center](https://www.caowny.org/masten-resource-center/)**
+RSVP for our **Thursday October 26th** in-person workshop at 6:00pm to 8:30pm
+at [CAO Masten Resource Center](https://www.caowny.org/masten-resource-center/)
 at 21423 Fillmore Ave., Buffalo, NY 14211.
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20231026/){: .btn .btn--success}
+
+RSVP for our **Tuesday November 9th** in-person workshop at 6:00pm to 8:30pm
+at location to be announced soon.
+(Facilitator: Hy Carrel)
+[Sign Up](/signups/writeon20231109/){: .btn .btn--success}
 
 {% comment %}
 Please check back here soon.
@@ -84,6 +84,8 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - Thank you to [Fitz Books and Waffles](https://www.fitzbooks.net) for hosting our September 7th workshop outside on the beautiful patio with delicious waffles.
 - [The Healing Grounds Co-op](https://www.facebook.com/TheHealingGroundsCoop/)
   hosted our September 26th workshop inside their beautiful café space.
+- Thank you for a beautiful gathering on Zoom on October 10th 
+
 
 
 How did you enjoy your WRITE ON! workshop? Please complete our [survey](/survey/).
