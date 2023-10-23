@@ -12,14 +12,15 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 RSVP for our **Thursday October 26th** in-person workshop at 6:00pm to 8:30pm
 at [CAO Masten Resource Center](https://www.caowny.org/masten-resource-center/)
-at 21423 Fillmore Ave., Buffalo, NY 14211.
+at 1423 Fillmore Ave., Buffalo, NY 14211.
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20231026/){: .btn .btn--success}
 
-RSVP for our **Tuesday November 9th** in-person workshop at 6:00pm to 8:30pm
-at location to be announced soon.
+RSVP for our **Tuesday November 7th** in-person workshop at 6:00pm to 8:30pm
+at SolRise Farm and Cultural Arts Center
+at 226 E. Utica Street, Buffalo, NY 14208.
 (Facilitator: Hy Carrel)
-[Sign Up](/signups/writeon20231109/){: .btn .btn--success}
+[Sign Up](/signups/writeon20231107/){: .btn .btn--success}
 
 {% comment %}
 Please check back here soon.

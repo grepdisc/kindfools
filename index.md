@@ -18,7 +18,7 @@ all_posts:
 
 **WRITE ON! workshop at 1pm Oct 26th** [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
-**WRITE ON! workshop at 6pm Nov 9th** [Info/Sign-up](
+**WRITE ON! workshop at 6pm Nov 7th** [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
 **Art Show/Fundraiser** Nov 11, 2023 at Hostel Buffalo[Info](
     https://communitycanvases.org/events/artshow20231111/){: .btn .btn--info}<br>
