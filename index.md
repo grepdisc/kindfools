@@ -16,8 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON! workshop at 1pm Oct 26th** [Info/Sign-up](
-    /writeon/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 6pm Nov 7th** [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
 **Art Show/Fundraiser** Nov 11, 2023 at Hostel Buffalo[Info](
