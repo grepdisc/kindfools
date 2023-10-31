@@ -16,6 +16,12 @@ at 226 E. Utica Street, Buffalo, NY 14208.
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20231107/){: .btn .btn--success}
 
+RSVP for our **Tuesday November 21st** in-person workshop at 6:00pm to 8:30pm
+at Good Shepherd Lutheran Church
+at 2669 Sheridan Drive, Buffalo, NY 14150.
+(Facilitator: Hy Carrel)
+[Sign Up](/signups/writeon20231121/){: .btn .btn--success}
+
 {% comment %}
 Please check back here soon.
 Please **[sign in here](/signin/)** for our April 11th workshop.<br>
