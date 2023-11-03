@@ -20,6 +20,8 @@ all_posts:
     /writeon/){: .btn .btn--info}<br>
 **Art Show/Fundraiser** Nov 11, 2023 at Hostel Buffalo[Info](
     https://communitycanvases.org/events/artshow20231111/){: .btn .btn--info}<br>
+**WRITE ON! workshop at 6pm Nov 21th** [Info/Sign-up](
+    /writeon/){: .btn .btn--info}<br>
 Signal Box Art Project[Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
