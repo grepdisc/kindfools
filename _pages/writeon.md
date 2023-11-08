@@ -10,12 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-RSVP for our **Tuesday November 7th** in-person workshop at 6:00pm to 8:30pm
-at SolRise Farm and Cultural Arts Center
-at 226 E. Utica Street, Buffalo, NY 14208.
-(Facilitator: Hy Carrel)
-[Sign Up](/signups/writeon20231107/){: .btn .btn--success}
-
 RSVP for our **Tuesday November 21st** in-person workshop at 6:00pm to 8:30pm
 at Good Shepherd Lutheran Church
 at 2669 Sheridan Drive, Buffalo, NY 14150.
@@ -90,6 +84,8 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
   on October 26, 2023 for our first hybrid gathering. People came to the space for WRITE ON,
   people in the space were drawn to the circle to write and share with us,
   and people unable to make it to the space joined us online.
+- 8 1/2 months after our first Kind Fools' WRITE ON, we returned to Sol Rise
+  on November 7, 2023 for a workshop with familiar faces and new faces.
 
 
 

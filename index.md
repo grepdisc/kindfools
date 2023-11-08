@@ -16,8 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON! workshop at 6pm Nov 7th** [Info/Sign-up](
-    /writeon/){: .btn .btn--info}<br>
 **Art Show/Fundraiser** Nov 11, 2023 at Hostel Buffalo[Info](
     https://communitycanvases.org/events/artshow20231111/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 6pm Nov 21th** [Info/Sign-up](
@@ -25,7 +23,7 @@ all_posts:
 Signal Box Art Project[Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
-Our partner - Recovery Stories at 5:30pm Nov 27th [Info/Sign-up](
+Our partner - **Recovery Stories at 5:30pm Nov 27th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
 All Community Canvases [Events](
 https://communitycanvases.org/events/){: .btn .btn--info}
