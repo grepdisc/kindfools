@@ -10,6 +10,11 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
+RSVP for our **Thursday December 7th** workshop at 6:00pm to 8:30pm
+at Indigo House. 
+(Facilitator: Hy Carrel)
+[Sign Up](/signups/writeon20231207/){: .btn .btn--success}
+
 RSVP for our **Tuesday December 19th** virtual workshop at 6:00pm to 8:30pm EST
 on Zoom. Please RSVP to receive the link.
 (Facilitator: Hy Carrel)

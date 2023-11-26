@@ -18,6 +18,8 @@ all_posts:
 
 Our partner - **Recovery Stories at 5:30pm Nov 27th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
+**WRITE ON! workshop at 6pm Dec 7th** at Indigo House [Info/Sign-up](
+    /writeon/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 6pm Dec 19th** on Zoom [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
