@@ -16,8 +16,8 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Our partner - **Recovery Stories at 5:30pm Nov 27th** [Info/Sign-up](
-    /recoverystories/){: .btn .btn--info}<br>
+Today is Giving Tuesday. Please [Donate or Volunteer here](
+    https://communitycanvases.org/donate/){: .btn .btn--success .btn--large}<br>
 **WRITE ON! workshop at 6pm Dec 7th** at Indigo House [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 6pm Dec 19th** on Zoom [Info/Sign-up](
@@ -37,6 +37,8 @@ https://communitycanvases.org/events/){: .btn .btn--info}
     /events/hundredthousandpoets2023/){: .btn .btn--info}<br>
 {: .notice--success .maxwidthbox .align-center}
 
+Our partner - **Recovery Stories at 5:30pm Nov 27th** [Info/Sign-up](
+    /recoverystories/){: .btn .btn--info}<br>
 
 Please check back here soon for more WRITE ON workshops.
 {% endcomment %}
