@@ -16,8 +16,8 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Today is Giving Tuesday. Please [Donate or Volunteer here](
-    https://communitycanvases.org/donate/){: .btn .btn--success .btn--large}<br>
+End-of-Year support for Kind Fools/Community Canvases [Donate or Volunteer here](
+    https://communitycanvases.org/donate/){: .btn .btn--success}<br>
 **WRITE ON! workshop at 6pm Dec 7th** at Indigo House [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 6pm Dec 19th** on Zoom [Info/Sign-up](
