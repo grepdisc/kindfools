@@ -22,6 +22,8 @@ End-of-Year support for Kind Fools/Community Canvases [Donate or Volunteer here]
     /writeon/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 6pm Dec 19th** on Zoom [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
+Our partner - **Recovery Stories at 5:30pm Jan 22nd** [Info/Sign-up](
+    /recoverystories/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
