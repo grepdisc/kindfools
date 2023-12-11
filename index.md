@@ -18,8 +18,6 @@ all_posts:
 
 End-of-Year support for Kind Fools/Community Canvases [Donate or Volunteer here](
     https://communitycanvases.org/donate/){: .btn .btn--success}<br>
-**WRITE ON! workshop at 6pm Dec 7th** at Indigo House [Info/Sign-up](
-    /writeon/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 6pm Dec 19th** on Zoom [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
 Our partner - **Recovery Stories at 5:30pm Jan 22nd** [Info/Sign-up](
