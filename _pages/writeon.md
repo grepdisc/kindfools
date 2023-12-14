@@ -15,6 +15,17 @@ on Zoom. Please RSVP to receive the link.
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20231219/){: .btn .btn--success}
 
+RSVP for our **Thursday January 11th** in-person workshop at 1:00pm to 3:30pm
+at [CAO Masten Resource Center](https://www.caowny.org/masten-resource-center/)
+at 1423 Fillmore Ave., Buffalo, NY 14211.
+(Facilitator: Hy Carrel)
+[Sign Up](/signups/writeon20240111/){: .btn .btn--success}
+
+RSVP for our **Thursday January 16th** workshop at 6:00pm to 8:30pm
+at Indigo House. 
+(Facilitator: Hy Carrel)
+[Sign Up](/signups/writeon20240116/){: .btn .btn--success}
+
 {% comment %}
 Please check back here soon.
 Please **[sign in here](/signin/)** for our April 11th workshop.<br>
