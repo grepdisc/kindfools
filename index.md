@@ -18,8 +18,6 @@ all_posts:
 
 End-of-Year support for Kind Fools/Community Canvases [Donate or Volunteer here](
     https://communitycanvases.org/donate/){: .btn .btn--success}<br>
-**WRITE ON! workshop at 6pm Dec 19th** on Zoom [Info/Sign-up](
-    /writeon/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 1pm Jan 11th** at Masten Resource Center
     [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>

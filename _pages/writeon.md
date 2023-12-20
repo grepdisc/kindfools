@@ -10,11 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-RSVP for our **Tuesday December 19th** virtual workshop at 6:00pm to 8:30pm EST
-on Zoom. Please RSVP to receive the link.
-(Facilitator: Hy Carrel)
-[Sign Up](/signups/writeon20231219/){: .btn .btn--success}
-
 RSVP for our **Thursday January 11th** in-person workshop at 1:00pm to 3:30pm
 at [CAO Masten Resource Center](https://www.caowny.org/masten-resource-center/)
 at 1423 Fillmore Ave., Buffalo, NY 14211.
@@ -22,7 +17,7 @@ at 1423 Fillmore Ave., Buffalo, NY 14211.
 [Sign Up](/signups/writeon20240111/){: .btn .btn--success}
 
 RSVP for our **Thursday January 16th** workshop at 6:00pm to 8:30pm
-at Indigo House. 
+at [Indigo House](https://www.indigohousebuffalo.com). 
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20240116/){: .btn .btn--success}
 
@@ -32,6 +27,9 @@ Please **[sign in here](/signin/)** for our April 11th workshop.<br>
 {: .notice--info}
 **This *is* the page you are looking for. Please check back here often to find our upcoming workshops**
 {: .notice--info}
+RSVP for our **Tuesday December 19th** virtual workshop at 6:00pm to 8:30pm EST
+on Zoom. Please RSVP to receive the link.
+
 {% endcomment %}
 
 ## Our story 
@@ -99,9 +97,13 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - Our first WRITE ON workshop in Tonawanda was November 21at at Good Shepherd
   Lutheran Church. Thank you to everyone who braved the dark cold rain to
   write with us.
-- Thank you to Indigo House for hosing our December 7th WRITE ON on the West Side.
+- Thank you to Indigo House for hosing our December 7th WRITE ON on the
+  West Side.
 - It was an honor to host an abbreviated WRITE ON workshop on December 8th
   with 30 gentlemen in Buffalo City Mission's transiwtional housing program.
+- Thank you to a couple Faithful Fools from Chicago for joining our Buffalo
+  group on Zoom for our December 19, 2023 workshop featuring *Dogfish* by
+  Mary Oliver.
 
 
 
