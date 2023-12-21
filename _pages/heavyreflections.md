@@ -30,6 +30,8 @@ Together, we will present our work and celebrate this experience.<br>
 *Heavy: An American Memoir* is available from local bookstores such as [Talking Leaves](https://www.tleavesbooks.com/search/site/heavy),
 [Fitz Books](https://www.fitzbooks.net) and [Zawadi Books](https://www.facebook.com/zawadibooksbflo/).
 
+This project will include [WRITE ON workshops](/writeon/) and [Once Trees Book Club](https://www.educationtrainingcenterinc.com/groundandskypoetryseries).
+
 For more information on this collaboration between Kamau R.E. Fields
 and Community Canvases’ Kind Fools, please reach out to Hy Carrel
 at hy@kindfools.org or (716) 259-2725

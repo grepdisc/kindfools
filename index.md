@@ -18,7 +18,8 @@ all_posts:
 
 End-of-Year support for Kind Fools/Community Canvases [Donate or Volunteer here](
     https://communitycanvases.org/donate/){: .btn .btn--success}<br>
-**WRITE ON! workshop at 1pm Jan 11th** at Masten Resource Center
+**WRITE ON! workshop at 1pm Jan 11th** 
+    at [CAO Masten Resource Center](https://www.caowny.org/masten-resource-center/)
     [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 6pm Jan 16th** at Indigo House [Info/Sign-up](
