@@ -25,9 +25,9 @@ author:
 
 [Written at WRITE ON!](/writtenat/) is a series of articles written by participants during a [WRITE ON! workshop](/writeon), and shared with the community.
 
-Hy Carrel wrote this piece during Kind Fools' fourteenth WRITE ON! workshop.
-This is inspired by Rumi's poem [The Guest House](
-https://www.scottishpoetrylibrary.org.uk/poem/guest-house/).
+Hy Carrel wrote this piece during Kind Fools' fourteenth WRITE ON! workshop
+and was inspired by the poem "[The Guest House](
+https://www.scottishpoetrylibrary.org.uk/poem/guest-house/)" by Rumi.<br>
 
 ## I Am a Guest House
 
