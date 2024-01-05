@@ -16,7 +16,7 @@ at 1423 Fillmore Ave., Buffalo, NY 14211.
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20240111/){: .btn .btn--success}
 
-RSVP for our **Thursday January 16th** workshop at 6:00pm to 8:30pm
+RSVP for our **Tuesday January 16th** workshop at 6:00pm to 8:30pm
 at [Indigo House](https://www.indigohousebuffalo.com). 
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20240116/){: .btn .btn--success}
