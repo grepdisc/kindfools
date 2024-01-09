@@ -24,6 +24,8 @@ End-of-Year support for Kind Fools/Community Canvases [Donate or Volunteer here]
     /writeon/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 6pm Jan 16th** at Indigo House [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
+Racial Healing Circle at UUCB by NACS [Info/Sign-up](
+    https://brownpapertickets.com/event/6203269)
 Our partner - **Recovery Stories at 5:30pm Jan 22nd** [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
