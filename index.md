@@ -16,12 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-End-of-Year support for Kind Fools/Community Canvases [Donate or Volunteer here](
-    https://communitycanvases.org/donate/){: .btn .btn--success}<br>
-**WRITE ON! workshop at 1pm Jan 11th** 
-    at [CAO Masten Resource Center](https://www.caowny.org/masten-resource-center/)
-    [Info/Sign-up](
-    /writeon/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 6pm Jan 16th** at Indigo House [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
 Racial Healing Circle at UUCB by NACS [Info/Sign-up](
@@ -43,6 +37,8 @@ https://communitycanvases.org/events/){: .btn .btn--info}
     /events/hundredthousandpoets2023/){: .btn .btn--info}<br>
 {: .notice--success .maxwidthbox .align-center}
 
+End-of-Year support for Kind Fools/Community Canvases [Donate or Volunteer here](
+    https://communitycanvases.org/donate/){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:30pm Nov 27th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
 

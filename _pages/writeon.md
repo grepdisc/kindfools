@@ -10,12 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-RSVP for our **Thursday January 11th** in-person workshop at 1:00pm to 3:30pm
-at [CAO Masten Resource Center](https://www.caowny.org/masten-resource-center/)
-at 1423 Fillmore Ave., Buffalo, NY 14211.
-(Facilitator: Hy Carrel)
-[Sign Up](/signups/writeon20240111/){: .btn .btn--success}
-
 RSVP for our **Tuesday January 16th** workshop at 6:00pm to 8:30pm
 at [Indigo House](https://www.indigohousebuffalo.com). 
 (Facilitator: Hy Carrel)
@@ -104,6 +98,9 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - Thank you to a couple Faithful Fools from Chicago for joining our Buffalo
   group on Zoom for our December 19, 2023 workshop featuring *Dogfish* by
   Mary Oliver.
+- On Thursday January 11th, so many pillars of our community gathered at
+  [CAO Masten Resource Center](https://www.caowny.org/masten-resource-center/)
+  for the first WRITE ON of 2024.
 
 
 
