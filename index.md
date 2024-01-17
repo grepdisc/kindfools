@@ -16,7 +16,7 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Racial Healing Circle at UUCB by NACS [Info/Sign-up](
+POSTPONED: Racial Healing Circle at UUCB by NACS [Info/Sign-up](
     https://brownpapertickets.com/event/6203269){: .btn .btn--info}<br>
 Our partner - **Recovery Stories at 5:30pm Jan 22nd** [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
