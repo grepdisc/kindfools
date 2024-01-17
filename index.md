@@ -22,6 +22,9 @@ Our partner - **Recovery Stories at 5:30pm Jan 22nd** [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 6pm Feb 8th** at Big Big Table [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
+**The Woven Event** workshop at 6pm Feb 19th at Masten Resource Center
+   [Info/Sign-up](
+    /thewovenevent/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
