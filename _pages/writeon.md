@@ -10,10 +10,10 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-RSVP for our **Tuesday January 16th** workshop at 6:00pm to 8:30pm
-at [Indigo House](https://www.indigohousebuffalo.com). 
+RSVP for our **Thursday February 8th** workshop at 6:00pm to 8:30pm
+at [Big Big Table](https://www.bigbigtable.org). 
 (Facilitator: Hy Carrel)
-[Sign Up](/signups/writeon20240116/){: .btn .btn--success}
+[Sign Up](/signups/writeon20240208/){: .btn .btn--success}
 
 {% comment %}
 Please check back here soon.
@@ -98,10 +98,12 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - Thank you to a couple Faithful Fools from Chicago for joining our Buffalo
   group on Zoom for our December 19, 2023 workshop featuring *Dogfish* by
   Mary Oliver.
-- On Thursday January 11th, so many pillars of our community gathered at
+- On Thursday, January 11th, so many pillars of our community gathered at
   [CAO Masten Resource Center](https://www.caowny.org/masten-resource-center/)
   for the first WRITE ON of 2024.
-
+- On Tuesday, January 16th, people braved the cold to join us at Indigo House
+  and on Zoom for an evening of writing, inspired by words from Rev. Dr. Martin Luther
+  King, Jr.'s sermon, *Where Do We Go From Here?*
 
 
 How did you enjoy your WRITE ON! workshop? Please complete our [survey](/survey/).
