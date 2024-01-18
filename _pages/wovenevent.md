@@ -11,7 +11,7 @@ header:
 <br>
 # The Woven Event: Tell, Write, Share Monday, February 19, 2024
 
-We gather for a special event on February 19, 2024 at 6:00pm until 9:00pm at CAO's Masten Resource Center at 1423 Fillmore Ave, Buffalo, NY 14208.
+We gather for a special event on February 19, 2024 at 6:00pm until 9:00pm
 
 **The Woven Event** is a collaboration by the facilitators of 3 local poetry workshops to provide a single experience building on each of their strengths
 
