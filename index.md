@@ -18,8 +18,6 @@ all_posts:
 
 POSTPONED: Racial Healing Circle at UUCB by NACS [Info/Sign-up](
     https://brownpapertickets.com/event/6203269){: .btn .btn--info}<br>
-Our partner - **Recovery Stories at 5:30pm Jan 22nd** [Info/Sign-up](
-    /recoverystories/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 6pm Feb 8th** at Big Big Table [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
 **The Woven Event** workshop at 6pm Feb 19th 
@@ -36,6 +34,8 @@ https://communitycanvases.org/events/){: .btn .btn--info}
 **Starting July 2023 for young adults (writing & art)**<br>
 **Collaborative Community Art** [SIGN UP July 2023](https://communitycanvases.org/events/communityartsummer2023/){: .btn .btn--success .btn--large}<br>
 {: .notice--success .maxwidthbox .align-center}
+Our partner - **Recovery Stories at 5:30pm Jan 22nd** [Info/Sign-up](
+    /recoverystories/){: .btn .btn--info}<br>
 **100,000 Poets for Change Open Mic** 3pm September 30th [Info](
     /events/hundredthousandpoets2023/){: .btn .btn--info}<br>
 {: .notice--success .maxwidthbox .align-center}

@@ -15,6 +15,13 @@ at [Big Big Table](https://www.bigbigtable.org).
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20240208/){: .btn .btn--success}
 
+RSVP for **The Woven Event** workshop at 6pm Feb 19th
+at Inspiration Point. This will be a single workshop
+that flows from sharing like in Recovery Stories into writing
+like in WRITE ON! and then concluding with sharing like in
+Ground & Sky Poetry Series. [Info/Sign-up](
+    /thewovenevent/){: .btn .btn--info}<br>
+
 {% comment %}
 Please check back here soon.
 Please **[sign in here](/signin/)** for our April 11th workshop.<br>
