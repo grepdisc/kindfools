@@ -32,11 +32,13 @@ About the programs
 
 
 If you wish to let us know that you'll be joining us and want
-to receive updates before this event, please [RSVP here](
-    https://docs.google.com/forms/d/1C-QxjnGy1CrUCJsbJo27PL5mH04jz3FlTSZlJ-p4acE/viewform   
+to receive updates before this event, please [RSVP on Eventbrite](
+    https://www.eventbrite.com/e/the-woven-event-tell-write-share-tickets-814522277057
 ){: .btn .btn--large .btn--info}
 
-
+{% comment %}
+    https://docs.google.com/forms/d/1C-QxjnGy1CrUCJsbJo27PL5mH04jz3FlTSZlJ-p4acE/viewform   
+{% endcomment %}
 
 Do you have any questions? Please reach out to
 - Recovery Stories founder Samuel Floyd at **[mr.samuelfloyd@gmail.com](

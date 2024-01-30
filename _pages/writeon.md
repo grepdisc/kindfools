@@ -15,6 +15,11 @@ at [Big Big Table](https://www.bigbigtable.org).
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20240208/){: .btn .btn--success}
 
+RSVP for our **Wednesday February 14th** virtual workshop at 6:00pm to 8:30pm EST
+on Zoom. Please RSVP to receive the link.
+(Facilitator: Hy Carrel)
+[Sign Up](/signups/writeon20240214/){: .btn .btn--success}
+
 RSVP for **The Woven Event** workshop at 6pm Feb 19th
 at Inspiration Point. This will be a single workshop
 that flows from sharing like in Recovery Stories into writing
@@ -28,8 +33,6 @@ Please **[sign in here](/signin/)** for our April 11th workshop.<br>
 {: .notice--info}
 **This *is* the page you are looking for. Please check back here often to find our upcoming workshops**
 {: .notice--info}
-RSVP for our **Tuesday December 19th** virtual workshop at 6:00pm to 8:30pm EST
-on Zoom. Please RSVP to receive the link.
 
 {% endcomment %}
 

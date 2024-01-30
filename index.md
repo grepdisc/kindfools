@@ -16,10 +16,15 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-POSTPONED: Racial Healing Circle at UUCB by NACS [Info/Sign-up](
-    https://brownpapertickets.com/event/6203269){: .btn .btn--info}<br>
+**Community Swing** at 6pm on Jan 31st (live band) [Info](
+    https://www.facebook.com/communityswing
+    ){: .btn .btn--info}<br>
 **WRITE ON! workshop at 6pm Feb 8th** at Big Big Table [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
+**WRITE ON! workshop at 6pm Feb 14th** on Zoom [Info/Sign-up](
+    /writeon/){: .btn .btn--info}<br>
+**Racial Healing Circle at UUCB by NACS** [Info/Sign-up](
+    https://brownpapertickets.com/event/6234307){: .btn .btn--info}<br>
 **The Woven Event** workshop at 6pm Feb 19th 
    [Info/Sign-up](
     /thewovenevent/){: .btn .btn--info}<br>
@@ -44,6 +49,10 @@ End-of-Year support for Kind Fools/Community Canvases [Donate or Volunteer here]
     https://communitycanvases.org/donate/){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:30pm Nov 27th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
+
+**Grant Street Public Meeting** 5:30pm Jan 31 at M&T Bank at 130 Grant St
+    [Info](https://communitycanvases.org/grantstreetjan31/
+    ){: .btn .btn--info}<br>
 
 Please check back here soon for more WRITE ON workshops.
 {% endcomment %}
