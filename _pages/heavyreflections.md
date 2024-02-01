@@ -9,9 +9,9 @@ header:
 ---
 
 
-# "Heavy" Reflections is a proposed project for the Spring of 2024
+# "Heavy" Reflections is a collaborative project for the Spring of 2024
 
-This project could be supported by Just Buffalo Literary Center as part
+This project is supported by Just Buffalo Literary Center as part
 of their Civil Writes Project in concert with their BABEL Series
 featuring author [Kiese Laymon](https://www.kieselaymon.com), his memoir
 *Heavy: An American Memoir* and his [BABEL
@@ -35,3 +35,8 @@ This project will include [WRITE ON workshops](/writeon/) and [Once Trees Book C
 For more information on this collaboration between Kamau R.E. Fields
 and Community Canvases’ Kind Fools, please reach out to Hy Carrel
 at hy@kindfools.org or (716) 259-2725
+
+<figure style="max-width: 599px" class="align-center">
+  <img src="/assets/images/JB-Civil-Writes-fade-white-RECT_reduced.jpg"
+   alt="Civil Writes Project logo">
+</figure>
