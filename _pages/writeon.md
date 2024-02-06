@@ -27,6 +27,16 @@ like in WRITE ON! and then concluding with sharing like in
 Ground & Sky Poetry Series. [Info/Sign-up](
     /thewovenevent/){: .btn .btn--info}<br>
 
+RSVP for our **Thursday March 7th** workshop at 1:00pm to 3:30pm
+at CAO's Masten Resource Center.
+(Facilitator: Hy Carrel)
+[Sign Up](/signups/writeon20240307/){: .btn .btn--success}
+
+RSVP for our **Tuesday March 12th** workshop at 6:00pm to 8:30pm
+at Unitarian Universalist Church of Buffalo (UUCB).
+(Facilitator: Hy Carrel)
+[Sign Up](/signups/writeon20240312/){: .btn .btn--success}
+
 {% comment %}
 Please check back here soon.
 Please **[sign in here](/signin/)** for our April 11th workshop.<br>
