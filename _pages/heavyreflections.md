@@ -22,6 +22,11 @@ The goal of this project is to provide community members a continuing
 opportunity to reflect deeply on their personal experiences and on how
 they relate to Kiese Laymon’s memoir and BABEL discussion.
 
+
+Learn more by completing our [Interest Form](
+https://docs.google.com/forms/d/1V5WlFJEmsBo4g0GcSn2-xyRqVC6bL5AchP3djFvUN44/viewform
+){: .btn .btn--large .btn--success}
+
 Together, we will read and discuss Heavy.<br>
 Together, we will attend Kiese Laymon's BABEL discussion.<br>
 Together, we write our truth as it connects with his work.<br>

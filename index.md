@@ -25,6 +25,8 @@ all_posts:
 **The Woven Event** workshop at 6pm Feb 19th 
    [Info/Sign-up](
     /thewovenevent/){: .btn .btn--info}<br>
+**Heavy Reflections** a part of of JBLC's Civil Writes Project
+   [Learn More](/heavyreflections/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
