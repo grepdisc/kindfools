@@ -16,7 +16,7 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON! workshop at 6pm Feb 8th** at Big Big Table [Info/Sign-up](
+**Tonight: WRITE ON! workshop at 6pm Feb 8th** at BBT [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 6pm Feb 14th** on Zoom [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
