@@ -114,7 +114,7 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - Thank you to Indigo House for hosing our December 7th WRITE ON on the
   West Side.
 - It was an honor to host an abbreviated WRITE ON workshop on December 8th
-  with 30 gentlemen in Buffalo City Mission's transiwtional housing program.
+  with 30 gentlemen in Buffalo City Mission's transitional housing program.
 - Thank you to a couple Faithful Fools from Chicago for joining our Buffalo
   group on Zoom for our December 19, 2023 workshop featuring *Dogfish* by
   Mary Oliver.
