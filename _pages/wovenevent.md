@@ -36,6 +36,11 @@ to receive updates before this event, please [RSVP on Eventbrite](
     https://www.eventbrite.com/e/the-woven-event-tell-write-share-tickets-814522277057
 ){: .btn .btn--large .btn--info}
 
+<figure style="max-width: 1080px" class="align-center">
+  <img src="/assets/images/woveneventflyer20240219.jpg"
+   alt="Woven Event Poster">
+</figure> 
+
 {% comment %}
     https://docs.google.com/forms/d/1C-QxjnGy1CrUCJsbJo27PL5mH04jz3FlTSZlJ-p4acE/viewform   
 {% endcomment %}
