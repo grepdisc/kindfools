@@ -18,6 +18,9 @@ all_posts:
 
 **WRITE ON! workshop at 6pm Feb 14th** on Zoom [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
+Partner Event: Service & Spirituality [Info/Sign-up](
+    https://www.eventbrite.com/e/spirituality-in-everyday-life-workshop-series-service-tickets-811288544877
+    ){: .btn .btn--info}<br>
 **Racial Healing Circle at UUCB by NACS 1pm Feb 19th** [Info/Sign-up](
     https://brownpapertickets.com/event/6234307){: .btn .btn--info}<br>
 **The Woven Event** workshop at 6pm Feb 19th 
