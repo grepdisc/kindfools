@@ -10,11 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-RSVP for our **Thursday February 8th** workshop at 6:00pm to 8:30pm
-at [Big Big Table](https://www.bigbigtable.org). 
-(Facilitator: Hy Carrel)
-[Sign Up](/signups/writeon20240208/){: .btn .btn--success}
-
 RSVP for our **Wednesday February 14th** virtual workshop at 6:00pm to 8:30pm EST
 on Zoom. Please RSVP to receive the link.
 (Facilitator: Hy Carrel)
@@ -124,6 +119,10 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - On Tuesday, January 16th, people braved the cold to join us at Indigo House
   and on Zoom for an evening of writing, inspired by words from Rev. Dr. Martin Luther
   King, Jr.'s sermon, *Where Do We Go From Here?*
+- On Thursday February 8th, we packed [Big Big Table](https://www.bigbigtable.org)
+  with our words and wrote inspired by Buckminster Fuller's foreword to [Critical Path](
+  https://en.wikipedia.org/wiki/Critical_Path_(book))
+  and by each other.
 
 
 How did you enjoy your WRITE ON! workshop? Please complete our [survey](/survey/).

@@ -16,8 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**Tonight: WRITE ON! workshop at 6pm Feb 8th** at BBT [Info/Sign-up](
-    /writeon/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 6pm Feb 14th** on Zoom [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
 **Racial Healing Circle at UUCB by NACS 1pm Feb 19th** [Info/Sign-up](
