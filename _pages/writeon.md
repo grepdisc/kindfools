@@ -10,10 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-RSVP for our **Wednesday February 14th** virtual workshop at 6:00pm to 8:30pm EST
-on Zoom. Please RSVP to receive the link.
-(Facilitator: Hy Carrel)
-[Sign Up](/signups/writeon20240214/){: .btn .btn--success}
 
 RSVP for **The Woven Event** workshop at 6pm Feb 19th
 at Inspiration Point. This will be a single workshop
@@ -33,6 +29,10 @@ at Unitarian Universalist Church of Buffalo (UUCB).
 [Sign Up](/signups/writeon20240312/){: .btn .btn--success}
 
 {% comment %}
+RSVP for our **Wednesday February 14th** virtual workshop at 6:00pm to 8:30pm EST
+on Zoom. Please RSVP to receive the link.
+(Facilitator: Hy Carrel)
+[Sign Up](/signups/writeon20240214/){: .btn .btn--success}
 Please check back here soon.
 Please **[sign in here](/signin/)** for our April 11th workshop.<br>
 {: .notice--info}
@@ -123,6 +123,8 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
   with our words and wrote inspired by Buckminster Fuller's foreword to [Critical Path](
   https://en.wikipedia.org/wiki/Critical_Path_(book))
   and by each other.
+- We celebrated Valentine's Day 2024 writing together about love over Zoom with
+  creative souls from across Buffalo, Syracuse and Toronto too.
 
 
 How did you enjoy your WRITE ON! workshop? Please complete our [survey](/survey/).

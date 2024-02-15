@@ -16,9 +16,7 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON! workshop at 6pm Feb 14th** on Zoom [Info/Sign-up](
-    /writeon/){: .btn .btn--info}<br>
-Partner Event: Service & Spirituality [Info/Sign-up](
+Partner Event: Service & Spirituality Feb 17th [Info/Sign-up](
     https://www.eventbrite.com/e/spirituality-in-everyday-life-workshop-series-service-tickets-811288544877
     ){: .btn .btn--info}<br>
 **Racial Healing Circle at UUCB by NACS 1pm Feb 19th** [Info/Sign-up](
@@ -28,6 +26,10 @@ Partner Event: Service & Spirituality [Info/Sign-up](
     /thewovenevent/){: .btn .btn--info}<br>
 **Heavy Reflections** a part of of JBLC's Civil Writes Project
    [Learn More](/heavyreflections/){: .btn .btn--info}<br>
+**WRITE ON! workshop at 1pm Mar 7th** at Masten Resource Center [Info/Sign-up](
+    /writeon/){: .btn .btn--info}<br>
+**WRITE ON! workshop at 6pm Mar 12th** at UUCB [Info/Sign-up](
+    /writeon/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
