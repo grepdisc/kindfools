@@ -16,14 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Partner Event: Service & Spirituality Feb 17th [Info/Sign-up](
-    https://www.eventbrite.com/e/spirituality-in-everyday-life-workshop-series-service-tickets-811288544877
-    ){: .btn .btn--info}<br>
-**Racial Healing Circle at UUCB by NACS 1pm Feb 19th** [Info/Sign-up](
-    https://brownpapertickets.com/event/6234307){: .btn .btn--info}<br>
-**The Woven Event** workshop at 6pm Feb 19th 
-   [Info/Sign-up](
-    /thewovenevent/){: .btn .btn--info}<br>
 **Heavy Reflections** a part of of JBLC's Civil Writes Project
    [Learn More](/heavyreflections/){: .btn .btn--info}<br>
 **WRITE ON! workshop at 1pm Mar 7th** at Masten Resource Center [Info/Sign-up](
@@ -38,6 +30,11 @@ https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+Partner Event: Service & Spirituality Feb 17th [Info/Sign-up](
+    https://www.eventbrite.com/e/spirituality-in-everyday-life-workshop-series-service-tickets-811288544877
+    ){: .btn .btn--info}<br>
+**Racial Healing Circle at UUCB by NACS 1pm Feb 19th** [Info/Sign-up](
+    https://brownpapertickets.com/event/6234307){: .btn .btn--info}<br>
 **Community Swing** at 6pm on Jan 31st (live band) [Info](
     https://www.facebook.com/communityswing
     ){: .btn .btn--info}<br>

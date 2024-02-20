@@ -10,14 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-
-RSVP for **The Woven Event** workshop at 6pm Feb 19th
-at Inspiration Point. This will be a single workshop
-that flows from sharing like in Recovery Stories into writing
-like in WRITE ON! and then concluding with sharing like in
-Ground & Sky Poetry Series. [Info/Sign-up](
-    /thewovenevent/){: .btn .btn--info}<br>
-
 RSVP for our **Thursday March 7th** workshop at 1:00pm to 3:30pm
 at CAO's Masten Resource Center.
 (Facilitator: Hy Carrel)
@@ -125,6 +117,11 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
   and by each other.
 - We celebrated Valentine's Day 2024 writing together about love over Zoom with
   creative souls from across Buffalo, Syracuse and Toronto too.
+- On Monday Feb 19th, we gathered at Inspiration Point for our first "Woven Event."
+  This single workshop flowed from sharing like in Recovery Stories into writing
+  like in WRITE ON! and then concluding with sharing like in Ground & Sky Poetry
+  Series. [Info](/thewovenevent/){: .btn .btn--info}<br>
+
 
 
 How did you enjoy your WRITE ON! workshop? Please complete our [survey](/survey/).
