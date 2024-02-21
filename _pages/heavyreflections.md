@@ -16,7 +16,7 @@ of their Civil Writes Project in concert with their BABEL Series
 featuring author [Kiese Laymon](https://www.kieselaymon.com), his memoir
 *Heavy: An American Memoir* and his [BABEL
 discussion](https://www.justbuffalo.org/events/babel-kiese-laymon-2024-04-25/)
-on Thursdaym, April 25, 2024.
+on Thursday, April 25, 2024.
 
 The goal of this project is to provide community members a continuing
 opportunity to reflect deeply on their personal experiences and on how
