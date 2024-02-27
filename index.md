@@ -18,10 +18,12 @@ all_posts:
 
 **Heavy Reflections** a part of of JBLC's Civil Writes Project
    [Learn More](/heavyreflections/){: .btn .btn--info}<br>
-**WRITE ON! workshop at 1pm Mar 7th** at Masten Resource Center [Info/Sign-up](
+**WRITE ON! March 7th at 1pm** at CAO's MRC [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
-**WRITE ON! workshop at 6pm Mar 12th** at UUCB [Info/Sign-up](
+**WRITE ON! March 12th at 6pm** at UUCB [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
+**WNY Trash Mob's Earth Day Clean Up Challenge 2024** [Details/Sign-up](
+    https://communitycanvases.org/earthday2024/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
