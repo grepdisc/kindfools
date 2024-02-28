@@ -11,7 +11,7 @@ header:
 <br>
 # The Woven Event: Tell, Write, Share Monday, February 19, 2024
 
-We gather for a special event on February 19, 2024 at 6:00pm until 9:00pm at Inspiration Point located at 483 Elmwood Avenue, Buffalo, NY 14222.
+Thank you to everyone who joined us for our first Woven Event, which ran from 6:00pm until 9:00pm at Inspiration Point located at 483 Elmwood Avenue, Buffalo, NY 14222. Please check back for updates on upcoming Woven Events, tentatively scheduled for June and October of 2024.
 
 **The Woven Event** is a collaboration by the facilitators of 3 local poetry workshops to provide a single experience building on each of their strengths
 
