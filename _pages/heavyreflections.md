@@ -22,9 +22,9 @@ The goal of this project is to provide community members a continuing
 opportunity to reflect deeply on their personal experiences and on how
 they relate to Kiese Laymon’s memoir and BABEL discussion.
 
-
-Learn more by completing our [Interest Form](
-https://docs.google.com/forms/d/1V5WlFJEmsBo4g0GcSn2-xyRqVC6bL5AchP3djFvUN44/viewform
+Please express your interest in participating in this program by completing
+our [Brief Application](
+https://docs.google.com/forms/d/1HjMHp2qVEOjTPA54LD_atybzF8G4BCmrJpfzme8vCxg/viewform
 ){: .btn .btn--large .btn--success}
 
 Together, we will read and discuss Heavy.<br>
@@ -45,3 +45,13 @@ at hy@kindfools.org or (716) 259-2725
   <img src="/assets/images/JB-Civil-Writes-fade-white-RECT_reduced.jpg"
    alt="Civil Writes Project logo">
 </figure>
+
+<figure style="max-width: 1080px" class="align-center">
+  <img src="/assets/images/Heavy-Reflections-IG.jpg"
+   alt="Heavy Reflections Flyer">
+</figure>
+
+[Apply Now](
+https://docs.google.com/forms/d/1HjMHp2qVEOjTPA54LD_atybzF8G4BCmrJpfzme8vCxg/viewform
+){: .btn .btn--large .btn--success}
+{: style="text-align: center;"}
