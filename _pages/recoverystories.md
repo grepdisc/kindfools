@@ -24,7 +24,7 @@ Recovery Stories - an accepting space to share poems and stories of recovery.
 
 # Prior Recovery Stories
 
-- February 19, 2024 as part of The Woven Event at Inspiration Point
+- February 19, 2024 as part of [The Woven Event](/thewovenevent/) at Inspiration Point
 - January 22, 2024 at Fitz Books & Waffles
 - November 27, 2023 at Sol Rise Farm and Cultural Arts Center
 - September 30, 2023 at Merriweather Library as part of 100,000 Poets for Change
