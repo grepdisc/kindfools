@@ -9,7 +9,7 @@ header:
 ---
 
 
-# Recovery Stories on Monday, January 22, 2024
+# Recovery Stories on Monday, March 18, 2024
 
 Recovery Stories - an accepting space to share poems and stories of recovery.
 
@@ -17,13 +17,15 @@ Recovery Stories - an accepting space to share poems and stories of recovery.
 
 
 <figure style="max-width: 966px" class="align-center">
-  <img src="/assets/images/recoverystoriesflyer20240122.jpg"
+  <img src="/assets/images/recoverystoriesflyer20240318.jpg"
    alt="Recovery Stories Poster">
 </figure> 
 
 
 # Prior Recovery Stories
 
+- February 19, 2024 as part of The Woven Event at Inspiration Point
+- January 22, 2024 at Fitz Books & Waffles
 - November 27, 2023 at Sol Rise Farm and Cultural Arts Center
 - September 30, 2023 at Merriweather Library as part of 100,000 Poets for Change
 

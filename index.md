@@ -27,6 +27,8 @@ all_posts:
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
+Our partner - **Recovery Stories at 5:30pm March 18th** [Info/Sign-up](
+    /recoverystories/){: .btn .btn--info}<br>
 All Community Canvases [Events](
 https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
