@@ -20,6 +20,11 @@ at Unitarian Universalist Church of Buffalo (UUCB).
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20240312/){: .btn .btn--success}
 
+RSVP for our **Thursday March 28th** workshop at 6:00pm to 8:30pm
+at Indigo House.
+(Facilitator: Hy Carrel)
+[Sign Up](/signups/writeon20240328/){: .btn .btn--success}
+
 {% comment %}
 RSVP for our **Wednesday February 14th** virtual workshop at 6:00pm to 8:30pm EST
 on Zoom. Please RSVP to receive the link.
