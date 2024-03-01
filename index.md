@@ -16,7 +16,7 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**"Heavy" Reflections** part of Just Buffalo's Civil Writes Project
+**"Heavy" Reflections** part of the Civil Writes Project
    [Learn More](/heavyreflections/){: .btn .btn--success}<br>
 **WRITE ON! March 7th at 1:00pm** at CAO's MRC [Info/Sign-up](
     /writeon/){: .btn .btn--success}<br>
