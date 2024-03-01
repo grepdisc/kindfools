@@ -16,11 +16,11 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**Heavy Reflections** a part of of JBLC's Civil Writes Project
+**"Heavy" Reflections** part of Just Buffalo's Civil Writes Project
    [Learn More](/heavyreflections/){: .btn .btn--info}<br>
-**WRITE ON! March 7th at 1pm** at CAO's MRC [Info/Sign-up](
+**WRITE ON! March 7th at 1:00pm** at CAO's MRC [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
-**WRITE ON! March 12th at 6pm** at UUCB [Info/Sign-up](
+**WRITE ON! March 12th at 6_00pm** at UUCB [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
 **WNY Trash Mob's Earth Day Clean Up Challenge 2024** [Details/Sign-up](
     https://communitycanvases.org/earthday2024/){: .btn .btn--info}<br>
