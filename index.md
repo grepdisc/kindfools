@@ -20,7 +20,7 @@ all_posts:
    [Learn More](/heavyreflections/){: .btn .btn--success}<br>
 **WRITE ON! March 7th at 1:00pm** at CAO's MRC [Info/Sign-up](
     /writeon/){: .btn .btn--success}<br>
-**WRITE ON! March 12th at 6_00pm** at UUCB [Info/Sign-up](
+**WRITE ON! March 12th at 6:00pm** at UUCB [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
 **WNY Trash Mob's Earth Day Clean Up Challenge 2024** [Details/Sign-up](
     https://communitycanvases.org/earthday2024/){: .btn .btn--info}<br>
