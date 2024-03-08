@@ -10,11 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-RSVP for our **Thursday March 7th** workshop at 1:00pm to 3:30pm
-at CAO's Masten Resource Center.
-(Facilitator: Hy Carrel)
-[Sign Up](/signups/writeon20240307/){: .btn .btn--success}
-
 RSVP for our **Tuesday March 12th** workshop at 6:00pm to 8:30pm
 at Unitarian Universalist Church of Buffalo (UUCB).
 (Facilitator: Hy Carrel)
@@ -126,6 +121,9 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
   This single workshop flowed from sharing like in Recovery Stories into writing
   like in WRITE ON! and then concluding with sharing like in Ground & Sky Poetry
   Series. [Info](/thewovenevent/){: .btn .btn--info}<br>
+- On Thursday, March 7th, a few people gathered to write about time, change,
+  spaced time, and feelings, ideas & stories at
+  [CAO Masten Resource Center](https://www.caowny.org/masten-resource-center/).
 
 
 

@@ -18,8 +18,6 @@ all_posts:
 
 **"Heavy" Reflections** part of the Civil Writes Project
    [Learn More](/heavyreflections/){: .btn .btn--success}<br>
-**WRITE ON! March 7th at 1:00pm** at CAO's MRC [Info/Sign-up](
-    /writeon/){: .btn .btn--success}<br>
 **WRITE ON! March 12th at 6:00pm** at UUCB [Info/Sign-up](
     /writeon/){: .btn .btn--info}<br>
 **WNY Trash Mob's Earth Day Clean Up Challenge 2024** [Details/Sign-up](
@@ -29,6 +27,8 @@ Signal Box Art Project [Info/Application](
     ){: .btn .btn--info}<br>
 Our partner - **Recovery Stories at 5:30pm March 18th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
+**WRITE ON! March 28th at 6:00pm** at Indigo House [Info/Sign-up](
+    /writeon/){: .btn .btn--success}<br>
 All Community Canvases [Events](
 https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
