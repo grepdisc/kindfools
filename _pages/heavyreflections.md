@@ -22,20 +22,44 @@ The goal of this project is to provide community members a continuing
 opportunity to reflect deeply on their personal experiences and on how
 they relate to Kiese Laymon’s memoir and BABEL discussion.
 
-Please express your interest in participating in this program by completing
+Please express your interest in joining a core group of people participating in the following activities this spring by completing
 our [Brief Application](
 https://docs.google.com/forms/d/1HjMHp2qVEOjTPA54LD_atybzF8G4BCmrJpfzme8vCxg/viewform
 ){: .btn .btn--large .btn--success}
 
+There is no cost to participate and most of the activities are open to people beyond this core group.
+
+### Activities:
+- *Friday, March 22 5pm* Final date [to apply](
+    https://docs.google.com/forms/d/1HjMHp2qVEOjTPA54LD_atybzF8G4BCmrJpfzme8vCxg/viewform
+    ) to join the core group
+- *Thursday, April 4 5pm-6pm* Welcome Gathering for core group (books distributed)
+- *Thursday, April 25 7pm-10pm* Kiese Laymon's [BABEL talk](
+    https://www.justbuffalo.org/events/babel-kiese-laymon-2024-04-25/
+  ) (complimentary admission for core group)
+- *Monday, May 6 at 7pm* [Once Trees Book Club](
+    https://www.educationtrainingcenterinc.com/groundandskypoetryseries
+    ) discussion of "Heavy"
+- *Thursday, May 9 1:00pm* [WRITE ON](/writeon/) intuitive writing group inspired by "Heavy"
+- *Tuesday, May 14 6:00pm* WRITE ON intuitive writing group inspired by "Heavy"
+- *Tuesday, May 21* TBD WRITE ON intuitive writing group inspired by "Heavy"
+- *Saturday, June 22* 1:00pm Celebration of writings by core group
+
+{% comment %}
 Together, we will read and discuss Heavy.<br>
 Together, we will attend Kiese Laymon's BABEL discussion.<br>
 Together, we write our truth as it connects with his work.<br>
 Together, we will present our work and celebrate this experience.<br>
+{% endcomment %}
 
 *Heavy: An American Memoir* is available from local bookstores such as [Talking Leaves](https://www.tleavesbooks.com/search/site/heavy),
 [Fitz Books](https://www.fitzbooks.net) and [Zawadi Books](https://www.facebook.com/zawadibooksbflo/).
 
 This project will include [WRITE ON workshops](/writeon/) and [Once Trees Book Club](https://www.educationtrainingcenterinc.com/groundandskypoetryseries).
+
+
+
+
 
 For more information on this collaboration between Kamau R.E. Fields
 and Community Canvases’ Kind Fools, please reach out to Hy Carrel
