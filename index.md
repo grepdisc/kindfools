@@ -17,18 +17,16 @@ all_posts:
 {: .text-center}
 
 **"Heavy" Reflections** part of the Civil Writes Project
-   [Learn More](/heavyreflections/){: .btn .btn--success}<br>
-**WRITE ON! March 12th at 6:00pm** at UUCB [Info/Sign-up](
-    /writeon/){: .btn .btn--info}<br>
+   [Apply by March 22nd](/heavyreflections/){: .btn .btn--success}<br>
+Our partner - **Recovery Stories at 5:30pm March 18th** [Info/Sign-up](
+    /recoverystories/){: .btn .btn--info}<br>
+**WRITE ON! March 28th at 6:00pm** at Indigo House [Info/Sign-up](
+    /writeon/){: .btn .btn--success}<br>
 **WNY Trash Mob's Earth Day Clean Up Challenge 2024** [Details/Sign-up](
     https://communitycanvases.org/earthday2024/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
-Our partner - **Recovery Stories at 5:30pm March 18th** [Info/Sign-up](
-    /recoverystories/){: .btn .btn--info}<br>
-**WRITE ON! March 28th at 6:00pm** at Indigo House [Info/Sign-up](
-    /writeon/){: .btn .btn--success}<br>
 All Community Canvases [Events](
 https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}

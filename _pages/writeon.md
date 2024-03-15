@@ -10,15 +10,15 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-RSVP for our **Tuesday March 12th** workshop at 6:00pm to 8:30pm
-at Unitarian Universalist Church of Buffalo (UUCB).
-(Facilitator: Hy Carrel)
-[Sign Up](/signups/writeon20240312/){: .btn .btn--success}
-
 RSVP for our **Thursday March 28th** workshop at 6:00pm to 8:30pm
 at Indigo House.
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20240328/){: .btn .btn--success}
+
+Several WRITE ON workshops will be held in May in partnership with
+**"Heavy" Reflections** part of the Civil Writes Project. Please complete
+a brief application by March 22, 2024 to express your interest.
+[Learn More](/heavyreflections/){: .btn .btn--success}<br>
 
 {% comment %}
 RSVP for our **Wednesday February 14th** virtual workshop at 6:00pm to 8:30pm EST
@@ -124,6 +124,9 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - On Thursday, March 7th, a few people gathered to write about time, change,
   spaced time, and feelings, ideas & stories at
   [CAO Masten Resource Center](https://www.caowny.org/masten-resource-center/).
+- Our first workshop at the Unitarian Universalist Church of Buffalo (UUCB)
+  was on March 12, 2024. We wrote inspired by Hamlet's "To Be, Or Not To Be."
+
 
 
 
