@@ -18,8 +18,6 @@ all_posts:
 
 **"Heavy" Reflections** part of the Civil Writes Project
    [Apply by March 22nd](/heavyreflections/){: .btn .btn--success}<br>
-Our partner - **Recovery Stories at 5:30pm March 18th** [Info/Sign-up](
-    /recoverystories/){: .btn .btn--info}<br>
 **WRITE ON! March 28th at 6:00pm** at Indigo House [Info/Sign-up](
     /writeon/){: .btn .btn--success}<br>
 **WNY Trash Mob's Earth Day Clean Up Challenge 2024** [Details/Sign-up](
@@ -32,6 +30,8 @@ https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+Our partner - **Recovery Stories at 5:30pm March 18th** [Info/Sign-up](
+    /recoverystories/){: .btn .btn--info}<br>
 Partner Event: Service & Spirituality Feb 17th [Info/Sign-up](
     https://www.eventbrite.com/e/spirituality-in-everyday-life-workshop-series-service-tickets-811288544877
     ){: .btn .btn--info}<br>
