@@ -37,11 +37,11 @@ There is no cost to participate and most of the activities are open to people be
 - *Thursday, April 25 7pm-10pm* Kiese Laymon's [BABEL talk](
     https://www.justbuffalo.org/events/babel-kiese-laymon-2024-04-25/
   ) (complimentary admission for core group)
+- *Thursday, May 2 6:00pm-8:30pm* WRITE ON intuitive writing group inspired by "Heavy"
 - *Monday, May 6 at 7pm-8:30pm* [Once Trees Book Club](
     https://www.educationtrainingcenterinc.com/groundandskypoetryseries
     ) discussion of "Heavy"
 - *Thursday, May 9 1:00pm-3:30pm* [WRITE ON](/writeon/) intuitive writing group inspired by "Heavy"
-- *Tuesday, May 14 6:00pm-8:30pm* WRITE ON intuitive writing group inspired by "Heavy"
 - *Tuesday, May 21* TBD WRITE ON intuitive writing group inspired by "Heavy"
 - *Saturday, June 22* 1:00-3pm Celebration of publication of writings by core group
 
