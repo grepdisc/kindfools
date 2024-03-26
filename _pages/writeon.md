@@ -15,6 +15,11 @@ at Indigo House.
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20240328/){: .btn .btn--success}
 
+RSVP for our **Tuesday April 9th** workshop at 6:00pm to 8:30pm
+at TBD. Join us to write on the experience of the Totality.
+(Facilitator: Hy Carrel)
+[Sign Up](/signups/writeon20240409/){: .btn .btn--success}
+
 Several WRITE ON workshops will be held in May in partnership with
 **"Heavy" Reflections** part of the Civil Writes Project. Please complete
 a brief application by March 22, 2024 to express your interest.
