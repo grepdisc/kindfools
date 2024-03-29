@@ -16,12 +16,12 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**"Heavy" Reflections** part of the Civil Writes Project
-   [Apply by March 22nd](/heavyreflections/){: .btn .btn--success}<br>
-**WRITE ON! March 28th at 6:00pm** at Indigo House [Info/Sign-up](
-    /writeon/){: .btn .btn--success}<br>
 **WNY Trash Mob's Earth Day Clean Up Challenge 2024** [Details/Sign-up](
     https://communitycanvases.org/earthday2024/){: .btn .btn--info}<br>
+**WRITE ON! April 9th at 6:00pm** on Zoom [Info/Sign-up](
+    /writeon/){: .btn .btn--success}<br>
+**"Heavy" Reflections** part of the Civil Writes Project
+   [Info](/heavyreflections/){: .btn .btn--success}<br>
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
