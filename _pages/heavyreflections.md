@@ -22,12 +22,13 @@ The goal of this project is to provide community members a continuing
 opportunity to reflect deeply on their personal experiences and on how
 they relate to Kiese Laymon’s memoir and BABEL discussion.
 
-Please express your interest in joining a core group of people participating in the following activities this spring by completing
-our [Brief Application](
+Our core group has been selected. Thank you to everyone who submitted an application.
+If you want to join a waiting list or to learn about the upcoming activities, you
+are still welcome to submitt this [Interest Form](
 https://docs.google.com/forms/d/1HjMHp2qVEOjTPA54LD_atybzF8G4BCmrJpfzme8vCxg/viewform
 ){: .btn .btn--large .btn--success}
 
-There is no cost to participate and most of the activities are open to people beyond this core group.
+There is no cost to participate and most of the activities are open to Everyone.
 
 ### Activities:
 - *Friday, March 22 5pm* Final date [to apply](
