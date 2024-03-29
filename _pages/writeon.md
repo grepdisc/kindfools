@@ -126,7 +126,7 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
   [CAO Masten Resource Center](https://www.caowny.org/masten-resource-center/).
 - Our first workshop at the Unitarian Universalist Church of Buffalo (UUCB)
   was on March 12, 2024. We wrote inspired by Hamlet's "To Be, Or Not To Be."
-- Thank you Indigo House for hosting 17 of us on March 28, 2024 to write our hearts
+- Thank you Indigo House for hosting 18 of us on March 28, 2024 to write our hearts
   out on topics of time, stopping, and confronting our past with the support of
   our present artistic insight and the support of this community, inspired by
   Douglas Adam's *Hitchhikers' Guide to the Galaxy.* 
