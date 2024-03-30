@@ -15,9 +15,9 @@ on Zoom. Join us to write on the experience of the Totality.
 (Facilitator: Hy Carrel)
 [Sign Up](/signups/writeon20240409/){: .btn .btn--success}
 
-Several WRITE ON workshops will be held in May in partnership with
-**"Heavy" Reflections** part of the Civil Writes Project. Please complete
-a brief application by March 22, 2024 to express your interest.
+WRITE ON workshops will be held on May 2nd, 9th and 21st in
+partnership with **"Heavy" Reflections** part of the
+Civil Writes Project.
 [Learn More](/heavyreflections/){: .btn .btn--success}<br>
 
 {% comment %}

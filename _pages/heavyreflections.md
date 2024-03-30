@@ -24,7 +24,7 @@ they relate to Kiese Laymon’s memoir and BABEL discussion.
 
 Our core group has been selected. Thank you to everyone who submitted an application.
 If you want to join a waiting list or to learn about the upcoming activities, you
-are still welcome to submitt this [Interest Form](
+are still welcome to submit this [Interest Form](
 https://docs.google.com/forms/d/1HjMHp2qVEOjTPA54LD_atybzF8G4BCmrJpfzme8vCxg/viewform
 ){: .btn .btn--large .btn--success}
 
