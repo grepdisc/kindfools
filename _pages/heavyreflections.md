@@ -42,8 +42,8 @@ Fortunately, the below activities are open to whomever wants to join.
     ) discussion of "Heavy"
 - *Thursday, May 9 1:00pm-3:30pm* [WRITE ON](/writeon/) intuitive writing group inspired by "Heavy"
 [Sign Up](/signups/writeon20240509/){: .btn .btn--success}
-- *Tuesday, May 21* TBD WRITE ON intuitive writing group inspired by "Heavy"
-- *Saturday, June 22* 1:00-3pm Celebration of publication of writings by core group
+- *Tuesday, May 21* 6:00pm-8:30pm WRITE ON intuitive writing group inspired by "Heavy"
+- *Saturday, June 22* 1:00-3:00pm Celebration/Presentation at Fitz Books & Waffles of publication of writings by core group
 
 {% comment %}
 Together, we will read and discuss Heavy.<br>
