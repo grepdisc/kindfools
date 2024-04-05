@@ -20,6 +20,15 @@ partnership with **"Heavy" Reflections** part of the
 Civil Writes Project.
 [Learn More](/heavyreflections/){: .btn .btn--success}<br>
 
+- *Thursday, May 2 6:00pm-8:30pm* WRITE ON intuitive writing group inspired by "Heavy"
+[Sign Up](/signups/writeon20240502/){: .btn .btn--success}
+- *Monday, May 6 at 7pm-8:30pm* [Once Trees Book Club](
+    https://www.educationtrainingcenterinc.com/groundandskypoetryseries
+    ) discussion of "Heavy"
+
+- *Thursday, May 9 1:00pm-3:30pm* [WRITE ON](/writeon/) intuitive writing group inspired by "Heavy"
+[Sign Up](/signups/writeon20240509/){: .btn .btn--success}
+
 {% comment %}
 RSVP for our **Wednesday February 14th** virtual workshop at 6:00pm to 8:30pm EST
 on Zoom. Please RSVP to receive the link.

@@ -22,27 +22,26 @@ The goal of this project is to provide community members a continuing
 opportunity to reflect deeply on their personal experiences and on how
 they relate to Kiese Laymon’s memoir and BABEL discussion.
 
-Our core group has been selected. Thank you to everyone who submitted an application.
-If you want to join a waiting list or to learn about the upcoming activities, you
-are still welcome to submit this [Interest Form](
-https://docs.google.com/forms/d/1HjMHp2qVEOjTPA54LD_atybzF8G4BCmrJpfzme8vCxg/viewform
-){: .btn .btn--large .btn--success}
-
-There is no cost to participate and most of the activities are open to Everyone.
+Our core group has been selected. Thank you to everyone who expressed interest.
+Fortunately, the below activities are open to whomever wants to join.
 
 ### Activities:
+{% comment %}
 - *Friday, March 22 5pm* Final date [to apply](
     https://docs.google.com/forms/d/1HjMHp2qVEOjTPA54LD_atybzF8G4BCmrJpfzme8vCxg/viewform
     ) to join the core group
+{% endcomment %}
 - *Thursday, April 4 5pm-6pm* Welcome Gathering for core group (books distributed)
 - *Thursday, April 25 7pm-10pm* Kiese Laymon's [BABEL talk](
     https://www.justbuffalo.org/events/babel-kiese-laymon-2024-04-25/
   ) (complimentary admission for core group)
 - *Thursday, May 2 6:00pm-8:30pm* WRITE ON intuitive writing group inspired by "Heavy"
+[Sign Up](/signups/writeon20240502/){: .btn .btn--success}
 - *Monday, May 6 at 7pm-8:30pm* [Once Trees Book Club](
     https://www.educationtrainingcenterinc.com/groundandskypoetryseries
     ) discussion of "Heavy"
 - *Thursday, May 9 1:00pm-3:30pm* [WRITE ON](/writeon/) intuitive writing group inspired by "Heavy"
+[Sign Up](/signups/writeon20240509/){: .btn .btn--success}
 - *Tuesday, May 21* TBD WRITE ON intuitive writing group inspired by "Heavy"
 - *Saturday, June 22* 1:00-3pm Celebration of publication of writings by core group
 
