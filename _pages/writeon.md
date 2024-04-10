@@ -10,11 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-RSVP for our **Tuesday April 9th** workshop at 6:00pm to 8:30pm
-on Zoom. Join us to write on the experience of the Totality.
-(Facilitator: Hy Carrel)
-[Sign Up](/signups/writeon20240409/){: .btn .btn--success}
-
 WRITE ON workshops will be held on May 2nd, 9th and 21st in
 partnership with **"Heavy" Reflections** part of the
 Civil Writes Project.
@@ -139,6 +134,7 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
   out on topics of time, stopping, and confronting our past with the support of
   our present artistic insight and the support of this community, inspired by
   Douglas Adam's *Hitchhikers' Guide to the Galaxy.* 
+ - The day after the Totality, we gathered on Zoom to write on this universal experience..
 
 
 
