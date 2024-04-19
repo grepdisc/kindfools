@@ -17,7 +17,7 @@ all_posts:
 {: .text-center}
 
 **WNY Trash Mob's Earth Day Clean Up Challenge 2024** [All the Details](
-    https://communitycanvases.org/earthday2024/){: .btn .btn--large .btn--info}<br>
+    https://communitycanvases.org/earthday2024/){: .btn .btn--large .btn--success}<br>
 **WRITE ON! May 2nd at 6:00pm** at CAO's Masten Resource Center [Info/Sign-up](
     /writeon/){: .btn .btn--success}<br>
 **WRITE ON! May 9th at 1:00pm** at CAO's Masten Resource Center [Info/Sign-up](
