@@ -16,14 +16,16 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WNY Trash Mob's Earth Day Clean Up Challenge 2024** [Details/Sign-up](
-    https://communitycanvases.org/earthday2024/){: .btn .btn--info}<br>
+**WNY Trash Mob's Earth Day Clean Up Challenge 2024** [All the Details](
+    https://communitycanvases.org/earthday2024/){: .btn .btn--large .btn--info}<br>
 **WRITE ON! May 2nd at 6:00pm** at CAO's Masten Resource Center [Info/Sign-up](
     /writeon/){: .btn .btn--success}<br>
 **WRITE ON! May 9th at 1:00pm** at CAO's Masten Resource Center [Info/Sign-up](
     /writeon/){: .btn .btn--success}<br>
 **"Heavy" Reflections** part of the Civil Writes Project
    [Info](/heavyreflections/){: .btn .btn--success}<br>
+**Kind Conversations May 14th at 6:00pm** [Info/Sign-up](
+    /kindconversations/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
