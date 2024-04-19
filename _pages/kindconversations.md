@@ -10,6 +10,11 @@ header:
 
 # Kind Conversations
 
+- **Tuesday, May 14, 2024 6:00pm - 8:30pm** Kind Conversations
+[Sign Up](
+https://docs.google.com/forms/d/e/1FAIpQLSd3jJyc9LoHKF40-2usq4VuTALCibpHtX9s7hOpf06QA36CbA/viewform?usp=sf_link
+){: .btn .btn--success}
+
 Kind Conversations comes out of trainings throughout 2023 led by Resetting the Table.
 
 A community-based free workshop offering communication skill-building for healthy charged conversations in WNY and a forum for dialogue across disagreement.
