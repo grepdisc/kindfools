@@ -11,6 +11,8 @@ header:
 
 # "Heavy" Reflections is a collaborative project for the Spring of 2024
 
+**Doors for BABEL open at 7:00pm Thursday, April 25 at 3 Symphony Circle**
+
 This project is supported by Just Buffalo Literary Center as part
 of their Civil Writes Project in concert with their BABEL Series
 featuring author [Kiese Laymon](https://www.kieselaymon.com), his memoir
@@ -34,16 +36,20 @@ Fortunately, the below activities are open to whomever wants to join.
 - *Thursday, April 4 5pm-6pm* Welcome Gathering for core group (books distributed)
 - *Thursday, April 25 7pm-10pm* Kiese Laymon's [BABEL talk](
     https://www.justbuffalo.org/events/babel-kiese-laymon-2024-04-25/
-  ) (complimentary admission for core group)
+   ) (complimentary admission for core group)
 - *Thursday, May 2 6:00pm-8:30pm* WRITE ON intuitive writing group inspired by "Heavy"
-[Sign Up](/signups/writeon20240502/){: .btn .btn--success}
+    at CAO’s Masten Resource Center at 1423 Fillmore Ave
+    [Sign Up](/signups/writeon20240502/){: .btn .btn--success}
 - *Monday, May 6 at 7pm-8:30pm* [Once Trees Book Club](
     https://www.educationtrainingcenterinc.com/groundandskypoetryseries
-    ) discussion of "Heavy"
-- *Thursday, May 9 1:00pm-3:30pm* [WRITE ON](/writeon/) intuitive writing group inspired by "Heavy"
-[Sign Up](/signups/writeon20240509/){: .btn .btn--success}
+   ) discussion of "Heavy" at Masten Resource Center
+- *Thursday, May 9 1:00pm-3:30pm* [WRITE ON](/writeon/) intuitive writing group
+   inspired by "Heavy" at Masten Resource Center
+   [Sign Up](/signups/writeon20240509/){: .btn .btn--success}
 - *Tuesday, May 21* 6:00pm-8:30pm WRITE ON intuitive writing group inspired by "Heavy"
-- *Saturday, June 22* 1:00-3:00pm Celebration/Presentation at Fitz Books & Waffles of publication of writings by core group
+   at Rise of WNY at 1643 Hertel Ave
+- *Saturday, June 22* 1:00-3:00pm Celebration/Presentation at Fitz Books & Waffles of
+   publication of writings by core group
 
 {% comment %}
 Together, we will read and discuss Heavy.<br>

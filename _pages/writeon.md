@@ -24,6 +24,9 @@ Civil Writes Project.
 - *Thursday, May 9 1:00pm-3:30pm* [WRITE ON](/writeon/) intuitive writing group inspired by "Heavy"
 [Sign Up](/signups/writeon20240509/){: .btn .btn--success}
 
+- *Thursday, May 21 6:00pm-8:30pm* [WRITE ON](/writeon/) intuitive writing group inspired by "Heavy"
+[Sign Up](/signups/writeon20240521/){: .btn .btn--success}
+
 {% comment %}
 RSVP for our **Wednesday February 14th** virtual workshop at 6:00pm to 8:30pm EST
 on Zoom. Please RSVP to receive the link.
