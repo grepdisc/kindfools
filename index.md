@@ -16,8 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**"Heavy" Reflections** part of the Civil Writes Project
-   [BABEL April 25](/heavyreflections/){: .btn .btn--large .btn--success}<br>
 **WRITE ON! May 2nd at 6:00pm** at Masten Resource Center [Info/Sign-up](
     /writeon/){: .btn .btn--success}<br>
 **WRITE ON! May 9th at 1:00pm** at Masten Resource Center [Info/Sign-up](
@@ -26,6 +24,8 @@ all_posts:
     /kindconversations/){: .btn .btn--success}<br>
 **The Woven Event** May 20th at 5:00pm [Info/Sign-up](
     /thewovenevent/){: .btn .btn--info}<br>
+**"Heavy" Reflections** part of the Civil Writes Project
+   [Details](/heavyreflections/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>

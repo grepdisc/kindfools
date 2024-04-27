@@ -21,10 +21,13 @@ Civil Writes Project.
     https://www.educationtrainingcenterinc.com/groundandskypoetryseries
     ) discussion of "Heavy"
 
-- *Thursday, May 9 1:00pm-3:30pm* [WRITE ON](/writeon/) intuitive writing group inspired by "Heavy"
+- *Thursday, May 9 1:00pm-3:30pm* WRITE ON intuitive writing group inspired by "Heavy"
 [Sign Up](/signups/writeon20240509/){: .btn .btn--success}
 
-- *Thursday, May 21 6:00pm-8:30pm* [WRITE ON](/writeon/) intuitive writing group inspired by "Heavy"
+- *Monday, May 20 5:00pm-8:00pm* The Woven Event at Roswell Park’s
+Community Outreach & Engagement Center at 907 Michigan Ave. [Details/Sign Up](/thewovenevent/){: .btn .btn--success}<br>
+
+- *Tuesday, May 21 6:00pm-8:30pm* WRITE ON intuitive writing group inspired by "Heavy"
 [Sign Up](/signups/writeon20240521/){: .btn .btn--success}
 
 {% comment %}
