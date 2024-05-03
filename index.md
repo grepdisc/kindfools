@@ -16,14 +16,14 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON! May 2nd at 6:00pm** at Masten Resource Center [Info/Sign-up](
-    /writeon/){: .btn .btn--success}<br>
 **WRITE ON! May 9th at 1:00pm** at Masten Resource Center [Info/Sign-up](
     /writeon/){: .btn .btn--success}<br>
 **Kind Conversations May 14th at 6:00pm** [Info/Sign-up](
     /kindconversations/){: .btn .btn--success}<br>
 **The Woven Event** May 20th at 5:00pm [Info/Sign-up](
     /thewovenevent/){: .btn .btn--info}<br>
+**WRITE ON! May 21st at 6:00pm** at Rise of WNY [Info/Sign-up](
+    /writeon/){: .btn .btn--success}<br>
 **"Heavy" Reflections** part of the Civil Writes Project
    [Details](/heavyreflections/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](

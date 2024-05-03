@@ -10,13 +10,11 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-WRITE ON workshops will be held on May 2nd, 9th and 21st in
+WRITE ON workshops will be held on May 9th and 21st in
 partnership with **"Heavy" Reflections** part of the
 Civil Writes Project.
 [Learn More](/heavyreflections/){: .btn .btn--success}<br>
 
-- *Thursday, May 2 6:00pm-8:30pm* WRITE ON intuitive writing group inspired by "Heavy"
-[Sign Up](/signups/writeon20240502/){: .btn .btn--success}
 - *Monday, May 6 at 7pm-8:30pm* [Once Trees Book Club](
     https://www.educationtrainingcenterinc.com/groundandskypoetryseries
     ) discussion of "Heavy"
@@ -141,6 +139,9 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
   our present artistic insight and the support of this community, inspired by
   Douglas Adam's *Hitchhikers' Guide to the Galaxy.* 
  - The day after the Totality, we gathered on Zoom to write on this universal experience..
+ - Our first ["Heavy" Reflections](/heavyreflections/)-themed WRITE ON workshop brought 16 people to CAO's
+   Masten Resource Center on May 2, 2024. The shares, inspired by the penultimate page
+   of Kiese Laymon's memoir *Heavy*, were raw and offered with such confidence. 
 
 
 

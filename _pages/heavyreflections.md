@@ -11,8 +11,6 @@ header:
 
 # "Heavy" Reflections is a collaborative project for the Spring of 2024
 
-**Doors for BABEL open at 7:00pm Thursday, April 25 at 3 Symphony Circle**
-
 This project is supported by Just Buffalo Literary Center as part
 of their Civil Writes Project in concert with their BABEL Series
 featuring author [Kiese Laymon](https://www.kieselaymon.com), his memoir
@@ -48,6 +46,11 @@ Fortunately, the below activities are open to whomever wants to join.
    [Sign Up](/signups/writeon20240509/){: .btn .btn--success}
 - *Tuesday, May 21* 6:00pm-8:30pm WRITE ON intuitive writing group inspired by "Heavy"
    at Rise of WNY at 1643 Hertel Ave
+   [Sign Up](/signups/writeon20240521/){: .btn .btn--success}
+- *Friday, May 31* by 9:00pm Deadline to Submit your writing at
+  [Share Your Writing With Us](
+     https://docs.google.com/forms/d/e/1FAIpQLSeGun-mNIqwkah9h1Z-uaKtSew6GD5pRmeW0_6y5PouaS0ZYw/viewform?usp=sf_link
+  ){: .btn .btn--large .btn--success}
 - *Saturday, June 22* 1:00-3:00pm Celebration/Presentation at Fitz Books & Waffles of
    publication of writings by core group
 
