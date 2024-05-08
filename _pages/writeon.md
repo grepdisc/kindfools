@@ -15,10 +15,6 @@ partnership with **"Heavy" Reflections** part of the
 Civil Writes Project.
 [Learn More](/heavyreflections/){: .btn .btn--success}<br>
 
-- *Monday, May 6 at 7pm-8:30pm* [Once Trees Book Club](
-    https://www.educationtrainingcenterinc.com/groundandskypoetryseries
-    ) discussion of "Heavy"
-
 - *Thursday, May 9 1:00pm-3:30pm* WRITE ON intuitive writing group inspired by "Heavy"
 [Sign Up](/signups/writeon20240509/){: .btn .btn--success}
 
@@ -142,6 +138,10 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
  - Our first ["Heavy" Reflections](/heavyreflections/)-themed WRITE ON workshop brought 16 people to CAO's
    Masten Resource Center on May 2, 2024. The shares, inspired by the penultimate page
    of Kiese Laymon's memoir *Heavy*, were raw and offered with such confidence. 
+-  On Monday, May 6, 2024 our "Heavy" Reflections cohort participated in a [Once Trees Book Club](
+    https://www.educationtrainingcenterinc.com/groundandskypoetryseries
+    ) discussion of "Heavy" at CAO's Masten Resource Center
+
 
 
 

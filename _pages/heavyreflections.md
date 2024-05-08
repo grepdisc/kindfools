@@ -37,7 +37,6 @@ Fortunately, the below activities are open to whomever wants to join.
    ) (complimentary admission for core group)
 - *Thursday, May 2 6:00pm-8:30pm* WRITE ON intuitive writing group inspired by "Heavy"
     at CAO’s Masten Resource Center at 1423 Fillmore Ave
-    [Sign Up](/signups/writeon20240502/){: .btn .btn--success}
 - *Monday, May 6 at 7pm-8:30pm* [Once Trees Book Club](
     https://www.educationtrainingcenterinc.com/groundandskypoetryseries
    ) discussion of "Heavy" at Masten Resource Center
