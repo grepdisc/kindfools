@@ -34,7 +34,7 @@ The Woven Event will be held 5:00pm to 8:00pm at Roswell Park’s
 Community Outreach & Engagement Center at 907 Michigan Ave, Buffalo, NY 14203.
 If you wish to let us know that you'll be joining us and want
 to receive updates before this event, please [RSVP on Eventbrite](
-    https://www.eventbrite.com/e/the-woven-event-tell-write-share-tickets-814522277057
+    https://www.eventbrite.com/e/the-woven-event-tell-write-share-tickets-892135600597?aff=oddtdtcreator
 ){: .btn .btn--large .btn--info}
 
 <figure style="max-width: 1080px" class="align-center">
