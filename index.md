@@ -18,6 +18,8 @@ all_posts:
 
 **Kind Conversations May 14th at 6:00pm** [Info/Sign-up](
     /kindconversations/){: .btn .btn--success}<br>
+**WNY Trash Mob's Grant Street Cleanup May 18th** [Details](
+    https://communitycanvases.org/events/cleanup20240518/){: .btn .btn--info}<br>
 **The Woven Event** May 20th at 5:00pm [Info/Sign-up](
     /thewovenevent/){: .btn .btn--info}<br>
 **WRITE ON! May 21st at 6:00pm** at Rise of WNY [Info/Sign-up](
@@ -27,8 +29,6 @@ all_posts:
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
-**WNY Trash Mob's Grant Street Cleanup May 18th** [Details](
-    https://communitycanvases.org/events/cleanup20240518/){: .btn .btn--info}<br>
 All Community Canvases [Events](
 https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
