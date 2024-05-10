@@ -42,7 +42,6 @@ Fortunately, the below activities are open to whomever wants to join.
    ) discussion of "Heavy" at Masten Resource Center
 - *Thursday, May 9 1:00pm-3:30pm* [WRITE ON](/writeon/) intuitive writing group
    inspired by "Heavy" at Masten Resource Center
-   [Sign Up](/signups/writeon20240509/){: .btn .btn--success}
 - *Tuesday, May 21* 6:00pm-8:30pm WRITE ON intuitive writing group inspired by "Heavy"
    at Rise of WNY at 1643 Hertel Ave
    [Sign Up](/signups/writeon20240521/){: .btn .btn--success}

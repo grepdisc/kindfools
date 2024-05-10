@@ -15,8 +15,10 @@ partnership with **"Heavy" Reflections** part of the
 Civil Writes Project.
 [Learn More](/heavyreflections/){: .btn .btn--success}<br>
 
-- *Thursday, May 9 1:00pm-3:30pm* WRITE ON intuitive writing group inspired by "Heavy"
-[Sign Up](/signups/writeon20240509/){: .btn .btn--success}
+- **Tuesday, May 14, 2024 6:00pm - 8:30pm** Kind Conversations
+[Sign Up](
+https://docs.google.com/forms/d/e/1FAIpQLSd3jJyc9LoHKF40-2usq4VuTALCibpHtX9s7hOpf06QA36CbA/viewform?usp=sf_link
+){: .btn .btn--success}
 
 - *Monday, May 20 5:00pm-8:00pm* The Woven Event at Roswell Park’s
 Community Outreach & Engagement Center at 907 Michigan Ave. [Details/Sign Up](/thewovenevent/){: .btn .btn--success}<br>
@@ -141,6 +143,9 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 -  On Monday, May 6, 2024 our "Heavy" Reflections cohort participated in a [Once Trees Book Club](
     https://www.educationtrainingcenterinc.com/groundandskypoetryseries
     ) discussion of "Heavy" at CAO's Masten Resource Center
+-  On Thursday, May 9 our Heavy Reflections groups returned to CAO's Masten Resource Center to
+   write and to be filmed by Just Buffalo Literary Center as part of their Civil Writes Project
+
 
 
 
