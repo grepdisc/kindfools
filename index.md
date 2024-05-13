@@ -16,7 +16,7 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**Kind Conversations May 14th at 6:00pm** [Info/Sign-up](
+**Kind Conversations May 14th POSTPONED** [Info/Sign-up](
     /kindconversations/){: .btn .btn--success}<br>
 **WNY Trash Mob's Grant Street Cleanup May 18th** [Details](
     https://communitycanvases.org/events/cleanup20240518/){: .btn .btn--info}<br>

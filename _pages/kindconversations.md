@@ -10,7 +10,7 @@ header:
 
 # Kind Conversations
 
-- **Tuesday, May 14, 2024 6:00pm - 8:30pm** Kind Conversations at Unitarian Universalist Church of Buffalo at 695 Elmwood Avenue
+- **Tuesday, May 14, 2024 POSTPONED** Kind Conversations at Unitarian Universalist Church of Buffalo at 695 Elmwood Avenue
 [Sign Up](
 https://docs.google.com/forms/d/e/1FAIpQLSd3jJyc9LoHKF40-2usq4VuTALCibpHtX9s7hOpf06QA36CbA/viewform?usp=sf_link
 ){: .btn .btn--success}
