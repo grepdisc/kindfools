@@ -15,11 +15,6 @@ partnership with **"Heavy" Reflections** part of the
 Civil Writes Project.
 [Learn More](/heavyreflections/){: .btn .btn--success}<br>
 
-- **Tuesday, May 14, 2024 POSTPONED** Kind Conversations
-[Express Interest for a Future Date](
-https://docs.google.com/forms/d/e/1FAIpQLSd3jJyc9LoHKF40-2usq4VuTALCibpHtX9s7hOpf06QA36CbA/viewform?usp=sf_link
-){: .btn .btn--success}
-
 - *Monday, May 20 5:00pm-8:00pm* The Woven Event at Roswell Park’s
 Community Outreach & Engagement Center at 907 Michigan Ave. [Details/Sign Up](/thewovenevent/){: .btn .btn--success}<br>
 
@@ -36,6 +31,11 @@ Please **[sign in here](/signin/)** for our April 11th workshop.<br>
 {: .notice--info}
 **This *is* the page you are looking for. Please check back here often to find our upcoming workshops**
 {: .notice--info}
+
+- **Tuesday, May 14, 2024 POSTPONED** Kind Conversations
+[Express Interest for a Future Date](
+https://docs.google.com/forms/d/e/1FAIpQLSd3jJyc9LoHKF40-2usq4VuTALCibpHtX9s7hOpf06QA36CbA/viewform?usp=sf_link
+){: .btn .btn--success}
 
 {% endcomment %}
 

@@ -16,8 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**Kind Conversations May 14th POSTPONED** [Info/Sign-up](
-    /kindconversations/){: .btn .btn--success}<br>
 **WNY Trash Mob's Grant Street Cleanup May 18th** [Details](
     https://communitycanvases.org/events/cleanup20240518/){: .btn .btn--info}<br>
 **The Woven Event** May 20th at 5:00pm [Info/Sign-up](
@@ -34,6 +32,8 @@ https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+**Kind Conversations May 14th POSTPONED** [Info/Sign-up](
+    /kindconversations/){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:30pm March 18th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
 Partner Event: Service & Spirituality Feb 17th [Info/Sign-up](
