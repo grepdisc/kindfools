@@ -15,9 +15,6 @@ partnership with **"Heavy" Reflections** part of the
 Civil Writes Project.
 [Learn More](/heavyreflections/){: .btn .btn--success}<br>
 
-- *Monday, May 20 5:00pm-8:00pm* The Woven Event at Roswell Park’s
-Community Outreach & Engagement Center at 907 Michigan Ave. [Details/Sign Up](/thewovenevent/){: .btn .btn--success}<br>
-
 - *Tuesday, May 21 6:00pm-8:30pm* WRITE ON intuitive writing group inspired by "Heavy"
 [Sign Up](/signups/writeon20240521/){: .btn .btn--success}
 
@@ -136,15 +133,17 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
   out on topics of time, stopping, and confronting our past with the support of
   our present artistic insight and the support of this community, inspired by
   Douglas Adam's *Hitchhikers' Guide to the Galaxy.* 
- - The day after the Totality, we gathered on Zoom to write on this universal experience..
- - Our first ["Heavy" Reflections](/heavyreflections/)-themed WRITE ON workshop brought 16 people to CAO's
-   Masten Resource Center on May 2, 2024. The shares, inspired by the penultimate page
-   of Kiese Laymon's memoir *Heavy*, were raw and offered with such confidence. 
--  On Monday, May 6, 2024 our "Heavy" Reflections cohort participated in a [Once Trees Book Club](
-    https://www.educationtrainingcenterinc.com/groundandskypoetryseries
-    ) discussion of "Heavy" at CAO's Masten Resource Center
--  On Thursday, May 9 our Heavy Reflections groups returned to CAO's Masten Resource Center to
-   write and to be filmed by Just Buffalo Literary Center as part of their Civil Writes Project
+- The day after the Totality, we gathered on Zoom to write on this universal experience..
+- Our first ["Heavy" Reflections](/heavyreflections/)-themed WRITE ON workshop brought 16 people to CAO's
+  Masten Resource Center on May 2, 2024. The shares, inspired by the penultimate page
+  of Kiese Laymon's memoir *Heavy*, were raw and offered with such confidence. 
+- On Monday, May 6, 2024 our "Heavy" Reflections cohort participated in a [Once Trees Book Club](
+  https://www.educationtrainingcenterinc.com/groundandskypoetryseries
+  ) discussion of "Heavy" at CAO's Masten Resource Center
+- On Thursday, May 9 our Heavy Reflections groups returned to CAO's Masten Resource Center to
+  write and to be filmed by Just Buffalo Literary Center as part of their Civil Writes Project
+- On Monday, May 20 [The Woven Event](/thewovenevent/) met at Roswell Park’s Community
+  Outreach & Engagement Center at 907 Michigan Ave.
 
 
 
