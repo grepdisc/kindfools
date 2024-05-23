@@ -16,9 +16,11 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON! May 21st at 6:00pm** at Rise of WNY [Info/Sign-up](
+WRITE ON! [Info](
     /writeon/){: .btn .btn--success}<br>
-**"Heavy" Reflections** part of the Civil Writes Project
+WNY Trash Mob's **We Love Grant Street** June 22nd [Details](
+    https://communitycanvases.org/events/cleanup20240622/){: .btn .btn--info}<br>
+**"Heavy" Reflections** part of the Civil Writes Project - Celebration 1:00pm June 22nd
    [Details](/heavyreflections/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/

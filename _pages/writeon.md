@@ -15,10 +15,11 @@ partnership with **"Heavy" Reflections** part of the
 Civil Writes Project.
 [Learn More](/heavyreflections/){: .btn .btn--success}<br>
 
-- *Tuesday, May 21 6:00pm-8:30pm* WRITE ON intuitive writing group inspired by "Heavy"
-[Sign Up](/signups/writeon20240521/){: .btn .btn--success}
 
 {% comment %}
+
+- *Tuesday, May 21 6:00pm-8:30pm* WRITE ON intuitive writing group inspired by "Heavy"
+[Sign Up](/signups/writeon20240521/){: .btn .btn--success}
 RSVP for our **Wednesday February 14th** virtual workshop at 6:00pm to 8:30pm EST
 on Zoom. Please RSVP to receive the link.
 (Facilitator: Hy Carrel)
@@ -144,6 +145,7 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
   write and to be filmed by Just Buffalo Literary Center as part of their Civil Writes Project
 - On Monday, May 20 [The Woven Event](/thewovenevent/) met at Roswell Park’s Community
   Outreach & Engagement Center at 907 Michigan Ave.
+- On Tuesday, May 21 Rise of WNY hosted our WRITE ON intuitive writing group inspired by "Heavy"
 
 
 
