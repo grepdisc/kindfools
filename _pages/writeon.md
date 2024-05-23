@@ -10,9 +10,13 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-WRITE ON workshops will be held on May 9th and 21st in
-partnership with **"Heavy" Reflections** part of the
-Civil Writes Project.
+- **Tuesday, June 11th 6:00pm-8:30pm** WRITE ON at Good Shepherd Lutheran 
+[Sign Up](/signups/writeon20240611/){: .btn .btn--success}
+
+- **Tuesday, June 18th 6:00pm-8:30pm** WRITE ON at Indigo House
+[Sign Up](/signups/writeon20240618/){: .btn .btn--success}
+
+**"Heavy" Reflections** part of the Civil Writes Project - celebration at 1:00pm on June 22
 [Learn More](/heavyreflections/){: .btn .btn--success}<br>
 
 

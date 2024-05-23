@@ -16,9 +16,11 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-WRITE ON! [Info](
-    /writeon/){: .btn .btn--success}<br>
-WNY Trash Mob's **We Love Grant Street** June 22nd [Details](
+**WRITE ON on Tuesday June 11th at 6:00pm**
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+**WRITE ON on Tuesday June 18th at 6:00pm**
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+WNY Trash Mob's **We Love Grant Street** June 22nd 10am [Details](
     https://communitycanvases.org/events/cleanup20240622/){: .btn .btn--info}<br>
 **"Heavy" Reflections** part of the Civil Writes Project - Celebration 1:00pm June 22nd
    [Details](/heavyreflections/){: .btn .btn--info}<br>
