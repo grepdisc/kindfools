@@ -16,6 +16,9 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
+Deadline of June 1st for **Heavy Reflections** to [Submit Your Writing](
+     https://docs.google.com/forms/d/e/1FAIpQLSeGun-mNIqwkah9h1Z-uaKtSew6GD5pRmeW0_6y5PouaS0ZYw/viewform?usp=sf_link
+  ){: .btn .btn--large .btn--success}
 **WRITE ON on Tuesday June 11th at 6:00pm**
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 **WRITE ON on Tuesday June 18th at 6:00pm**
