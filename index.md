@@ -16,15 +16,14 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Deadline of June 1st for **Heavy Reflections** to [Submit Your Writing](
-     https://docs.google.com/forms/d/e/1FAIpQLSeGun-mNIqwkah9h1Z-uaKtSew6GD5pRmeW0_6y5PouaS0ZYw/viewform?usp=sf_link
-  ){: .btn .btn--large .btn--success}
 **WRITE ON on Tuesday June 11th at 6:00pm**
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+Recovery Stories on Monday June 17th at 3:00pm
+    [Sign Up/Info](/recoverystories/){: .btn .btn--success}<br>
 **WRITE ON on Tuesday June 18th at 6:00pm**
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 WNY Trash Mob's **We Love Grant Street** June 22nd 10am [Details](
-    https://communitycanvases.org/events/cleanup20240622/){: .btn .btn--info}<br>
+    https://communitycanvases.org/events/cleanup20240622/){: .btn .btn--success}<br>
 **"Heavy" Reflections** part of the Civil Writes Project - Celebration 1:00pm June 22nd
    [Details](/heavyreflections/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
@@ -35,6 +34,9 @@ https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+Deadline of June 1st for **Heavy Reflections** to [Submit Your Writing](
+     https://docs.google.com/forms/d/e/1FAIpQLSeGun-mNIqwkah9h1Z-uaKtSew6GD5pRmeW0_6y5PouaS0ZYw/viewform?usp=sf_link
+  ){: .btn .btn--large .btn--success}
 **WNY Trash Mob's Grant Street Cleanup May 18th** [Details](
     https://communitycanvases.org/events/cleanup20240518/){: .btn .btn--info}<br>
 **The Woven Event** May 20th at 5:00pm [Info/Sign-up](

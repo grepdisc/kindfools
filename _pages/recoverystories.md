@@ -9,21 +9,26 @@ header:
 ---
 
 
-# Recovery Stories on Monday, March 18, 2024
+# Recovery Stories on Monday, June 17, 2024
 
 Recovery Stories - an accepting space to share poems and stories of recovery.
+
+## Special earlier time: 3:00pm
+{: .notice--success .maxwidthbox .align-center}
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeoTPMQiO3i7e_k4_VWryUVdmGX3BVte0bc_Iv2sQxf92LARQ/viewform?embedded=true" width="100%" height="1650" frameborder="0" marginheight="0" marginwidth="0" onload = "window.parent.scrollTo(0,0)">Loading…</iframe>
 
 
 <figure style="max-width: 966px" class="align-center">
-  <img src="/assets/images/recoverystoriesflyer20240318.jpg"
+  <img src="/assets/images/recoverystoriesflyer20240617.jpg"
    alt="Recovery Stories Poster">
 </figure> 
 
 
 # Prior Recovery Stories
 
+- May 20, 2024 as part of [The Woven Event](/thewovenevent/) at Roswell Park's Community Outreach and Engagement Center
+- March 18, 2024 at Roswell Park's Community Outreach and Engagement Center
 - February 19, 2024 as part of [The Woven Event](/thewovenevent/) at Inspiration Point
 - January 22, 2024 at Fitz Books & Waffles
 - November 27, 2023 at Sol Rise Farm and Cultural Arts Center
