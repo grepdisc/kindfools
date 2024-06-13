@@ -11,6 +11,11 @@ header:
 
 # "Heavy" Reflections is a collaborative project for the Spring of 2024
 
+**"Heavy" Reflections** celebration/performance 1:00pm June 22, 2024 at
+Fitz Books & Waffles at 431 Ellicott Street
+{: .notice--success .maxwidthbox .align-center}
+
+
 This project is supported by Just Buffalo Literary Center as part
 of their Civil Writes Project in concert with their BABEL Series
 featuring author [Kiese Laymon](https://www.kieselaymon.com), his memoir
@@ -21,9 +26,6 @@ on Thursday, April 25, 2024.
 The goal of this project is to provide community members a continuing
 opportunity to reflect deeply on their personal experiences and on how
 they relate to Kiese Laymon’s memoir and BABEL discussion.
-
-Our core group has been selected. Thank you to everyone who expressed interest.
-Fortunately, the below activities are open to whomever wants to join.
 
 ### Activities:
 {% comment %}
@@ -44,10 +46,7 @@ Fortunately, the below activities are open to whomever wants to join.
    inspired by "Heavy" at Masten Resource Center
 - *Tuesday, May 21* 6:00pm-8:30pm WRITE ON intuitive writing group inspired by "Heavy"
    at Rise of WNY at 1643 Hertel Ave
-- *Friday, May 31* by 9:00pm Deadline to Submit your writing at
-  [Share Your Writing With Us](
-     https://docs.google.com/forms/d/e/1FAIpQLSeGun-mNIqwkah9h1Z-uaKtSew6GD5pRmeW0_6y5PouaS0ZYw/viewform?usp=sf_link
-  ){: .btn .btn--large .btn--success}
+- *Friday, May 31* by 9:00pm Deadline to Submit your writing
 - *Saturday, June 22* 1:00-3:00pm Celebration/Presentation at Fitz Books & Waffles of
    publication of writings by core group
 
@@ -61,7 +60,7 @@ Together, we will present our work and celebrate this experience.<br>
 *Heavy: An American Memoir* is available from local bookstores such as [Talking Leaves](https://www.tleavesbooks.com/search/site/heavy),
 [Fitz Books](https://www.fitzbooks.net) and [Zawadi Books](https://www.facebook.com/zawadibooksbflo/).
 
-This project will include [WRITE ON workshops](/writeon/) and [Once Trees Book Club](https://www.educationtrainingcenterinc.com/groundandskypoetryseries).
+This project included both [WRITE ON workshops](/writeon/) and [Once Trees Book Club](https://www.educationtrainingcenterinc.com/groundandskypoetryseries).
 
 
 

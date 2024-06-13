@@ -10,15 +10,14 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- **Tuesday, June 11th 6:00pm-8:30pm** WRITE ON at Good Shepherd Lutheran 
-[Sign Up](/signups/writeon20240611/){: .btn .btn--success}
-
 - **Tuesday, June 18th 6:00pm-8:30pm** WRITE ON at Indigo House
 [Sign Up](/signups/writeon20240618/){: .btn .btn--success}
 
-**"Heavy" Reflections** part of the Civil Writes Project - celebration at 1:00pm on June 22
+- **"Heavy" Reflections** part of the Civil Writes Project - celebration at 1:00pm on June 22
 [Learn More](/heavyreflections/){: .btn .btn--success}<br>
 
+- **Thursday, July 11th 1:00pm-3:30pm** WRITE ON at CAO's Masten Resource Center
+[Sign Up](/signups/writeon20240711/){: .btn .btn--success}
 
 {% comment %}
 
@@ -150,6 +149,9 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - On Monday, May 20 [The Woven Event](/thewovenevent/) met at Roswell Park’s Community
   Outreach & Engagement Center at 907 Michigan Ave.
 - On Tuesday, May 21 Rise of WNY hosted our WRITE ON intuitive writing group inspired by "Heavy"
+- On Tuesday, June 11 WRITE ON met at Good Shepherd Lutheran Church in Tonawanda, inviting people from across
+  Buffalo to write, inspired by a poem by Meister Eckhart.
+
 
 
 
