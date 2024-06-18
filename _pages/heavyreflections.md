@@ -27,6 +27,11 @@ The goal of this project is to provide community members a continuing
 opportunity to reflect deeply on their personal experiences and on how
 they relate to Kiese Laymon’s memoir and BABEL discussion.
 
+<figure style="max-width: 1080px" class="align-center">
+  <img src="/assets/images/heavyreflectionsceleb.jpg"
+   alt="Heavy Reflections Celebration">
+</figure>
+
 ### Activities:
 {% comment %}
 - *Friday, March 22 5pm* Final date [to apply](
@@ -46,7 +51,7 @@ they relate to Kiese Laymon’s memoir and BABEL discussion.
    inspired by "Heavy" at Masten Resource Center
 - *Tuesday, May 21* 6:00pm-8:30pm WRITE ON intuitive writing group inspired by "Heavy"
    at Rise of WNY at 1643 Hertel Ave
-- *Friday, May 31* by 9:00pm Deadline to Submit your writing
+- *Friday, May 31* by 9:00pm Deadline to Submit writings
 - *Saturday, June 22* 1:00-3:00pm Celebration/Presentation at Fitz Books & Waffles of
    publication of writings by core group
 
@@ -55,6 +60,10 @@ Together, we will read and discuss Heavy.<br>
 Together, we will attend Kiese Laymon's BABEL discussion.<br>
 Together, we write our truth as it connects with his work.<br>
 Together, we will present our work and celebrate this experience.<br>
+[Apply Now](
+https://docs.google.com/forms/d/1HjMHp2qVEOjTPA54LD_atybzF8G4BCmrJpfzme8vCxg/viewform
+){: .btn .btn--large .btn--success}
+{: style="text-align: center;"}
 {% endcomment %}
 
 *Heavy: An American Memoir* is available from local bookstores such as [Talking Leaves](https://www.tleavesbooks.com/search/site/heavy),
@@ -80,7 +89,3 @@ at hy@kindfools.org or (716) 259-2725
    alt="Heavy Reflections Flyer">
 </figure>
 
-[Apply Now](
-https://docs.google.com/forms/d/1HjMHp2qVEOjTPA54LD_atybzF8G4BCmrJpfzme8vCxg/viewform
-){: .btn .btn--large .btn--success}
-{: style="text-align: center;"}
