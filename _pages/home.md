@@ -11,21 +11,34 @@ header:
 
 # *WRITE ON - Home* is a collaborative project for the second half of 2024
 
-This project could be supported by ASI WNY as part of the Creative Impact Fund.
+*WRITE ON - Home* will offer Kind Fools’ intuitive writing [WRITE ON](/writeon/) workshops using the theme of “home” with specific communities that have a special relationship with the concept/experience of home. These workshops provide a supportive and creative environment for an exploration of our individual and collective relationship with the idea, feeling, and experience of home.
 
-*WRITE ON - Home* will offer Kind Fools’ intuitive writing [WRITE ON](/writeon/) workshops using the theme of “home” with specific communities that have a special relationship with the concept/experience of home. These workshops provide a supportive and creative environment for an exploration of our individual and collective relationship with the idea, feeling, and experience of home. Three WRITE ON workshops will be offered to each of four affinity groups for which “home” will be a common thread: immigrants and refugees with interpreters, people experiencing homelessness, seniors, and anyone.
+{% comment %}
+Three WRITE ON workshops will be offered to each of four affinity groups for which “home” will be a common thread: immigrants and refugees with interpreters, people experiencing homelessness, seniors, and anyone.
 
+{% endcomment %}
 
 The goal of this project is to build just relationships (and a common sense of community) among people across the city, to foster confidence in self-expression and writing, and to build paths of mutual respect and understanding. Putting the comfort and emotional safety of our participants first, we seek to discover what these writers create from their lived experience. What universal truths and commonalities arise among each group’s writings? What is unique in each person or groups’ relationship with home?
 
 
 For more information on this collaboration between
-[The New York Immigration Coalition](https://www.nyic.org),
+[The New York Immigration Coalition](https://www.nyic.org)
+and
+
+
+{% comment %}
 [Big Big Table Community Café](https://www.bigbigtable.org), and
+{% endcomment %}
+
 [Community Canvases](https://communitycanvases.org)’ Kind Fools,
 or to explore hosting these workshops with your
-community, please reach out to Hy Carrel
+community, please reach out to
+Anna Porter at
+aporter@nyic.org or (315) 729-2308
+OR
+Hy Carrel
 at hy@kindfools.org or (716) 259-2725
+
 
 <br><br>
 Writers will be inspired by soulful and playful poems
