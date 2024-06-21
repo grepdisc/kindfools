@@ -16,14 +16,14 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Recovery Stories on Monday June 17th at 3:00pm
-    [Sign Up/Info](/recoverystories/){: .btn .btn--success}<br>
-**WRITE ON on Tuesday June 18th at 6:00pm**
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+**"Heavy" Reflections** part of the Civil Writes Project - Celebration 1:00pm June 22nd
+   [Details](/heavyreflections/){: .btn .btn--large .btn--success}<br>
 WNY Trash Mob's **We Love Grant Street** June 22nd 10am [Details](
     https://communitycanvases.org/events/cleanup20240622/){: .btn .btn--success}<br>
-**"Heavy" Reflections** part of the Civil Writes Project - Celebration 1:00pm June 22nd
-   [Details](/heavyreflections/){: .btn .btn--success}<br>
+**WRITE ON on Tuesday July 11th at 1:00pm**
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+Recovery Stories on Monday July 15th at 3:00pm
+    [Sign Up/Info](/recoverystories/){: .btn .btn--success}<br>
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>

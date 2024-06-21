@@ -9,7 +9,7 @@ header:
 ---
 
 
-# Recovery Stories on Monday, June 17, 2024
+# Recovery Stories on Monday, July 15, 2024
 
 Recovery Stories - an accepting space to share poems and stories of recovery.
 
@@ -23,13 +23,14 @@ at **[mr.samuelfloyd@gmail.com](mailto:mr.samuelfloyd@gmail.com)**
 
 
 <figure style="max-width: 966px" class="align-center">
-  <img src="/assets/images/recoverystoriesflyer20240617.jpg"
+  <img src="/assets/images/recoverystoriesflyer20240715.jpg"
    alt="Recovery Stories Poster">
 </figure> 
 
 
 # Prior Recovery Stories
 
+- June 17, 2024 at Roswell Park's Community Outreach and Engagement Center
 - May 20, 2024 as part of [The Woven Event](/thewovenevent/) at Roswell Park's Community Outreach and Engagement Center
 - March 18, 2024 at Roswell Park's Community Outreach and Engagement Center
 - February 19, 2024 as part of [The Woven Event](/thewovenevent/) at Inspiration Point
