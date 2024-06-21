@@ -20,7 +20,7 @@ all_posts:
    [Details](/heavyreflections/){: .btn .btn--large .btn--success}<br>
 WNY Trash Mob's **We Love Grant Street** June 22nd 10am [Details](
     https://communitycanvases.org/events/cleanup20240622/){: .btn .btn--success}<br>
-**WRITE ON on Tuesday July 11th at 1:00pm**
+**WRITE ON on Thursday July 11th at 1:00pm**
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Recovery Stories on Monday July 15th at 3:00pm
     [Sign Up/Info](/recoverystories/){: .btn .btn--success}<br>
