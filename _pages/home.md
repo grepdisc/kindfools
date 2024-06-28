@@ -9,13 +9,27 @@ header:
 ---
 
 
-# *WRITE ON - Home* is a collaborative project for the second half of 2024
+# *WRITE ON - Home*
 
-*WRITE ON - Home* will offer Kind Fools’ intuitive writing [WRITE ON](/writeon/) workshops using the theme of “home” with specific communities that have a special relationship with the concept/experience of home. These workshops provide a supportive and creative environment for an exploration of our individual and collective relationship with the idea, feeling, and experience of home.
+*WRITE ON - Home* offers Kind Fools’ intuitive writing [WRITE ON](/writeon/) workshops using the theme of “home” with communities that have a special relationship with the concept/experience of home. These workshops provide a supportive and creative environment for an exploration of our individual and collective relationship with the idea, feeling, and experience of home.
+
+
+- Workshop 1:00pm to 4:00pm, Wednesday July 17, 2024 at Raha Coffee House
+[Sign Up](
+https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+){: .btn .btn--success}
+[Inscribirse](
+https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+){: .btn .btn--success}
+[S'enregistrer](
+https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+){: .btn .btn--success}
+
 
 {% comment %}
 Three WRITE ON workshops will be offered to each of four affinity groups for which “home” will be a common thread: immigrants and refugees with interpreters, people experiencing homelessness, seniors, and anyone.
 
+[Big Big Table Community Café](https://www.bigbigtable.org), and
 {% endcomment %}
 
 The goal of this project is to build just relationships (and a common sense of community) among people across the city, to foster confidence in self-expression and writing, and to build paths of mutual respect and understanding. Putting the comfort and emotional safety of our participants first, we seek to discover what these writers create from their lived experience. What universal truths and commonalities arise among each group’s writings? What is unique in each person or groups’ relationship with home?
@@ -23,23 +37,23 @@ The goal of this project is to build just relationships (and a common sense of c
 
 For more information on this collaboration between
 [The New York Immigration Coalition](https://www.nyic.org)
-and
+and [Community Canvases](https://communitycanvases.org)’ Kind Fools,
+or to explore hosting these workshops with your
+community, please reach out to<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Anna Porter at
+[aporter@nyic.org](mailto:aporter@nyic.org) or [(315) 729-2308](tel:3157292308)<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;or to<br>
+&nbsp; &nbsp; &nbsp; &nbsp; Hy Carrel
+at [hy@kindfools.org](mailto:hy@kindfools.org) or [(716) 259-2725](tel:7162592725)
 
+<br><br>
+
+<figure style="max-width: 966px" class="align-center">
+  <img src="/assets/images/writeonhomeflyer202407.png"
+   alt="Recovery Stories Poster">
+</figure> 
 
 {% comment %}
-[Big Big Table Community Café](https://www.bigbigtable.org), and
-{% endcomment %}
-
-[Community Canvases](https://communitycanvases.org)’ Kind Fools,
-or to explore hosting these workshops with your
-community, please reach out to
-Anna Porter at
-aporter@nyic.org or (315) 729-2308
-OR
-Hy Carrel
-at hy@kindfools.org or (716) 259-2725
-
-
 <br><br>
 Writers will be inspired by soulful and playful poems
 such as Rumi's The Guest House or the following poem
@@ -66,3 +80,4 @@ fastening together four more pieces of plywood<br>
 and placing a fifth on top.<br>
 Then, I paint my box blue,<br>
 *so my home is bigger on the inside just like Doctor Who.*
+{% endcomment %}
