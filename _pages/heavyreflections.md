@@ -11,11 +11,6 @@ header:
 
 # "Heavy" Reflections is a collaborative project for the Spring of 2024
 
-**"Heavy" Reflections** celebration/performance 1:00pm June 22, 2024 at
-Fitz Books & Waffles at 431 Ellicott Street
-{: .notice--success .maxwidthbox .align-center}
-
-
 This project is supported by Just Buffalo Literary Center as part
 of their Civil Writes Project in concert with their BABEL Series
 featuring author [Kiese Laymon](https://www.kieselaymon.com), his memoir
