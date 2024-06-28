@@ -10,8 +10,11 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- **Thursday, July 11th 1:00pm-3:30pm** WRITE ON at CAO's Masten Resource Center
+- **Thursday, July 11th 1:00pm-3:30pm** WRITE ON at CAO's Masten Resource Center at 1423 Fillmore Ave
 [Sign Up](/signups/writeon20240711/){: .btn .btn--success}
+
+- **Tuesday, July 23rd 6:00pm-8:30pm** WRITE ON at Rise of WNY at 1643 Hertel Ave
+[Sign Up](/signups/writeon20240723/){: .btn .btn--success}
 
 {% comment %}
 
