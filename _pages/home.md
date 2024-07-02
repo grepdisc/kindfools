@@ -27,6 +27,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziY
 [التسجيل](
 https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
 ){: .btn .btn--success}
+[ဆိုင်းအပ်](
+https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+){: .btn .btn--success}
 
 
 {% comment %}
