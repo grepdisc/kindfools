@@ -13,7 +13,7 @@ header:
 
 Recovery Stories - an accepting space to share poems and stories of recovery.
 
-## Special earlier time: 3:00pm
+## Note: in place of the July recovery stories, we will host a memorial sharing circle for mental health peer leader Jay GilPatrick at 3:00pm on Monday, July 15th.
 {: .notice--success .maxwidthbox .align-center}
 
 Thoughts? Please reach out to Recovery Stories founder Samuel Floyd
