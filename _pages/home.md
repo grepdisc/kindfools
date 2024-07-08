@@ -14,20 +14,25 @@ header:
 *WRITE ON - Home* offers Kind Fools’ intuitive writing [WRITE ON](/writeon/) workshops using the theme of “home” with communities that have a special relationship with the concept/experience of home. These workshops provide a supportive and creative environment for an exploration of our individual and collective relationship with the idea, feeling, and experience of home.
 
 
-- Workshop 1:00pm to 4:00pm, Wednesday July 17, 2024 at Raha Coffee House
-[Sign Up](
-https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
-){: .btn .btn--success}
-[Inscribirse](
-https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
-){: .btn .btn--success}
-[S'enregistrer](
-https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
-){: .btn .btn--success}
+- Workshop 1:00pm to 4:00pm, Wednesday July 17, 2024 at Raha Coffee House in Arabic and English
 [التسجيل](
 https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
 ){: .btn .btn--success}
+[Sign Up](
+https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+){: .btn .btn--success}
+- Workshop 1:00pm to 4:00pm, Tuesday July 30, 2024 at Raha Coffee House in Burmese and English
 [ဆိုင်းအပ်](
+https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+){: .btn .btn--success}
+[Sign Up](
+https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+){: .btn .btn--success}
+- Workshop 1:00pm to 4:00pm, Tuesday August 13, 2024 at Raha Coffee House in Spanish and English
+[Inscribirse](
+https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+){: .btn .btn--success}
+[Sign Up](
 https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
 ){: .btn .btn--success}
 
@@ -35,6 +40,9 @@ https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziY
 {% comment %}
 Three WRITE ON workshops will be offered to each of four affinity groups for which “home” will be a common thread: immigrants and refugees with interpreters, people experiencing homelessness, seniors, and anyone.
 
+[S'enregistrer](
+https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+){: .btn .btn--success}
 [Big Big Table Community Café](https://www.bigbigtable.org), and
 {% endcomment %}
 
