@@ -22,6 +22,9 @@ Recovery Stories/Memorial on Monday July 15th at 3:00pm
     [Sign Up/Info](/recoverystories/){: .btn .btn--success}<br>
 **WRITE ON on Tuesday July 23rd at 6:00pm**
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+**WRITE ON - Home** writing in your native language
+    [Sign Up/Info](/home/){: .btn .btn--success}<br>
+**"Heavy" Reflections** part of the Civil Writes Project
 **"Heavy" Reflections** part of the Civil Writes Project
    [Details](/heavyreflections/){: .btn .btn--info}<br>
 **Kind Conversations August 8th** [Info/Sign-up](
