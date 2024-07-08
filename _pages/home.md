@@ -16,7 +16,7 @@ header:
 
 - Workshop 1:00pm to 4:00pm, Wednesday July 17, 2024 at Raha Coffee House in Arabic and English
 [التسجيل](
-https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+https://docs.google.com/forms/d/e/1FAIpQLSerfVI86bF9G-PdLrSbkCPRUtIXxPMWOtPKLf2CSTTRAPjLKA/viewform?usp=sf_link
 ){: .btn .btn--success}
 [Sign Up](
 https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
@@ -63,8 +63,13 @@ at [hy@kindfools.org](mailto:hy@kindfools.org) or [(716) 259-2725](tel:716259272
 <br><br>
 
 <figure style="max-width: 966px" class="align-center">
-  <img src="/assets/images/writeonhomeflyer202407.png"
+  <img src="/assets/images/writeonhomeflyer202407_english.png"
    alt="Recovery Stories Poster">
+</figure> 
+
+<figure style="max-width: 966px" class="align-center">
+  <img src="/assets/images/writeonhomeflyer202407_arabic.png"
+   alt="Recovery Stories Poster Arabic">
 </figure> 
 
 {% comment %}
