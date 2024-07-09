@@ -16,6 +16,10 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 - **Tuesday, July 23rd 6:00pm-8:30pm** WRITE ON at Rise of WNY at 1643 Hertel Ave
 [Sign Up](/signups/writeon20240723/){: .btn .btn--success}
 
+- **Kind Conversations** on Thursday, August 8th 6:00pm-8:30pm at UUCB (not a writing workshop) [Sign Up](
+https://docs.google.com/forms/d/e/1FAIpQLSd3jJyc9LoHKF40-2usq4VuTALCibpHtX9s7hOpf06QA36CbA/viewform?usp=sf_link
+){: .btn .btn--success}
+
 {% comment %}
 
 - *Tuesday, May 21 6:00pm-8:30pm* WRITE ON intuitive writing group inspired by "Heavy"
