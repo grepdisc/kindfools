@@ -16,19 +16,16 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON on Thursday July 11th at 1:00pm**
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 **Recovery Stories** - sharing circle for Jay GilPatrick on July 15th at 3:00pm
     [Sign Up/Info](/recoverystories/){: .btn .btn--success}<br>
 **WRITE ON on Tuesday July 23rd at 6:00pm**
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
-**WRITE ON - Home** writing in your native language
+**WRITE ON - Home** writing in your native language (7/17, 7/30 & 8/13)
     [Sign Up/Info](/home/){: .btn .btn--success}<br>
-**"Heavy" Reflections** part of the Civil Writes Project
-**"Heavy" Reflections** part of the Civil Writes Project
-   [Details](/heavyreflections/){: .btn .btn--info}<br>
 **Kind Conversations August 8th** [Info/Sign-up](
     /kindconversations/){: .btn .btn--success}<br>
+**"Heavy" Reflections** part of the Civil Writes Project
+   [Details](/heavyreflections/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
