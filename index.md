@@ -16,11 +16,9 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**Recovery Stories** - sharing circle for Jay GilPatrick on July 15th at 3:00pm
-    [Sign Up/Info](/recoverystories/){: .btn .btn--success}<br>
 **WRITE ON on Tuesday July 23rd at 6:00pm**
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
-**WRITE ON - Home** writing in your native language (7/17, 7/30 & 8/13)
+**WRITE ON - Home** writing in your native language (7/30 & 8/13)
     [Sign Up/Info](/home/){: .btn .btn--success}<br>
 **Kind Conversations August 8th** [Info/Sign-up](
     /kindconversations/){: .btn .btn--success}<br>
