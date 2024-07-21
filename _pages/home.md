@@ -21,7 +21,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSerfVI86bF9G-PdLrSbkCPRUtIXxPMWOtPKLf2C
 [Sign Up](
 https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
 ){: .btn .btn--success}
-- Workshop 1:00pm to 4:00pm, Tuesday July 30, 2024 at Raha Coffee House in Burmese and English
+- Workshop 1:00pm to 4:00pm, Tuesday July 30, 2024 at Fitz Books & Waffles in Burmese and English
 [ဆိုင်းအပ်](
 https://docs.google.com/forms/d/e/1FAIpQLSdudIG8fT2u5i_BmL2VwRwczaVoxLozgnoEqwNkGc7bt2x5Xw/viewform?usp=sf_link
 ){: .btn .btn--success}
