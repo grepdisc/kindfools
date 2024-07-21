@@ -23,7 +23,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziY
 ){: .btn .btn--success}
 - Workshop 1:00pm to 4:00pm, Tuesday July 30, 2024 at Raha Coffee House in Burmese and English
 [ဆိုင်းအပ်](
-https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+https://docs.google.com/forms/d/e/1FAIpQLSdudIG8fT2u5i_BmL2VwRwczaVoxLozgnoEqwNkGc7bt2x5Xw/viewform?usp=sf_link
 ){: .btn .btn--success}
 [Sign Up](
 https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
@@ -63,13 +63,13 @@ at [hy@kindfools.org](mailto:hy@kindfools.org) or [(716) 259-2725](tel:716259272
 <br><br>
 
 <figure style="max-width: 966px" class="align-center">
-  <img src="/assets/images/writeonhomeflyer202407_english.png"
-   alt="Recovery Stories Poster">
+  <img src="/assets/images/writeonhomeflyer20240730_english.png"
+   alt="WRITE ON - Home Poster English">
 </figure> 
 
 <figure style="max-width: 966px" class="align-center">
-  <img src="/assets/images/writeonhomeflyer202407_arabic.png"
-   alt="Recovery Stories Poster Arabic">
+  <img src="/assets/images/writeonhomeflyer20240730_burmese.png"
+   alt="WRITE ON - Home Poster Arabic">
 </figure> 
 
 {% comment %}
