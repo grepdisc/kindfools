@@ -9,12 +9,9 @@ header:
 ---
 
 
-# Recovery Stories on Monday, July 15, 2024
+# Recovery Stories on Monday, August 26, 2024
 
 Recovery Stories - an accepting space to share poems and stories of recovery.
-
-## Note: the July Recovery Stories we be a sharing circle in memory of mental health peer leader Jay GilPatrick at 3:00pm on Monday, July 15th.
-{: .notice--success .maxwidthbox .align-center}
 
 Thoughts? Please reach out to Recovery Stories founder Samuel Floyd
 at **[mr.samuelfloyd@gmail.com](mailto:mr.samuelfloyd@gmail.com)**
@@ -23,13 +20,14 @@ at **[mr.samuelfloyd@gmail.com](mailto:mr.samuelfloyd@gmail.com)**
 
 
 <figure style="max-width: 966px" class="align-center">
-  <img src="/assets/images/recoverystoriesflyer20240715.jpg"
+  <img src="/assets/images/recoverystoriesflyer20240826.jpg"
    alt="Recovery Stories Poster">
 </figure> 
 
 
 # Prior Recovery Stories
 
+- July 15, 2024 Recovery Stories was a sharing circle in memory of mental health peer leader Jay GilPatrick
 - June 17, 2024 at Roswell Park's Community Outreach and Engagement Center
 - May 20, 2024 as part of [The Woven Event](/thewovenevent/) at Roswell Park's Community Outreach and Engagement Center
 - March 18, 2024 at Roswell Park's Community Outreach and Engagement Center
