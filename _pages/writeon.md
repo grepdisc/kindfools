@@ -10,12 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- **Tuesday, July 23rd 6:00pm-8:30pm** WRITE ON at Rise of WNY at 1643 Hertel Ave
-[Sign Up](/signups/writeon20240723/){: .btn .btn--success}
-
-- **Tuesday, July 30th 1:00pm-3:30pm** WRITE ON in Burmese, Chinese, Malay and English
-  at Fitz Books & Waffles [Details](/home/){: .btn .btn--success}
-
 - **Kind Conversations** on Thursday, August 8th 6:00pm-8:30pm at UUCB (not a writing workshop) [Sign Up](
 https://docs.google.com/forms/d/e/1FAIpQLSd3jJyc9LoHKF40-2usq4VuTALCibpHtX9s7hOpf06QA36CbA/viewform?usp=sf_link
 ){: .btn .btn--success}
@@ -157,6 +151,10 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
   Buffalo to write, inspired by a poem by Meister Eckhart.
 - Tuesday, June 18 WRITE ON at Indigo House
 - Thursday, July 11 WRITE ON at CAO's Masten Resource Center
+- Wednesday, July 17 WRITE ON - Home at Raha Coffee House, writing in Arabic, Pashto, Portuguese and English
+- Tuesday, July 23 WRITE ON at Rise of WNY at 1643 Hertel Ave
+- Tuesday, July 30 WRITE ON in Burmese, Chinese, Malay and English at Fitz Books & Waffles [Details](/home/){: .btn .btn--info}
+
 
 
 

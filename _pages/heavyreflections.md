@@ -50,6 +50,20 @@ they relate to Kiese Laymon’s memoir and BABEL discussion.
 - *Saturday, June 22* 1:00-3:00pm Celebration/Presentation at Fitz Books & Waffles of
    publication of writings by core group
 
+## A gathering to celebrate our work and the publication of our poems/reflections inspired by "Heavy"
+
+<figure style="max-width: 1080px" class="align-center">
+  <img src="/assets/images/heavyreflectionsgroup.jpg"
+   alt="Heavy Reflections Celebration">
+</figure>
+
+## Each poet performed their poem from "Heavy Reflections"
+
+<figure style="max-width: 1080px" class="align-center">
+  <img src="/assets/images/heavyreflectionspoets.jpg"
+   alt="Heavy Reflections Poets">
+</figure>
+
 {% comment %}
 Together, we will read and discuss Heavy.<br>
 Together, we will attend Kiese Laymon's BABEL discussion.<br>

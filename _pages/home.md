@@ -64,13 +64,23 @@ at [hy@kindfools.org](mailto:hy@kindfools.org) or [(716) 259-2725](tel:716259272
 <br><br>
 
 <figure style="max-width: 966px" class="align-center">
+  <img src="/assets/images/writeonhomeflyer20240813_english.png"
+   alt="WRITE ON - Home Poster English">
+</figure> 
+
+<figure style="max-width: 966px" class="align-center">
+  <img src="/assets/images/writeonhomeflyer20240813_spanish.png"
+   alt="WRITE ON - Home Poster Spanish">
+</figure> 
+
+<figure style="max-width: 966px" class="align-center">
   <img src="/assets/images/writeonhomeflyer20240730_english.png"
    alt="WRITE ON - Home Poster English">
 </figure> 
 
 <figure style="max-width: 966px" class="align-center">
   <img src="/assets/images/writeonhomeflyer20240730_burmese.png"
-   alt="WRITE ON - Home Poster Arabic">
+   alt="WRITE ON - Home Poster Burmese">
 </figure> 
 
 {% comment %}
