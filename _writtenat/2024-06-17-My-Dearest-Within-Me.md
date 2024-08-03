@@ -11,7 +11,7 @@ excerpt: "You’re the Sun My Sun
           The reason Bees pass the secrets of the flowers"
 
 author:
-  name             : "Tyler Mateo Feliciano"
+  name             : "Tyler Feliciano"
   avatar           : # "/assets/images/"
   bio              : "19 year old writing major and Buffalo native attending Buff State. Pronouns are he/they."
   location         : "Buffalo, NY"
@@ -26,7 +26,7 @@ author:
 
 [Written at WRITE ON!](/writtenat/) is a series of articles written by participants during a [WRITE ON! workshop](/writeon), and shared with the community.
 
-Tyler Mateo Feliciano wrote this during Kind Fools' June 11, 2024
+Tyler Feliciano wrote this during Kind Fools' June 11, 2024
 WRITE ON! workshop at Good Shepherd Lutheran Church.
 
 ## My Dearest Within Me
