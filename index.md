@@ -16,8 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**Kind Conversations August 8th** [Info/Sign-up](
-    /kindconversations/){: .btn .btn--success}<br>
 **WRITE ON - Home** writing in your native language - Aug 13
     [Sign Up/Info](/home/){: .btn .btn--success}<br>
 **WRITE ON on Tuesday August 20th at 6:00pm**
@@ -34,6 +32,8 @@ https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+**Kind Conversations August 8th** [Info/Sign-up](
+    /kindconversations/){: .btn .btn--success}<br>
 Deadline of June 1st for **Heavy Reflections** to [Submit Your Writing](
      https://docs.google.com/forms/d/e/1FAIpQLSeGun-mNIqwkah9h1Z-uaKtSew6GD5pRmeW0_6y5PouaS0ZYw/viewform?usp=sf_link
   ){: .btn .btn--large .btn--success}

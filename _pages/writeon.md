@@ -10,10 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- **Kind Conversations** on Thursday, August 8th 6:00pm-8:30pm at UUCB (not a writing workshop) [Sign Up](
-https://docs.google.com/forms/d/e/1FAIpQLSd3jJyc9LoHKF40-2usq4VuTALCibpHtX9s7hOpf06QA36CbA/viewform?usp=sf_link
-){: .btn .btn--success}
-
 - **Tuesday, August 20th 6:00pm-8:30pm** WRITE ON at Big Big Table at 272 Hudson Street
 [Sign Up](/signups/writeon20240820/){: .btn .btn--success}
 

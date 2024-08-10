@@ -10,8 +10,10 @@ header:
 
 # Kind Conversations
 
-- **Thursday, August 8, 2024** Kind Conversations at Unitarian Universalist Church of Buffalo at 695 Elmwood Avenue
-[Sign Up](
+The first Kind Conversations was held on Thursday, August 8, 2024 at Unitarian Universalist Church of Buffalo at 695 Elmwood Avenue
+
+If you are interested in participating in a future Kind Conversation or other training inspired by Resetting the Table, please express 
+[Interest](
 https://docs.google.com/forms/d/e/1FAIpQLSd3jJyc9LoHKF40-2usq4VuTALCibpHtX9s7hOpf06QA36CbA/viewform?usp=sf_link
 ){: .btn .btn--success}
 
