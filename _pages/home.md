@@ -17,8 +17,9 @@ header:
 - Workshop 1:00pm to 4:00pm, Wednesday July 17, 2024 at Raha Coffee House in Arabic and English
 - Workshop 1:00pm to 4:00pm, Tuesday July 30, 2024 at Fitz Books & Waffles in Burmese and English
 - Workshop 1:00pm to 4:00pm, Tuesday August 13, 2024 at Fitz Books & Waffles in Spanish and English
-[Inscribirse](
-https://docs.google.com/forms/d/e/1FAIpQLSfZ_T1jTv1M-WmPdsqv6-G5zBteNEKQoFVzN-iNw4Dl6OPkDQ/viewform?usp=sf_link
+- Workshop 1:00pm to 4:00pm, Tuesday August 27, 2024 at Fitz Books & Waffles in French and English
+[s'inscrire](
+https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
 ){: .btn .btn--success}
 [Sign Up](
 https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
@@ -26,6 +27,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziY
 
 
 {% comment %}
+[Inscribirse](
+https://docs.google.com/forms/d/e/1FAIpQLSfZ_T1jTv1M-WmPdsqv6-G5zBteNEKQoFVzN-iNw4Dl6OPkDQ/viewform?usp=sf_link
+){: .btn .btn--success}
+
 [التسجيل](
 https://docs.google.com/forms/d/e/1FAIpQLSerfVI86bF9G-PdLrSbkCPRUtIXxPMWOtPKLf2CSTTRAPjLKA/viewform?usp=sf_link
 ){: .btn .btn--success}
@@ -62,6 +67,11 @@ community, please reach out to<br>
 at [hy@kindfools.org](mailto:hy@kindfools.org) or [(716) 259-2725](tel:7162592725)
 
 <br><br>
+
+<figure style="max-width: 966px" class="align-center">
+  <img src="/assets/images/writeonhomeflyer20240827_english.png"
+   alt="WRITE ON - Home Poster English">
+</figure> 
 
 <figure style="max-width: 966px" class="align-center">
   <img src="/assets/images/writeonhomeflyer20240813_english.png"

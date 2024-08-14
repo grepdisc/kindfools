@@ -16,12 +16,12 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON - Home** writing in your native language - Aug 13
-    [Sign Up/Info](/home/){: .btn .btn--success}<br>
 **WRITE ON on Tuesday August 20th at 6:00pm**
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:30pm August 26th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
+**WRITE ON - Home** writing in your native language - Aug 27
+    [Sign Up/Info](/home/){: .btn .btn--success}<br>
 **"Heavy" Reflections** part of the Civil Writes Project
    [Details](/heavyreflections/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
