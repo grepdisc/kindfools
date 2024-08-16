@@ -19,7 +19,7 @@ header:
 - Workshop 1:00pm to 4:00pm, Tuesday August 13, 2024 at Fitz Books & Waffles in Spanish and English
 - Workshop 1:00pm to 4:00pm, Tuesday August 27, 2024 at Fitz Books & Waffles in French and English
 [s'inscrire](
-https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+https://docs.google.com/forms/d/e/1FAIpQLSclICzi9T8bZ2uHTiYaQSvrNoqb9ELCdQP7bVy8LlmF9NH2Tg/viewform?usp=sf_link
 ){: .btn .btn--success}
 [Sign Up](
 https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
@@ -67,6 +67,11 @@ community, please reach out to<br>
 at [hy@kindfools.org](mailto:hy@kindfools.org) or [(716) 259-2725](tel:7162592725)
 
 <br><br>
+
+<figure style="max-width: 966px" class="align-center">
+  <img src="/assets/images/writeonhomeflyer20240827_french.png"
+   alt="WRITE ON - Home Poster French">
+</figure> 
 
 <figure style="max-width: 966px" class="align-center">
   <img src="/assets/images/writeonhomeflyer20240827_english.png"
