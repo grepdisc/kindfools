@@ -105,7 +105,7 @@ Please check back here soon for more WRITE ON workshops.
 {: .text-center .clear-left}
 
 <div class="grid_wrapper">
-  {% for post in site.writtenat limit:20 %}
+  {% for post in site.writtenat limit:24 %}
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
