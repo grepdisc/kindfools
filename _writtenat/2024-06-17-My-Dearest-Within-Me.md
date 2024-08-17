@@ -7,8 +7,7 @@ categories:
 tags:
   - Kind Fools
 
-excerpt: "You’re the Sun My Sun
-          The reason Bees pass the secrets of the flowers"
+excerpt: "I want my insides to match my outsides"
 
 author:
   name             : "Tyler Feliciano"
