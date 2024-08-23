@@ -16,12 +16,14 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON on Tuesday August 20th at 6:00pm**
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:30pm August 26th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
 **WRITE ON - Home** writing in your native language - Aug 27
     [Sign Up/Info](/home/){: .btn .btn--success}<br>
+Community Swing - Celebration August 28th [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+Party in the Park - Saturday September 7th [Details]( 
+    https://communitycanvases.org/events/partyinthepark20240907/){: .btn .btn--info}<br>
 **"Heavy" Reflections** part of the Civil Writes Project
    [Details](/heavyreflections/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
@@ -32,6 +34,8 @@ https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+**WRITE ON on Tuesday August 20th at 6:00pm**
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 **Kind Conversations August 8th** [Info/Sign-up](
     /kindconversations/){: .btn .btn--success}<br>
 Deadline of June 1st for **Heavy Reflections** to [Submit Your Writing](
