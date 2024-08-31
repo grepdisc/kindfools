@@ -10,10 +10,11 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- **WRITE ON - Home** on August 27th [Details](/home/){: .btn .btn--info}
+- TBA
 
 {% comment %}
 
+- **WRITE ON - Home** on August 27th [Details](/home/){: .btn .btn--info}
 - *Tuesday, May 21 6:00pm-8:30pm* WRITE ON intuitive writing group inspired by "Heavy"
 [Sign Up](/signups/writeon20240521/){: .btn .btn--success}
 RSVP for our **Wednesday February 14th** virtual workshop at 6:00pm to 8:30pm EST
@@ -149,8 +150,9 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - Wednesday, July 17 WRITE ON - Home at Raha Coffee House, writing in Arabic, Pashto, Portuguese and English
 - Tuesday, July 23 WRITE ON at Rise of WNY at 1643 Hertel Ave
 - Tuesday, July 30 WRITE ON in Burmese, Chinese, Malay and English at Fitz Books & Waffles
-- Tuesday, August 13 WRITE ON in Spanish and English at Fitz Books & Waffles [Details](/home/){: .btn .btn--info}
+- Tuesday, August 13 WRITE ON in Spanish and English at Fitz Books & Waffles
 - Tuesday, August 20 WRITE ON at Big Big Table 
+- Tuesday, August 17 WRITE ON in French and English at Fitz Books & Waffles [Details](/home/){: .btn .btn--info}
 
 
 

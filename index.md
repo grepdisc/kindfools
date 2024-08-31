@@ -16,16 +16,16 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Our partner - **Recovery Stories at 5:30pm August 26th** [Info/Sign-up](
-    /recoverystories/){: .btn .btn--info}<br>
-**WRITE ON - Home** writing in your native language - Aug 27
-    [Sign Up/Info](/home/){: .btn .btn--success}<br>
-Community Swing - Celebration August 28th [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Party in the Park - Saturday September 7th [Details]( 
     https://communitycanvases.org/events/partyinthepark20240907/){: .btn .btn--info}<br>
+WRITE ON - Home - writing in your native language
+    [Details](/home/){: .btn .btn--success}<br>
 **"Heavy" Reflections** part of the Civil Writes Project
    [Details](/heavyreflections/){: .btn .btn--info}<br>
+Our partner - **Recovery Stories at 5:30pm September 16th** [Info/Sign-up](
+    /recoverystories/){: .btn .btn--info}<br>
+Community Swing - Celebration September 25th [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
