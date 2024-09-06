@@ -18,6 +18,8 @@ all_posts:
 
 Party in the Park - Saturday September 7th [Details]( 
     https://communitycanvases.org/events/partyinthepark20240907/){: .btn .btn--info}<br>
+**Upcoming WRITE ON intuitive writing workshops**
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your native language
     [Details](/home/){: .btn .btn--success}<br>
 **"Heavy" Reflections** part of the Civil Writes Project
