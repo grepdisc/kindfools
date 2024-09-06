@@ -9,7 +9,7 @@ header:
 ---
 
 
-# Recovery Stories on Monday, August 26, 2024
+# Recovery Stories on Monday, September 16, 2024
 
 Recovery Stories - an accepting space to share poems and stories of recovery.
 
