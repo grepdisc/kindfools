@@ -20,13 +20,15 @@ at **[mr.samuelfloyd@gmail.com](mailto:mr.samuelfloyd@gmail.com)**
 
 
 <figure style="max-width: 966px" class="align-center">
-  <img src="/assets/images/recoverystoriesflyer20240826.jpg"
+  <img src="/assets/images/recoverystoriesflyer20240916.png"
+- June 17, 2024 at Roswell Park's Community Outreach and Engagement Center
    alt="Recovery Stories Poster">
 </figure> 
 
 
 # Prior Recovery Stories
 
+- August 26, 2024 at Roswell Park's Community Outreach and Engagement Center
 - July 15, 2024 Recovery Stories was a sharing circle in memory of mental health peer leader Jay GilPatrick
 - June 17, 2024 at Roswell Park's Community Outreach and Engagement Center
 - May 20, 2024 as part of [The Woven Event](/thewovenevent/) at Roswell Park's Community Outreach and Engagement Center
