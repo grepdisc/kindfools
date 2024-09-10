@@ -21,7 +21,6 @@ at **[mr.samuelfloyd@gmail.com](mailto:mr.samuelfloyd@gmail.com)**
 
 <figure style="max-width: 966px" class="align-center">
   <img src="/assets/images/recoverystoriesflyer20240916.png"
-- June 17, 2024 at Roswell Park's Community Outreach and Engagement Center
    alt="Recovery Stories Poster">
 </figure> 
 
