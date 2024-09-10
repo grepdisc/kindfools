@@ -16,16 +16,16 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Party in the Park - Saturday September 7th [Details]( 
-    https://communitycanvases.org/events/partyinthepark20240907/){: .btn .btn--info}<br>
-**Upcoming WRITE ON intuitive writing workshops**
+Our partner - **Recovery Stories at 5:30pm September 16th** [Info/Sign-up](
+    /recoverystories/){: .btn .btn--success}<br>
+**Upcoming WRITE ON September 24th and October 3rd**
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your native language
     [Details](/home/){: .btn .btn--success}<br>
 **"Heavy" Reflections** part of the Civil Writes Project
    [Details](/heavyreflections/){: .btn .btn--info}<br>
-Our partner - **Recovery Stories at 5:30pm September 16th** [Info/Sign-up](
-    /recoverystories/){: .btn .btn--info}<br>
+Party in the Park - Saturday September 7th [Details]( 
+    https://communitycanvases.org/events/partyinthepark20240907/){: .btn .btn--info}<br>
 Community Swing - Celebration September 25th [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](

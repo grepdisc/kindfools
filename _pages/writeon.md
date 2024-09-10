@@ -10,12 +10,13 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
+- *Tuesday, September 24th 6:00pm-8:30pm* WRITE ON at TBA
+[Sign Up](/signups/writeon202410924/){: .btn .btn--success}
+
 - *Thursday, October 3rd 1:00pm-3:30pm* WRITE ON at CAO Rafi Greene Masten Resource Center
 [Sign Up](/signups/writeon20241003/){: .btn .btn--success}
 
 {% comment %}
-- *Tuesday, September 24th 6:00pm-8:30pm* WRITE ON at TBA
-[Sign Up](/signups/writeon202410924/){: .btn .btn--success}
 
 - **WRITE ON - Home** on August 27th [Details](/home/){: .btn .btn--info}
 - *Tuesday, May 21 6:00pm-8:30pm* WRITE ON intuitive writing group inspired by "Heavy"
