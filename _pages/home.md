@@ -54,6 +54,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziY
 
 The goal of this project is to build just relationships (and a common sense of community) among people across the city, to foster confidence in self-expression and writing, and to build paths of mutual respect and understanding. Putting the comfort and emotional safety of our participants first, we seek to discover what these writers create from their lived experience. What universal truths and commonalities arise among each group’s writings? What is unique in each person or groups’ relationship with home?
 
+<figure style="max-width: 945px" class="align-center">
+  <img src="/assets/images/writeonhomeposter1.png"
+   alt="WRITE ON - Home Poster">
+</figure> 
 
 For more information on this collaboration between
 [The New York Immigration Coalition](https://www.nyic.org)
