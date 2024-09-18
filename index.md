@@ -26,7 +26,7 @@ WRITE ON - Home - writing in your native language
    [Details](/heavyreflections/){: .btn .btn--info}<br>
 Party in the Park was September 7th [Details]( 
     https://communitycanvases.org/events/partyinthepark20240907/){: .btn .btn--info}<br>
-Our partner - **Recovery Stories at 5:30pm October 16th** [Info/Sign-up](
+Our partner - **Recovery Stories at 5:30pm October 28th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
 Community Swing - Celebration September 25th [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
