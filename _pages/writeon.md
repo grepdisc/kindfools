@@ -13,7 +13,7 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 - *Tuesday, September 24th 6:00pm-8:30pm* WRITE ON at the BURC
 [Sign Up](/signups/writeon20240924/){: .btn .btn--success}
 
-- *Thursday, October 3rd 1:00pm-3:30pm* WRITE ON at CAO Rafi Greene Masten Resource Center
+- *Thursday, October 3rd 1:00pm-3:30pm* WRITE ON at TBD
 [Sign Up](/signups/writeon20241003/){: .btn .btn--success}
 
 {% comment %}
