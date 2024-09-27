@@ -10,11 +10,11 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Tuesday, September 24th 6:00pm-8:30pm* WRITE ON at the BURC
-[Sign Up](/signups/writeon20240924/){: .btn .btn--success}
-
-- *Thursday, October 3rd 1:00pm-3:30pm* WRITE ON at TBD
+- *Thursday, October 3rd 1:00pm-3:30pm* WRITE ON at [Rise of WNY]()
 [Sign Up](/signups/writeon20241003/){: .btn .btn--success}
+
+- *Tuesday, October 15th 6:00pm-8:30pm* WRITE ON at [Indigo House](http://indigohousebuffalo.com/)
+[Sign Up](/signups/writeon20241015/){: .btn .btn--success}
 
 {% comment %}
 
@@ -110,7 +110,7 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - Thank you to a couple Faithful Fools from Chicago for joining our Buffalo
   group on Zoom for our December 19, 2023 workshop featuring *Dogfish* by
   Mary Oliver.
-- On Thursday, January 11th, so many pillars of our community gathered at
+- On Thursday, January 11, 2024, so many pillars of our community gathered at
   [CAO Masten Resource Center](https://www.caowny.org/masten-resource-center/)
   for the first WRITE ON of 2024.
 - On Tuesday, January 16th, people braved the cold to join us at Indigo House
@@ -126,7 +126,7 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
   This single workshop flowed from sharing like in Recovery Stories into writing
   like in WRITE ON! and then concluding with sharing like in Ground & Sky Poetry
   Series. [Info](/thewovenevent/){: .btn .btn--info}<br>
-- On Thursday, March 7th, a few people gathered to write about time, change,
+- On Thursday, March 7th, 2024, a few people gathered to write about time, change,
   spaced time, and feelings, ideas & stories at
   [CAO Masten Resource Center](https://www.caowny.org/masten-resource-center/).
 - Our first workshop at the Unitarian Universalist Church of Buffalo (UUCB)
@@ -142,24 +142,22 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - On Monday, May 6, 2024 our "Heavy" Reflections cohort participated in a [Once Trees Book Club](
   https://www.educationtrainingcenterinc.com/groundandskypoetryseries
   ) discussion of "Heavy" at CAO's Masten Resource Center
-- On Thursday, May 9 our Heavy Reflections groups returned to CAO's Masten Resource Center to
+- On Thursday, May 9, 2024 our Heavy Reflections groups returned to CAO's Masten Resource Center to
   write and to be filmed by Just Buffalo Literary Center as part of their Civil Writes Project
-- On Monday, May 20 [The Woven Event](/thewovenevent/) met at Roswell Park’s Community
+- On Monday, May 20, 2024 [The Woven Event](/thewovenevent/) met at Roswell Park’s Community
   Outreach & Engagement Center at 907 Michigan Ave.
-- On Tuesday, May 21 Rise of WNY hosted our WRITE ON intuitive writing group inspired by "Heavy"
-- On Tuesday, June 11 WRITE ON met at Good Shepherd Lutheran Church in Tonawanda, inviting people from across
+- On Tuesday, May 21, 2024 Rise of WNY hosted our WRITE ON intuitive writing group inspired by "Heavy"
+- On Tuesday, June 11, 2024 WRITE ON met at Good Shepherd Lutheran Church in Tonawanda, inviting people from across
   Buffalo to write, inspired by a poem by Meister Eckhart.
-- Tuesday, June 18 WRITE ON at Indigo House
-- Thursday, July 11 WRITE ON at CAO's Masten Resource Center
-- Wednesday, July 17 WRITE ON - Home at Raha Coffee House, writing in Arabic, Pashto, Portuguese and English
-- Tuesday, July 23 WRITE ON at Rise of WNY at 1643 Hertel Ave
-- Tuesday, July 30 WRITE ON in Burmese, Chinese, Malay and English at Fitz Books & Waffles
-- Tuesday, August 13 WRITE ON in Spanish and English at Fitz Books & Waffles
-- Tuesday, August 20 WRITE ON at Big Big Table 
-- Tuesday, August 17 WRITE ON in French and English at Fitz Books & Waffles [Details](/home/){: .btn .btn--info}
-
-
-
+- Tuesday, June 18, 2024 WRITE ON at Indigo House
+- Thursday, July 11, 2024 WRITE ON at CAO's Masten Resource Center
+- Wednesday, July 17, 2024 WRITE ON - Home at Raha Coffee House, writing in Arabic, Pashto, Portuguese and English
+- Tuesday, July 23, 2024 WRITE ON at Rise of WNY at 1643 Hertel Ave
+- Tuesday, July 30, 2024 WRITE ON in Burmese, Chinese, Malay and English at Fitz Books & Waffles
+- Tuesday, August 13, 2024 WRITE ON in Spanish and English at Fitz Books & Waffles
+- Tuesday, August 20, 2024 WRITE ON at Big Big Table 
+- Tuesday, August 27, 2024 WRITE ON in French and English at Fitz Books & Waffles [Details](/home/){: .btn .btn--info}
+- Tuesday, September 24, 2024 WRITE ON at the BURC
 
 
 
