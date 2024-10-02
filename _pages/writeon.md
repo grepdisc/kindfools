@@ -16,6 +16,12 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 - *Tuesday, October 15th 6:00pm-8:30pm* WRITE ON at [Indigo House](http://indigohousebuffalo.com/)
 [Sign Up](/signups/writeon20241015/){: .btn .btn--success}
 
+- *Saturday, October 19th 2:00pm-4:00pm* WRITE ON!: Imagining 1412 Jefferson Avenue
+[Sign Up](/signups/writeon20241019/){: .btn .btn--success}
+
+- *Tuesday, November 12th 6:00pm-8:30pm* WRITE ON at [Rise of WNY]()
+[Sign Up](/signups/writeon20241112/){: .btn .btn--success}
+
 {% comment %}
 
 - **WRITE ON - Home** on August 27th [Details](/home/){: .btn .btn--info}
