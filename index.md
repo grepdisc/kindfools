@@ -16,8 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON October 3rd 1pm at Rise of WNY**
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 **The Home Within** October 10th Language Justice Performance
     [Details](https://www.facebook.com/events/1058078788608399){: .btn .btn--info}<br>
 **WRITE ON October 15th 6pm at Indigo House**

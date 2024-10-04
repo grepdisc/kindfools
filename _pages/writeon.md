@@ -10,9 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Thursday, October 3rd 1:00pm-3:30pm* WRITE ON at [Rise of WNY]()
-[Sign Up](/signups/writeon20241003/){: .btn .btn--success}
-
 - *Tuesday, October 15th 6:00pm-8:30pm* WRITE ON at [Indigo House](http://indigohousebuffalo.com/)
 [Sign Up](/signups/writeon20241015/){: .btn .btn--success}
 
@@ -164,6 +161,9 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - Tuesday, August 20, 2024 WRITE ON at Big Big Table 
 - Tuesday, August 27, 2024 WRITE ON in French and English at Fitz Books & Waffles [Details](/home/){: .btn .btn--info}
 - Tuesday, September 24, 2024 WRITE ON at the BURC
+- Tuesday, October 1, 2024 WRITE ON at the Women's Empowerment group at the BURC
+- Thursday, October 3rd WRITE ON at [Rise of WNY](http://riseofwny.org/)
+
 
 
 
