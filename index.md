@@ -16,20 +16,18 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**The Home Within** October 10th Language Justice Performance
-    [Details](https://www.facebook.com/events/1058078788608399){: .btn .btn--info}<br>
-**WRITE ON October 15th 6pm at Indigo House**
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Community Canvases **Pumpkin Carving & Film** October 18th
     [Details](https://www.chateaubuffalo.com/suite-16-cinema-series){: .btn .btn--info}<br>
 WNY Trash Mob Grant St Cleanup Up October 19th
     [Details](https://communitycanvases.org/events/cleanup20241019/){: .btn .btn--info}<br>
+**WRITE ON October 19th** 2pm at 1412 Jefferson Ave
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+Our partner - **Recovery Stories at 5:30pm October 28th** [Info/Sign-up](
+    /recoverystories/){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your native language
     [Details](/home/){: .btn .btn--success}<br>
 **"Heavy" Reflections** part of the Civil Writes Project
    [Details](/heavyreflections/){: .btn .btn--info}<br>
-Our partner - **Recovery Stories at 5:30pm October 28th** [Info/Sign-up](
-    /recoverystories/){: .btn .btn--success}<br>
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
