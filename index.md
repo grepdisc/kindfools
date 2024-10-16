@@ -17,15 +17,15 @@ all_posts:
 {: .text-center}
 
 Community Canvases **Pumpkin Carving & Film** October 18th
-    [Details](https://www.chateaubuffalo.com/suite-16-cinema-series){: .btn .btn--info}<br>
+    [Details](https://www.chateaubuffalo.com/suite-16-cinema-series){: .btn .btn--large .btn--success}<br>
 WNY Trash Mob Grant St Cleanup Up October 19th
-    [Details](https://communitycanvases.org/events/cleanup20241019/){: .btn .btn--info}<br>
+    [Details](https://communitycanvases.org/events/cleanup20241019/){: .btn .btn--success}<br>
 **WRITE ON October 19th** 2pm at 1412 Jefferson Ave
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:30pm October 28th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your native language
-    [Details](/home/){: .btn .btn--success}<br>
+    [Details](/home/){: .btn .btn--info}<br>
 **"Heavy" Reflections** part of the Civil Writes Project
    [Details](/heavyreflections/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
