@@ -20,7 +20,7 @@ at **[mr.samuelfloyd@gmail.com](mailto:mr.samuelfloyd@gmail.com)**
 
 
 <figure style="max-width: 966px" class="align-center">
-  <img src="/assets/images/recoverystoriesflyer202401028.png"
+  <img src="/assets/images/recoverystoriesflyer20241028.png"
    alt="Recovery Stories Poster">
 </figure> 
 
