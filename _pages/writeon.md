@@ -10,11 +10,11 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Saturday, October 19th 2:00pm-4:00pm* WRITE ON!: Imagining 1412 Jefferson Avenue
-[Sign Up](/signups/writeon20241019/){: .btn .btn--success}
-
-- *Tuesday, November 12th 6:00pm-8:30pm* WRITE ON at [Rise of WNY]()
+- *Tuesday, November 12th 6:00pm-8:30pm* WRITE ON at [Rise of WNY](https://www.riseofwny.org)
 [Sign Up](/signups/writeon20241112/){: .btn .btn--success}
+
+- *Tuesday, November 26th 6:00pm-8:30pm* WRITE ON at [UUCB](https://buffalouu.org)
+[Sign Up](/signups/writeon20241126/){: .btn .btn--success}
 
 {% comment %}
 
@@ -161,6 +161,9 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - Tuesday, October 1, 2024 WRITE ON at the Women's Empowerment group at the BURC
 - Thursday, October 3rd WRITE ON at [Rise of WNY](http://riseofwny.org/)
 - Tuesday, October 15th WRITE ON at [Indigo House](http://indigohousebuffalo.com/)
+- Saturday, October 19th WRITE ON!: Imagining 1412 Jefferson Avenue - a collaboration with the
+  Justice for Geraldine and Martin Campaign
+
 
 
 
