@@ -16,9 +16,9 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Our partner - **Recovery Stories at 5:30pm October 28th** [Info/Sign-up](
-    /recoverystories/){: .btn .btn--success}<br>
-**WRITE ON - November 12th** at Rise of WNY
+**WRITE ON - November 12th** at 6pm at Rise of WNY
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+**WRITE ON - November 26th** at 6pm at UUCB
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your native language
     [Details](/home/){: .btn .btn--info}<br>
