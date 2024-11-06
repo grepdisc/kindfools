@@ -13,7 +13,11 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 - *Tuesday, November 12th 6:00pm-8:30pm* WRITE ON at [Rise of WNY](https://www.riseofwny.org)
 [Sign Up](/signups/writeon20241112/){: .btn .btn--success}
 
-- *Tuesday, November 26th 6:00pm-8:30pm* WRITE ON at [UUCB](https://buffalouu.org)
+- *The Colors of Truth - Saturday, November 16th* at 1pm at [GSNC](
+    https://www.pushbuffalo.org/gsnc/)
+    [Details/Register](/colorsoftruth/){: .btn .btn--success}
+
+- *Tuesday, November 26th 6:00pm-9:00pm* WRITE ON at [UUCB](https://buffalouu.org)
 [Sign Up](/signups/writeon20241126/){: .btn .btn--success}
 
 {% comment %}

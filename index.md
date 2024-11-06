@@ -18,6 +18,9 @@ all_posts:
 
 **WRITE ON - November 12th** at 6pm at Rise of WNY
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+**The Colors of Truth - Saturday, November 16th** at 1pm at [GSNC](
+    https://www.pushbuffalo.org/gsnc/)
+    [Details/Register](/colorsoftruth/){: .btn .btn--success}<br>
 **WRITE ON - November 26th** at 6pm at UUCB
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your native language
