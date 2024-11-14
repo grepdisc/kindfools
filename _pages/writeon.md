@@ -10,15 +10,12 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Tuesday, November 12th 6:00pm-8:30pm* WRITE ON at [Rise of WNY](https://www.riseofwny.org)
-[Sign Up](/signups/writeon20241112/){: .btn .btn--success}
-
 - *The Colors of Truth - Saturday, November 16th* at 1pm at [GSNC](
     https://www.pushbuffalo.org/gsnc/)
-    [Details/Register](/colorsoftruth/){: .btn .btn--success}
+    [Details/Register](/colorsoftruth/){: .btn .btn--large .btn--success}
 
 - *Tuesday, November 26th 6:00pm-9:00pm* WRITE ON at [UUCB](https://buffalouu.org)
-[Sign Up](/signups/writeon20241126/){: .btn .btn--success}
+    [Sign Up](/signups/writeon20241126/){: .btn .btn--success}
 
 {% comment %}
 
@@ -158,6 +155,7 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - Wednesday, July 17, 2024 WRITE ON - Home at Raha Coffee House, writing in Arabic, Pashto, Portuguese and English
 - Tuesday, July 23, 2024 WRITE ON at Rise of WNY at 1643 Hertel Ave
 - Tuesday, July 30, 2024 WRITE ON in Burmese, Chinese, Malay and English at Fitz Books & Waffles
+- Friday, August 9, 2024 WRITE ON at YouthBuild
 - Tuesday, August 13, 2024 WRITE ON in Spanish and English at Fitz Books & Waffles
 - Tuesday, August 20, 2024 WRITE ON at Big Big Table 
 - Tuesday, August 27, 2024 WRITE ON in French and English at Fitz Books & Waffles [Details](/home/){: .btn .btn--info}
@@ -167,7 +165,9 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - Tuesday, October 15th WRITE ON at [Indigo House](http://indigohousebuffalo.com/)
 - Saturday, October 19th WRITE ON!: Imagining 1412 Jefferson Avenue - a collaboration with the
   Justice for Geraldine and Martin Campaign
-
+- Friday, August 9, 2024 WRITE ON at YouthBuild
+- Tuesday, November 12th WRITE ON at [Rise of WNY](https://www.riseofwny.org) with the support of facilitator Zaria Black
+- Thursday, November 14, 2024 Buffalo City Mission's Cornerstone Manor hosted WRITE ON for 19 brave women in their transitional housing program.
 
 
 
