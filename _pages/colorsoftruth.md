@@ -14,15 +14,20 @@ header:
 **Time:** 1:00pm to 4:00pm<br>
 **Location:** PUSH Buffalo's Grant Street Neighborhood Center at 271 Grant Street, Buffalo, NY 14213<br>
 
-**What:** This workshop will bring together our community to feel safe enough to feel and express our emotions related to gun violence and to celebrate the mentors who have shaped our lives.
+**What:** This workshop brought together our community to feel safe enough to feel and express our emotions related to gun violence and to celebrate the mentors who have shaped our lives.
 
-**Activities:** We will provide supplies for writing, drawing and painting. We will use a circle format and mindfulness meditation to ground people in the present moment and encourage them to express themselves. Just before the meditation, participants will self-select into one of two circles, one  about mentorship and one about gun violence. After listening to a poem about the topic, participants will be encouraged to express their truth through writing, drawing or painting constantly for 12 minutes to express their thoughts and experiences. Each circle will check-in, and then will write, draw, or paint for another 12 minutes, before having a social break.
+**Activities:** We provided supplies for writing, drawing and painting. We use a circle format and mindfulness meditation
+to ground people in the present moment and encourage them to express themselves.
+After listening to a poem about mentorship and gun violence, participants were encouraged to express their truth
+through writing, drawing or painting constantly for 10 minutes to express their thoughts and experiences.
 
-To wrap things up, we will hold a sharing circle where each participant will be offered the opportunity to share their creations, and to receive only authentic positive reflections from the group. This will be a beautiful way to connect, support each other, and remind ourselves that none of us are alone in this journey.
+To wrap things up, we hold a sharing circle where each participant is offered the opportunity to share their creations, and to receive only authentic positive reflections from the group. This is a beautiful way to connect, support each other, and remind ourselves that none of us are alone in this journey.
 
 
+{% comment %}
 [Sign Up Here](https://docs.google.com/forms/d/1JF7bt2yLfHGuXkyEDSHHBSMKnhI7AS5_HFDb6yF6hlc/viewform?usp=sf_link
 ){: .btn .btn--large .btn--success}
+{% endcomment %}
 
 **Organizers:**
 - [Agents for Advocacy](http://agentsforadvocacy.org/) was founded by Mark Talley out of a deep desire to fight for social and economic justice, to challenge systems of oppression, and to ensure that no one else endures the pain his family and countless others have experienced. Our mission is clear: to create a world where every individual, regardless of their race, ethnicity, or background, can live free from fear and inequality. 

@@ -10,10 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *The Colors of Truth - Saturday, November 16th* at 1pm at [GSNC](
-    https://www.pushbuffalo.org/gsnc/)
-    [Details/Register](/colorsoftruth/){: .btn .btn--large .btn--success}
-
 - *Tuesday, November 26th 6:00pm-9:00pm* WRITE ON at [UUCB](https://buffalouu.org)
     [Sign Up](/signups/writeon20241126/){: .btn .btn--success}
 
@@ -167,7 +163,13 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
   Justice for Geraldine and Martin Campaign
 - Friday, August 9, 2024 WRITE ON at YouthBuild
 - Tuesday, November 12th WRITE ON at [Rise of WNY](https://www.riseofwny.org) with the support of facilitator Zaria Black
-- Thursday, November 14, 2024 Buffalo City Mission's Cornerstone Manor hosted WRITE ON for 19 brave women in their transitional housing program.
+- Thursday, November 14, 2024 Buffalo City Mission's Cornerstone Manor hosted WRITE ON
+  for 19 brave women in their transitional housing program.
+- Friday, November 15, 2024 Buffalo City Mission invited us to lead WRITE ON with men at
+  their Alfiero Center of Hope and Promise transitional housing program.
+- Saturday, November 16th we offered a modified form of WRITE ON called The Colors of Truth at [GSNC](
+    https://www.pushbuffalo.org/gsnc/) [Details](/colorsoftruth/){: .btn .btn--info}
+
 
 
 
