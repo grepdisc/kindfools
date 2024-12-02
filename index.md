@@ -16,7 +16,7 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON - November 26th** at 6pm at UUCB
+**WRITE ON - December 12th** at 1pm at Merriweather Library
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your native language
     [Details](/home/){: .btn .btn--info}<br>

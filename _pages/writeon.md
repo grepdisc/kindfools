@@ -10,10 +10,21 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Tuesday, November 26th 6:00pm-9:00pm* WRITE ON at [UUCB](https://buffalouu.org)
-    [Sign Up](/signups/writeon20241126/){: .btn .btn--success}
+- *Thursday, December 12th 1:00pm-3:30pm* WRITE ON at
+   The [Frank E Merriweather Library Branch](
+   https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
+    [Sign Up](/signups/writeon20241212/){: .btn .btn--success}
 
 {% comment %}
+
+- *Tuesday, December 17th 6:00pm-8:30pm* WRITE ON at TBA
+    [Sign Up](/signups/writeon20241217/){: .btn .btn--success}
+
+- *Thursday, January 9th 1:00pm-3:30pm* WRITE ON at
+  The Frank E [Merriweather Library](
+  https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
+    [Sign Up](/signups/writeon20250109/){: .btn .btn--success}
+
 
 - **WRITE ON - Home** on August 27th [Details](/home/){: .btn .btn--info}
 - *Tuesday, May 21 6:00pm-8:30pm* WRITE ON intuitive writing group inspired by "Heavy"
@@ -169,6 +180,9 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
   their Alfiero Center of Hope and Promise transitional housing program.
 - Saturday, November 16th we offered a modified form of WRITE ON called The Colors of Truth at [GSNC](
     https://www.pushbuffalo.org/gsnc/) [Details](/colorsoftruth/){: .btn .btn--info}
+- Tuesday, November 26th WRITE ON at [UUCB](https://buffalouu.org) addressed indigenous perspectives on
+   Thanksgiving and ways that gratitude shows up in each of our lives.
+
 
 
 
