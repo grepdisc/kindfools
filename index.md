@@ -16,7 +16,7 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**Giving Tuesday** [Donate Today](https://communitycanvases.org/donate/
+**Giving Tuesday** [Donate This Week](https://communitycanvases.org/donate/
     ){: .btn .btn--success .btn--large}<br>
 **WRITE ON - December 12th** at 1pm at Merriweather Library
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
