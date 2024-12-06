@@ -9,7 +9,7 @@ header:
 ---
 
 
-# Recovery Stories on Monday, October 28, 2024
+# Recovery Stories on Monday, January 13, 2025
 
 Recovery Stories - an accepting space to share poems and stories of recovery.
 
@@ -27,6 +27,7 @@ at **[mr.samuelfloyd@gmail.com](mailto:mr.samuelfloyd@gmail.com)**
 
 # Prior Recovery Stories
 
+- October 28, 2024 at Roswell Park's Community Outreach and Engagement Center
 - September 16, 2024 at Roswell Park's Community Outreach and Engagement Center
 - August 26, 2024 at Roswell Park's Community Outreach and Engagement Center
 - July 15, 2024 Recovery Stories was a sharing circle in memory of mental health peer leader Jay GilPatrick

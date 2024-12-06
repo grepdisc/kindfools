@@ -14,16 +14,23 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
    The [Frank E Merriweather Library Branch](
    https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
     [Sign Up](/signups/writeon20241212/){: .btn .btn--success}
+- *Thursday, January 9th 1:00pm-3:30pm* WRITE ON at
+  The Frank E [Merriweather Library](
+  https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
+    [Sign Up](/signups/writeon20250109/){: .btn .btn--success}
+- *Thursday, January 16th 7:00pm-9:30pm* WRITE ON at
+  [Burning Books](
+  https://burningbooks.com/pages/contact)
+    [Sign Up](/signups/writeon20250116/){: .btn .btn--success}
+- *Tuesday, January 28th 6:00pm-8:30pm* WRITE ON at
+  [Big Big Table](
+  https://www.bigbigtable.org)
+    [Sign Up](/signups/writeon20250128/){: .btn .btn--success}
 
 {% comment %}
 
 - *Tuesday, December 17th 6:00pm-8:30pm* WRITE ON at TBA
     [Sign Up](/signups/writeon20241217/){: .btn .btn--success}
-
-- *Thursday, January 9th 1:00pm-3:30pm* WRITE ON at
-  The Frank E [Merriweather Library](
-  https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
-    [Sign Up](/signups/writeon20250109/){: .btn .btn--success}
 
 
 - **WRITE ON - Home** on August 27th [Details](/home/){: .btn .btn--info}
