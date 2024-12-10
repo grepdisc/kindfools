@@ -16,8 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**Giving Tuesday** [Donate This Week](https://communitycanvases.org/donate/
-    ){: .btn .btn--success .btn--large}<br>
 **WRITE ON - December 12th** at 1pm at Merriweather Library
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your native language
@@ -32,6 +30,8 @@ https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+**Giving Tuesday** [Donate This Week](https://communitycanvases.org/donate/
+    ){: .btn .btn--success .btn--large}<br>
 **WRITE ON on Tuesday August 20th at 6:00pm**
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 **Kind Conversations August 8th** [Info/Sign-up](
