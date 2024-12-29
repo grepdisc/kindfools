@@ -19,7 +19,7 @@ all_posts:
 **WRITE ON - January 9th** at 1pm at Merriweather Library
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:30pm January 13th** [Info/Sign-up](
-    /recoverystories/){: .btn .btn--info}<br>
+    /recoverystories/){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your native language
     [Details](/home/){: .btn .btn--info}<br>
 **"Heavy" Reflections** part of the Civil Writes Project

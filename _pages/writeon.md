@@ -10,10 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Thursday, December 12th 1:00pm-3:30pm* WRITE ON on Zoom ~~at
-   The [Frank E Merriweather Library Branch](
-   https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)~~
-    [Sign Up](/signups/writeon20241212/){: .btn .btn--success}
 - *Thursday, January 9th 1:00pm-3:30pm* WRITE ON at
   The Frank E [Merriweather Library](
   https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
@@ -189,8 +185,7 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
     https://www.pushbuffalo.org/gsnc/) [Details](/colorsoftruth/){: .btn .btn--info}
 - Tuesday, November 26th WRITE ON at [UUCB](https://buffalouu.org) addressed indigenous perspectives on
    Thanksgiving and ways that gratitude shows up in each of our lives.
-
-
+- Thursday, December 12th on Zoom
 
 
 
