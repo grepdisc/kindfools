@@ -20,6 +20,10 @@ all_posts:
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:30pm January 13th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
+**WRITE ON - January 16th** at 7pm at Burning Books
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+**WRITE ON - January 28th** at 6pm at Big Big Table
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your native language
     [Details](/home/){: .btn .btn--info}<br>
 **"Heavy" Reflections** part of the Civil Writes Project
@@ -27,6 +31,10 @@ WRITE ON - Home - writing in your native language
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
+Community Swing 6pm to 9pm every Wednesday
+    and featuring [Cami Clune](https://camiclune.com
+    ) on Jan 29th [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 All Community Canvases [Events](
 https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
