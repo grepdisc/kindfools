@@ -16,9 +16,12 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON - January 16th** at 7pm at Burning Books
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 **WRITE ON - January 28th** at 6pm at Big Big Table
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+Community Swing featuring [Cami Clune](https://camiclune.com
+    ) Wednesday, January 29th [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+**WRITE ON - February 4th** at 6pm at Rise of WNY
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:30pm February 10th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
