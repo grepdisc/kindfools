@@ -22,7 +22,7 @@ Our partner - **Recovery Stories at 5:30pm February 10th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
 **WRITE ON - February 13th** at 1pm at Merriweather Library
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
-**WRITE ON - February 425th** at 6pm at King Urban Life Center
+**WRITE ON - February 25th** at 6pm at King Urban Life Center
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your native language
     [Details](/home/){: .btn .btn--info}<br>
