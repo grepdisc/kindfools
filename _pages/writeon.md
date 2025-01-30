@@ -10,10 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Tuesday, January 28th 6:00pm-8:30pm* WRITE ON at
-  [Big Big Table](
-  https://www.bigbigtable.org)
-    [Sign Up](/signups/writeon20250128/){: .btn .btn--success}
 - *Tuesday, February 4th 6:00pm-8:30pm* WRITE ON at
   [Rise of WNY](
   https://www.riseofwny.org)
@@ -22,6 +18,9 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
   The Frank E [Merriweather Library](
   https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
     [Sign Up](/signups/writeon20250213/){: .btn .btn--success}
+- *Tuesday, February 25th 6:00pm-8:30pm* WRITE ON at
+  [King Urban Life Center](https://www.kingurbanlifecenter.org)
+    [Sign Up](/signups/writeon20250225/){: .btn .btn--success}
 
 {% comment %}
 
@@ -191,6 +190,8 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - Thursday, January 16th WRITE ON on Zoom due to snow, had been planned at
   [Burning Books](
   https://burningbooks.com/pages/contact)
+- Tuesday, January 28th WRITE ON at [Big Big Table](
+  https://www.bigbigtable.org)
 
 
 
