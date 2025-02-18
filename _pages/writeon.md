@@ -10,13 +10,16 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Thursday, February 13th 1:00pm-3:30pm* WRITE ON at
-  The Frank E [Merriweather Library](
-  https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
-    [Sign Up](/signups/writeon20250213/){: .btn .btn--success}
 - *Tuesday, February 25th 6:00pm-8:30pm* WRITE ON at
   [King Urban Life Center](https://www.kingurbanlifecenter.org)
     [Sign Up](/signups/writeon20250225/){: .btn .btn--success}
+- *Thursday, February 13th 1:00pm-3:30pm* WRITE ON at
+  The Frank E [Merriweather Library](
+  https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
+    [Sign Up](/signups/writeon20250313/){: .btn .btn--success}
+- *Tuesday, March 25th 5:00pm-8:00pm* WRITE ON at
+  [Delavan-Grider Commmunity Center](https://www.facebook.com/metrocdc877/)
+    [Sign Up](/signups/writeon20250325/){: .btn .btn--success}
 
 {% comment %}
 
@@ -189,6 +192,9 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - Tuesday, January 28th WRITE ON at [Big Big Table](
   https://www.bigbigtable.org)
 - Tuesday, February 4, 2025 WRITE ON at [Rise of WNY](https://www.riseofwny.org)
+- Thursday, February 13, 2025 WRITE ON at
+  The Frank E [Merriweather Library](
+  https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
 
 
 
