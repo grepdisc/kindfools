@@ -20,7 +20,7 @@ all_posts:
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:30pm March 17th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
-**WRITE ON - March 25th** at 6pm at King Urban Life Center
+**WRITE ON - March 25th** at 6pm at Delavan-Grider Community Center
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your native language
     [Details](/home/){: .btn .btn--info}<br>
