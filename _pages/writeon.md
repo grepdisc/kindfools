@@ -10,7 +10,7 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Thursday, February 13th 1:00pm-3:30pm* WRITE ON at
+- *Thursday, March 13th 1:00pm-3:30pm* WRITE ON at
   The Frank E [Merriweather Library](
   https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
     [Sign Up](/signups/writeon20250313/){: .btn .btn--success}
