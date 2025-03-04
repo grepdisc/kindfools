@@ -41,7 +41,7 @@ they relate to the topics in these books and this BABEL discussion.
 
 ### Activities:
 - *Friday, March 28 5pm* Final date [to apply](
-    https://docs.google.com/forms/d/1HjMHp2qVEOjTPA54LD_atybzF8G4BCmrJpfzme8vCxg/viewform
+https://docs.google.com/forms/d/e/1FAIpQLSd21gT-rH1Qd63xuL8rKxj39oObIdXfNNNI42MFRiCH_dUAfg/viewform
     ) to join the core group
 - *Thursday, April 3 6pm-7:30pm* Welcome Gathering for core group (books distributed)
 - *Thursday, April 24 at 6pm-8pm* Book Discussion
