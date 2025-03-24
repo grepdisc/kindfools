@@ -18,7 +18,7 @@ all_posts:
 
 **The Moral Imperative** part of the Civil Writes Project
    [Apply](/moralimperative/){: .btn .btn--success} - before March 28th<br>
-**WRITE ON - March 25th** at 6pm at Delavan-Grider Community Center
+Tomorrow! **WRITE ON - March 25th** at 6pm at Delavan-Grider Community Center
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 **WNY Trash Mob's Earth Day Clean Up Challenge 2025** [All the Details](
     https://communitycanvases.org/earthday2025/){: .btn .btn--info}<br>

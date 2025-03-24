@@ -11,7 +11,17 @@ header:
 
 # *WRITE ON - Home*
 
-*WRITE ON - Home* will be an offering of Community Canvases' Kind Fools’ [WRITE ON](/writeon/) intuitive writing workshops using the theme of “home” with communities that have a special relationship with the concept/experience of home. These workshops provide a supportive and creative environment for an exploration of our individual and collective relationship with the idea, feeling, and experience of home.
+*WRITE ON - Home* is planned offering of Community Canvases' Kind Fools’ [WRITE ON](/writeon/) intuitive writing workshops using the theme of “home” with communities that have a special relationship with the concept/experience of home. These workshops provide a supportive and creative environment for an exploration of our individual and collective relationship with the idea, feeling, and experience of home.
+
+It is our hope to be able to offer these in summer/fall 2025:
+
+- Four workshops with immigrant communities with interpreters
+- Four workshops with our local homeless communities
+- Foud workshops welcoming both of these communities as well as our broader community
+
+Anyone is welcome at any of these workshops, as we discover our common humanity by listening more deeply to ourselves and each other.
+
+Please check back here in the coming months for more details.
 
 This will build on the four workshops we led in partnership with The NYIC last summer:
 
