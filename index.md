@@ -17,15 +17,15 @@ all_posts:
 {: .text-center}
 
 **The Moral Imperative** part of the Civil Writes Project
-   [Apply](/moralimperative/){: .btn .btn--success} - before March 28th<br>
-Tomorrow! **WRITE ON - March 25th** at 6pm at Delavan-Grider Community Center
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+   [Apply](/moralimperative/){: .btn .btn--success} - before April 2nd<br>
 **WNY Trash Mob's Earth Day Clean Up Challenge 2025** [All the Details](
     https://communitycanvases.org/earthday2025/){: .btn .btn--info}<br>
 WRITE ON - Home - writing in your native language
     [Details](/home/){: .btn .btn--info}<br>
 Our partner - **Recovery Stories at 5:30pm April 14th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
+WRITE ON - April 17th at 1pm at Frank E. Merriweather Library
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
