@@ -23,11 +23,6 @@ Together, we will attend James McBrides's BABEL discussion.<br>
 Together, we write our truth as it connects with these works and specifically when we have felt a moral imperative.<br>
 Together, we will present our work and celebrate this experience.<br>
 
-[Apply Now](
-https://docs.google.com/forms/d/e/1FAIpQLSd21gT-rH1Qd63xuL8rKxj39oObIdXfNNNI42MFRiCH_dUAfg/viewform
-){: .btn .btn--large .btn--success}
-{: style="text-align: center;"}
-
 Community Canvases' **The Moral Imperative:** We will invite community members to read James McBride's "The Good Lord Bird" about John Brown's raid on Harpers Ferry. We will read Rev. Martin Luther King, Jr.'s "Where Do We Go From Here: Chaos or Community?" In April, we will participate in a book discussion and then attend James McBride's BABEL talk. In May, we will participate in Kind Fools' WRITE ON workshops to write reflections on when we have felt a moral imperative, when we have felt called by our values and conscience to take an action. In June, we will submit our poems and reflections for publication in a book. This project is organized by Kamau R.E. Fields, Hy Carrel, Samuel Floyd, and Chanda O'Donnell de Ramirez in collaboration with Just Buffalo Literary Center's Civil Writes Project, Buffalo Latino Village Press, and Vilardo Printing.
 
 The goal of this project is to provide community members a continuing
@@ -56,6 +51,11 @@ https://docs.google.com/forms/d/e/1FAIpQLSd21gT-rH1Qd63xuL8rKxj39oObIdXfNNNI42MF
    publication of writings by core group
 
 {% comment %}
+[Apply Now](
+https://docs.google.com/forms/d/e/1FAIpQLSd21gT-rH1Qd63xuL8rKxj39oObIdXfNNNI42MFRiCH_dUAfg/viewform
+){: .btn .btn--large .btn--success}
+{: style="text-align: center;"}
+
 ## A gathering to celebrate our work and the publication of our poems/reflections inspired by "Heavy"
 
 <figure style="max-width: 1080px" class="align-center">
