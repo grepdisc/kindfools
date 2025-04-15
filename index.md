@@ -16,14 +16,14 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
+**WRITE ON - April 17th at 1pm** at Frank E. Merriweather Library
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 **WNY Trash Mob's Earth Day Clean Up Challenge 2025** [All the Details](
     https://communitycanvases.org/earthday2025/){: .btn .btn--success}<br>
-**The Moral Imperative** part of the Civil Writes Project
+The Moral Imperative - part of the Civil Writes Project
    [Details](/moralimperative/){: .btn .btn--info}<br>
-Our partner - **Recovery Stories at 5:30pm April 14th** [Info/Sign-up](
+Our partner - **Recovery Stories at 5:30pm May 19th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
-WRITE ON - April 17th at 1pm at Frank E. Merriweather Library
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your native language
     [Details](/home/){: .btn .btn--info}<br>
 Signal Box Art Project [Info/Application](
