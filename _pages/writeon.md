@@ -14,11 +14,11 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
   Frank E [Merriweather Library](
   https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
     [Sign Up](/signups/writeon20250508/){: .btn .btn--success}
-- *Monday, May 12th 6:00pm-8:30pm* WRITE ON at
-K[King Urban Life Center](https://www.kingurbanlifecenter.org)
+- *Monday, May 12th 6:00pm-8:30pm* WRITE ON at [
+    King Urban Life Center](https://www.kingurbanlifecenter.org)
     [Sign Up](/signups/writeon20250512/){: .btn .btn--success}
-- *Tuesday, May 20th 6:00pm-8:30pm* WRITE ON at
-K[King Urban Life Center](https://www.kingurbanlifecenter.org)
+- *Tuesday, May 20th 6:00pm-8:30pm* WRITE ON at [
+    King Urban Life Center](https://www.kingurbanlifecenter.org)
     [Sign Up](/signups/writeon20250520/){: .btn .btn--success}
 
 
