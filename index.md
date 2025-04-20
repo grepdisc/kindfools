@@ -16,12 +16,11 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WRITE ON - April 17th at 1pm** at Frank E. Merriweather Library
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 **WNY Trash Mob's Earth Day Clean Up Challenge 2025** [All the Details](
     https://communitycanvases.org/earthday2025/){: .btn .btn--success}<br>
 The Moral Imperative - part of the Civil Writes Project
    [Details](/moralimperative/){: .btn .btn--info}<br>
+The Moral Imperative book discussion 6:00pm-8:00pm April 24th<br>
 Our partner - **Recovery Stories at 5:30pm May 19th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your native language
@@ -37,6 +36,8 @@ https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+**WRITE ON - April 17th at 1pm** at Frank E. Merriweather Library
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 **Giving Tuesday** [Donate This Week](https://communitycanvases.org/donate/
     ){: .btn .btn--success .btn--large}<br>
 **WRITE ON on Tuesday August 20th at 6:00pm**

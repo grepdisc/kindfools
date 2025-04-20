@@ -10,10 +10,17 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Tuesday, April 17th 1:00pm-3:30pm* WRITE ON at
+- *Thursday, May 8th 1:00pm-3:30pm* WRITE ON at
   Frank E [Merriweather Library](
   https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
-    [Sign Up](/signups/writeon20250417/){: .btn .btn--success}
+    [Sign Up](/signups/writeon20250508/){: .btn .btn--success}
+- *Monday, May 12th 6:00pm-8:30pm* WRITE ON at
+K[King Urban Life Center](https://www.kingurbanlifecenter.org)
+    [Sign Up](/signups/writeon20250512/){: .btn .btn--success}
+- *Tuesday, May 20th 6:00pm-8:30pm* WRITE ON at
+K[King Urban Life Center](https://www.kingurbanlifecenter.org)
+    [Sign Up](/signups/writeon20250520/){: .btn .btn--success}
+
 
 {% comment %}
 
@@ -195,6 +202,9 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
   https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
 - Tuesday, March 25th at
   [Delavan-Grider Commmunity Center](https://www.facebook.com/metrocdc877/)
+- Tuesday, April 17th at
+  Frank E [Merriweather Library](
+  https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
 
 
 
