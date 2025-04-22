@@ -35,10 +35,10 @@ they relate to the topics in these books and this BABEL discussion.
 </figure>
 
 ### Activities:
-- :heavy_check_mark: 5pm Wednesday April 2nd (Extended from ~~Friday, March 28~~) Final date [to apply](
+- 5pm Wednesday April 2nd (Extended from ~~Friday, March 28~~) Final date [to apply](
 https://docs.google.com/forms/d/e/1FAIpQLSd21gT-rH1Qd63xuL8rKxj39oObIdXfNNNI42MFRiCH_dUAfg/viewform
     ) to join the core group
-- :heavy_check_mark: *Thursday, April 3 6pm-7:30pm* Welcome Gathering for core group (books distributed)
+- *Thursday, April 3 6pm-7:30pm* Welcome Gathering for core group (books distributed)
 - *Thursday, April 24 at 6pm-8pm* Book Discussion
 - *Thursday, April 30 7pm-10pm* James McBride's [BABEL talk](
     https://www.justbuffalo.org/events/babel-james-mcbride-2025-04-30/
