@@ -20,7 +20,11 @@ all_posts:
     https://communitycanvases.org/earthday2025/){: .btn .btn--success}<br>
 The Moral Imperative - part of the Civil Writes Project
    [Details](/moralimperative/){: .btn .btn--info}<br>
-The Moral Imperative book discussion 6:00pm-8:00pm April 24th<br>
+The Moral Imperative at JBLC's [BABEL](
+   https://www.justbuffalo.org/events/babel-james-mcbride-2025-04-30/
+   ) 7:00pm April 30th<br>
+WRITE ON - part of The Moral Imperative 1:00pm May 8th
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:30pm May 19th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your native language
