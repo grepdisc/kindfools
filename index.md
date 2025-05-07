@@ -16,19 +16,17 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**WNY Trash Mob's Earth Day Clean Up Challenge 2025** [All the Details](
-    https://communitycanvases.org/earthday2025/){: .btn .btn--success}<br>
-The Moral Imperative - part of the Civil Writes Project
-   [Details](/moralimperative/){: .btn .btn--info}<br>
-The Moral Imperative at JBLC's [BABEL](
-   https://www.justbuffalo.org/events/babel-james-mcbride-2025-04-30/
-   ) 7:00pm April 30th<br>
 WRITE ON - part of The Moral Imperative 1:00pm May 8th
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+WNY Trash Mob's Grant Street Cleanup **10am to 1pm Saturday, May 10th at 65 Grant Street**<br>
+The Moral Imperative - part of the Civil Writes Project
+   [Details](/moralimperative/){: .btn .btn--info}<br>
 Our partner - **Recovery Stories at 5:30pm May 19th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your native language
     [Details](/home/){: .btn .btn--info}<br>
+WNY Trash Mob's Earth Day Clean Up Challenge 2025 [All the Details](
+    https://communitycanvases.org/earthday2025/){: .btn .btn--success}<br>
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>

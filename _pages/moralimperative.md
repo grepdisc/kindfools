@@ -43,9 +43,12 @@ https://docs.google.com/forms/d/e/1FAIpQLSd21gT-rH1Qd63xuL8rKxj39oObIdXfNNNI42MF
 - *Thursday, April 30 7pm-10pm* James McBride's [BABEL talk](
     https://www.justbuffalo.org/events/babel-james-mcbride-2025-04-30/
    ) (complimentary admission for core group)
-- *Thursday, May 8 1:00pm-3:30pm* WRITE ON intuitive writing group
+- *Thursday, May 8 1:00pm-3:30pm* [WRITE ON](/writeon/) intuitive writing group
+    [Sign Up](/signups/writeon20250508/){: .btn .btn--success}
 - *Monday, May 12 6:00pm-8:30pm* [WRITE ON](/writeon/) intuitive writing group
-- *Tuesday, May 20* 6:00pm-8:30pm WRITE ON intuitive writing group
+    [Sign Up](/signups/writeon20250512/){: .btn .btn--success}
+- *Tuesday, May 20* 6:00pm-8:30pm [WRITE ON](/writeon/) intuitive writing group
+    [Sign Up](/signups/writeon20250520/){: .btn .btn--success}
 - *Friday, June 6* by 9:00pm Deadline to Submit writings
 - *Saturday, July 19* 1:00-3:00pm Celebration/Presentation of
    publication of writings by core group
