@@ -25,6 +25,8 @@ Our partner - **Recovery Stories at 5:30pm May 19th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your native language
     [Details](/home/){: .btn .btn--info}<br>
+Graduation Poem from Fund Development Bookcamp [read](
+    https://communitycanvases.org/perspectives/Fund-Development/){: .btn .btn--info}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2025 [All the Details](
     https://communitycanvases.org/earthday2025/){: .btn .btn--success}<br>
 Signal Box Art Project [Info/Application](
