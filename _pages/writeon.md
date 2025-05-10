@@ -10,10 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Thursday, May 8th 1:00pm-3:30pm* WRITE ON at
-  Frank E [Merriweather Library](
-  https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
-    [Sign Up](/signups/writeon20250508/){: .btn .btn--success}
 - *Monday, May 12th 6:00pm-8:30pm* WRITE ON at [
     King Urban Life Center](https://www.kingurbanlifecenter.org)
     [Sign Up](/signups/writeon20250512/){: .btn .btn--success}
@@ -170,39 +166,42 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - Tuesday, August 27, 2024 WRITE ON in French and English at Fitz Books & Waffles [Details](/home/){: .btn .btn--info}
 - Tuesday, September 24, 2024 WRITE ON at the BURC
 - Tuesday, October 1, 2024 WRITE ON at the Women's Empowerment group at the BURC
-- Thursday, October 3rd WRITE ON at [Rise of WNY](http://riseofwny.org/)
-- Tuesday, October 15th WRITE ON at [Indigo House](http://indigohousebuffalo.com/)
-- Saturday, October 19th WRITE ON!: Imagining 1412 Jefferson Avenue - a collaboration with the
+- Thursday, October 3, 2024 WRITE ON at [Rise of WNY](http://riseofwny.org/)
+- Tuesday, October 15, 2024 WRITE ON at [Indigo House](http://indigohousebuffalo.com/)
+- Saturday, October 19, 2024 WRITE ON!: Imagining 1412 Jefferson Avenue - a collaboration with the
   Justice for Geraldine and Martin Campaign
 - Friday, August 9, 2024 WRITE ON at YouthBuild
-- Tuesday, November 12th WRITE ON at [Rise of WNY](https://www.riseofwny.org) with the support of facilitator Zaria Black
+- Tuesday, November 12, 2024 WRITE ON at [Rise of WNY](https://www.riseofwny.org) with the support of facilitator Zaria Black
 - Thursday, November 14, 2024 Buffalo City Mission's Cornerstone Manor hosted WRITE ON
   for 19 brave women in their transitional housing program.
 - Friday, November 15, 2024 Buffalo City Mission invited us to lead WRITE ON with men at
   their Alfiero Center of Hope and Promise transitional housing program.
-- Saturday, November 16th we offered a modified form of WRITE ON called The Colors of Truth at [GSNC](
+- Saturday, November 16, 2024 we offered a modified form of WRITE ON called The Colors of Truth at [GSNC](
     https://www.pushbuffalo.org/gsnc/) [Details](/colorsoftruth/){: .btn .btn--info}
-- Tuesday, November 26th WRITE ON at [UUCB](https://buffalouu.org) addressed indigenous perspectives on
+- Tuesday, November 26, 2024 WRITE ON at [UUCB](https://buffalouu.org) addressed indigenous perspectives on
    Thanksgiving and ways that gratitude shows up in each of our lives.
 - Thursday, December 12th on Zoom
-- Thursday, January 9th WRITE ON at The Frank E [Merriweather Library](
+- Thursday, January 9, 2025 WRITE ON at The Frank E [Merriweather Library](
   https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
-- Thursday, January 16th WRITE ON on Zoom due to snow, had been planned at
+- Thursday, January 16, 2025 WRITE ON on Zoom due to snow, had been planned at
   [Burning Books](
   https://burningbooks.com/pages/contact)
-- Tuesday, January 28th WRITE ON at [Big Big Table](
+- Tuesday, January 28, 2025 WRITE ON at [Big Big Table](
   https://www.bigbigtable.org)
 - Tuesday, February 4, 2025 WRITE ON at [Rise of WNY](https://www.riseofwny.org)
 - Thursday, February 13, 2025 WRITE ON at
   The Frank E [Merriweather Library](
   https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
-- Tuesday, February 25th at
+- Tuesday, February 25, 2025 at
   [King Urban Life Center](https://www.kingurbanlifecenter.org)
-- Thursday, March 13th at The Frank E [Merriweather Library](
+- Thursday, March 13, 2025 at The Frank E [Merriweather Library](
   https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
-- Tuesday, March 25th at
+- Tuesday, March 25, 2025 at
   [Delavan-Grider Commmunity Center](https://www.facebook.com/metrocdc877/)
-- Tuesday, April 17th at
+- Tuesday, April 17, 2025 at
+  Frank E [Merriweather Library](
+  https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
+- Thursday, May 8, 2025 at
   Frank E [Merriweather Library](
   https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
 
