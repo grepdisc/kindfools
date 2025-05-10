@@ -16,7 +16,7 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-WRITE ON - part of The Moral Imperative 1:00pm May 8th
+WRITE ON - part of The Moral Imperative 6:00pm May 12th
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 WNY Trash Mob's Grant Street Cleanup **10am to 1pm Saturday, May 10th at 65 Grant Street**<br>
 The Moral Imperative - part of the Civil Writes Project
