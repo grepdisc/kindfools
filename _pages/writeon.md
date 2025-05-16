@@ -10,12 +10,12 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Monday, May 12th 6:00pm-8:30pm* WRITE ON at [
-    King Urban Life Center](https://www.kingurbanlifecenter.org)
-    [Sign Up](/signups/writeon20250512/){: .btn .btn--success}
 - *Tuesday, May 20th 6:00pm-8:30pm* WRITE ON at [
     King Urban Life Center](https://www.kingurbanlifecenter.org)
     [Sign Up](/signups/writeon20250520/){: .btn .btn--success}
+- *Tuesday, May 27th 1:00pm-3:30pm* WRITE ON at [
+    Fitz Books & Waffles](https://www.fitzbooks.net) at 1462 Main Street
+    [Sign Up](/signups/writeon20250527/){: .btn .btn--success}
 
 
 {% comment %}
@@ -204,6 +204,8 @@ Do you want to get involved? Do you have questions? Please reach out via [our co
 - Thursday, May 8, 2025 at
   Frank E [Merriweather Library](
   https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
+- Monday, May 12, 2025 WRITE ON at [
+    King Urban Life Center](https://www.kingurbanlifecenter.org)
 
 
 

@@ -16,16 +16,15 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-WRITE ON - part of The Moral Imperative 6:00pm May 12th
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
-WNY Trash Mob's Grant Street Cleanup **10am to 1pm Saturday, May 10th at 65 Grant Street**<br>
-The Moral Imperative - part of the Civil Writes Project
-   [Details](/moralimperative/){: .btn .btn--info}<br>
 Our partner - **Recovery Stories at 5:30pm May 19th** [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
+WRITE ON - part of The Moral Imperative 6:00pm May 20th
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+The Moral Imperative - part of the Civil Writes Project
+   [Details](/moralimperative/){: .btn .btn--info}<br>
 WRITE ON - Home - writing in your native language
     [Details](/home/){: .btn .btn--info}<br>
-Graduation Poem from Fund Development Bookcamp [read](
+Graduation Poem from Fund Development Bootcamp [read](
     https://communitycanvases.org/perspectives/Fund-Development/){: .btn .btn--info}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2025 [All the Details](
     https://communitycanvases.org/earthday2025/){: .btn .btn--success}<br>

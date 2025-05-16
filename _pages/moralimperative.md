@@ -35,20 +35,18 @@ they relate to the topics in these books and this BABEL discussion.
 </figure>
 
 ### Activities:
-- 5pm Wednesday April 2nd (Extended from ~~Friday, March 28~~) Final date [to apply](
-https://docs.google.com/forms/d/e/1FAIpQLSd21gT-rH1Qd63xuL8rKxj39oObIdXfNNNI42MFRiCH_dUAfg/viewform
-    ) to join the core group
-- *Thursday, April 3 6pm-7:30pm* Welcome Gathering for core group (books distributed)
-- *Thursday, April 24 at 6pm-8pm* Book Discussion
-- *Thursday, April 30 7pm-10pm* James McBride's [BABEL talk](
+- 5pm Wednesday April 2nd (Extended from ~~Friday, March 28~~) Final date to apply
+- Thursday, April 3 6pm-7:30pm Welcome Gathering for core group (books distributed)
+- Thursday, April 24 at 6pm-8pm Book Discussion
+- Thursday, April 30 7pm-10pm James McBride's [BABEL talk](
     https://www.justbuffalo.org/events/babel-james-mcbride-2025-04-30/
    ) (complimentary admission for core group)
-- *Thursday, May 8 1:00pm-3:30pm* [WRITE ON](/writeon/) intuitive writing group
-    [Sign Up](/signups/writeon20250508/){: .btn .btn--success}
-- *Monday, May 12 6:00pm-8:30pm* [WRITE ON](/writeon/) intuitive writing group
-    [Sign Up](/signups/writeon20250512/){: .btn .btn--success}
+- Thursday, May 8 1:00pm-3:30pm [WRITE ON](/writeon/) intuitive writing group
+- Monday, May 12 6:00pm-8:30pm [WRITE ON](/writeon/) intuitive writing group
 - *Tuesday, May 20* 6:00pm-8:30pm [WRITE ON](/writeon/) intuitive writing group
     [Sign Up](/signups/writeon20250520/){: .btn .btn--success}
+- *Tuesday, May 27* 1:00pm-3:30pm [WRITE ON](/writeon/) intuitive writing group
+    [Sign Up](/signups/writeon20250528/){: .btn .btn--success}
 - *Friday, June 6* by 9:00pm Deadline to Submit writings
 - *Saturday, July 19* 1:00-3:00pm Celebration/Presentation of
    publication of writings by core group
