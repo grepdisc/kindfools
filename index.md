@@ -16,9 +16,7 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Our partner - **Recovery Stories at 5:30pm May 19th** [Info/Sign-up](
-    /recoverystories/){: .btn .btn--success}<br>
-WRITE ON - part of The Moral Imperative 6:00pm May 20th
+WRITE ON - part of The Moral Imperative 1:00pm May 27th
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 The Moral Imperative - part of the Civil Writes Project
    [Details](/moralimperative/){: .btn .btn--info}<br>
@@ -34,6 +32,8 @@ Signal Box Art Project [Info/Application](
 Community Swing 6pm to 9pm every Wednesday
     [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+Our partner - **Recovery Stories at 5:30pm June 23rd** [Info/Sign-up](
+    /recoverystories/){: .btn .btn--success}<br>
 All Community Canvases [Events](
 https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}

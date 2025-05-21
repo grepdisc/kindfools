@@ -4,7 +4,7 @@ title: "The Moral Imperative"
 layout: splash
 author_profile: false
 header:
-  image: /assets/images/heavyreflectionscelebration.jpg
+  image: /assets/images/moralimperativegroupbabel.jpg
 
 ---
 
@@ -29,7 +29,7 @@ The goal of this project is to provide community members a continuing
 opportunity to reflect deeply on their personal experiences and on how
 they relate to the topics in these books and this BABEL discussion.
 
-<figure style="max-width: 800px" class="align-center">
+<figure style="max-width: 966px" class="align-center">
   <img src="/assets/images/themoralimperativeprograms.png"
    alt="The Moral Imperative Poster">
 </figure>
@@ -41,13 +41,12 @@ they relate to the topics in these books and this BABEL discussion.
 - Thursday, April 30 7pm-10pm James McBride's [BABEL talk](
     https://www.justbuffalo.org/events/babel-james-mcbride-2025-04-30/
    ) (complimentary admission for core group)
-- Thursday, May 8 1:00pm-3:30pm [WRITE ON](/writeon/) intuitive writing group
-- Monday, May 12 6:00pm-8:30pm [WRITE ON](/writeon/) intuitive writing group
-- *Tuesday, May 20* 6:00pm-8:30pm [WRITE ON](/writeon/) intuitive writing group
-    [Sign Up](/signups/writeon20250520/){: .btn .btn--success}
+- Thursday, May 8 1:00pm-3:30pm WRITE ON intuitive writing group
+- Monday, May 12 6:00pm-8:30pm WRITE ON intuitive writing group
+- Tuesday, May 20 6:00pm-8:30pm WRITE ON intuitive writing group
 - *Tuesday, May 27* 1:00pm-3:30pm [WRITE ON](/writeon/) intuitive writing group
-    [Sign Up](/signups/writeon20250528/){: .btn .btn--success}
-- *Friday, June 6* by 9:00pm Deadline to Submit writings
+    [Sign Up](/signups/writeon20250527/){: .btn .btn--success}
+- *Friday, June 6* by 9:00pm Deadline to [Submit writings](https://docs.google.com/forms/d/e/1FAIpQLSfnayRIHWPVnW138NyooBNYm4EkPMlWbmdJ_DoDYFM0NfqCKg/viewform?usp=dialog)
 - *Saturday, July 19* 1:00-3:00pm Celebration/Presentation of
    publication of writings by core group
 
