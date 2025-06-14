@@ -16,14 +16,12 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-WRITE ON at the King Urban Life Center 6:00pm June 12th
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 WNY Trash Mob's **Cleanup Day** on Grant Street 10am June 14th [Details](
     https://communitycanvases.org/events/cleanup20250614/
     ){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:30pm June 23rd** [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
-The Moral Imperative - part of the Civil Writes Project
+The Moral Imperative - Celebration on July 19th
    [Details](/moralimperative/){: .btn .btn--info}<br>
 WRITE ON - Home - writing in your native language
     [Details](/home/){: .btn .btn--info}<br>
@@ -42,6 +40,8 @@ https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+WRITE ON at the King Urban Life Center 6:00pm June 12th
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 **WRITE ON - April 17th at 1pm** at Frank E. Merriweather Library
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 **Giving Tuesday** [Donate This Week](https://communitycanvases.org/donate/
