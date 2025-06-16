@@ -16,9 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-WNY Trash Mob's **Cleanup Day** on Grant Street 10am June 14th [Details](
-    https://communitycanvases.org/events/cleanup20250614/
-    ){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:30pm June 23rd** [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
 The Moral Imperative - Celebration on July 19th
@@ -40,6 +37,9 @@ https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+WNY Trash Mob's **Cleanup Day** on Grant Street 10am June 14th [Details](
+    https://communitycanvases.org/events/cleanup20250614/
+    ){: .btn .btn--success}<br>
 WRITE ON at the King Urban Life Center 6:00pm June 12th
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 **WRITE ON - April 17th at 1pm** at Frank E. Merriweather Library
