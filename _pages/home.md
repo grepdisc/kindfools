@@ -11,18 +11,52 @@ header:
 
 # *WRITE ON - Home*
 
-*WRITE ON - Home* is a planned offering of Community Canvases' Kind Fools’ [WRITE ON](https://kindfools.org/writeon/) intuitive writing workshops using the theme of “home” with communities that have a special relationship with the concept/experience of home. These workshops provide a supportive and creative environment for an exploration of our individual and collective relationship with the idea, feeling, and experience of home.
+*WRITE ON - Home* is an offering of Community Canvases' Kind Fools’ [WRITE ON](https://kindfools.org/writeon/) intuitive writing workshops using the theme of “home” with communities that have a special relationship with the concept/experience of home. These workshops provide a supportive and creative environment for an exploration of our individual and collective relationship with the idea, feeling, and experience of home.
 
-It is our hope to be able to offer these in summer/fall 2025:
+In the summer of 2025, we will offer workshops with immigrant communities with interpreters.<br>
+In the fall of 2025, we will offer workshops with our local homeless communities.<br>
+In the fall of 2025, we will offer a performance event to share our art (poetry, painting, dance).<br>
+In the winter of 2025, we will offer workshops welcoming these communities as well as our broader community.
 
-- Four workshops with immigrant communities with interpreters
-- Four workshops with our local homeless communities
-- Foud workshops welcoming both of these communities as well as our broader community
 
 Anyone is welcome at any of these workshops, as we discover our common humanity by listening more deeply to ourselves and each other.
 
-Please check back here in the coming months for more details.
+- Thursday, July 10, 2025 from 5:30pm to 8:30pm WRITE ON Workshop in Burmese & English
+[ဆိုင်းအပ်](
+https://docs.google.com/forms/d/e/1FAIpQLSdudIG8fT2u5i_BmL2VwRwczaVoxLozgnoEqwNkGc7bt2x5Xw/viewform?usp=sf_link
+){: .btn .btn--success}
+[Sign Up](
+https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+){: .btn .btn--success}
+- Thursday, July 24, 2025 from 5:30pm to 8:30pm WRITE ON Workshop in Spanish & English
+[Inscribirse](
+https://docs.google.com/forms/d/e/1FAIpQLSfZ_T1jTv1M-WmPdsqv6-G5zBteNEKQoFVzN-iNw4Dl6OPkDQ/viewform?usp=sf_link
+){: .btn .btn--success}
+[Sign Up](
+https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+){: .btn .btn--success}
+- Tuesday August 5, 2025 from 5:30pm to 8:30pm WRITE ON Workshop in Arabic, Spanish & English
+[التسجيل](
+https://docs.google.com/forms/d/e/1FAIpQLSerfVI86bF9G-PdLrSbkCPRUtIXxPMWOtPKLf2CSTTRAPjLKA/viewform?usp=sf_link
+){: .btn .btn--success}
+[Inscribirse](
+https://docs.google.com/forms/d/e/1FAIpQLSfZ_T1jTv1M-WmPdsqv6-G5zBteNEKQoFVzN-iNw4Dl6OPkDQ/viewform?usp=sf_link
+){: .btn .btn--success}
+[Sign Up](
+https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+){: .btn .btn--success}
+- Tuesday August 19, 2025 from 5:30pm to 8:30pm WRITE ON Workshop in Arabic, Spanish & English
+[s'inscrire](
+https://docs.google.com/forms/d/e/1FAIpQLSclICzi9T8bZ2uHTiYaQSvrNoqb9ELCdQP7bVy8LlmF9NH2Tg/viewform?usp=sf_link
+){: .btn .btn--success}
+[ဆိုင်းအပ်](
+https://docs.google.com/forms/d/e/1FAIpQLSdudIG8fT2u5i_BmL2VwRwczaVoxLozgnoEqwNkGc7bt2x5Xw/viewform?usp=sf_link
+){: .btn .btn--success}
+[Sign Up](
+https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
+){: .btn .btn--success}
 
+{% comment %}
 This will build on the four workshops we led in partnership with The NYIC last summer:
 
 - Workshop 1:00pm to 4:00pm, Wednesday July 17, 2024 at Raha Coffee House in Arabic and English
@@ -30,8 +64,6 @@ This will build on the four workshops we led in partnership with The NYIC last s
 - Workshop 1:00pm to 4:00pm, Tuesday August 13, 2024 at Fitz Books & Waffles in Spanish and English
 - Workshop 1:00pm to 4:00pm, Tuesday August 27, 2024 at Fitz Books & Waffles in French and English
 
-
-{% comment %}
 [s'inscrire](
 https://docs.google.com/forms/d/e/1FAIpQLSclICzi9T8bZ2uHTiYaQSvrNoqb9ELCdQP7bVy8LlmF9NH2Tg/viewform?usp=sf_link
 ){: .btn .btn--success}
@@ -83,6 +115,23 @@ at [hy@communitycanvases.org](mailto:hy@communitycanvasess.org) or [(716) 259-27
 
 <br><br>
 
+Funding is made possible through Arts Services Inc.’s Creative Impact Fund thanks to a New York State Senate Initiative supported by the NYS Legislature and the Office of the Governor, and administered by the New York State Council on the Arts.
+
+<figure style="max-width: 966px" class="align-center">
+  <img src="/assets/images/writeonhomeflyer20250710_english.png"
+   alt="WRITE ON - Home Poster English">
+</figure> 
+
+<figure style="max-width: 966px" class="align-center">
+  <img src="/assets/images/writeonhomeflyer20250710_burmese.png"
+   alt="WRITE ON - Home Poster Burmese">
+</figure> 
+
+
+
+
+
+{% comment %}
 <figure style="max-width: 966px" class="align-center">
   <img src="/assets/images/writeonhomeflyer20240827_french.png"
    alt="WRITE ON - Home Poster French">
@@ -112,6 +161,7 @@ at [hy@communitycanvases.org](mailto:hy@communitycanvasess.org) or [(716) 259-27
   <img src="/assets/images/writeonhomeflyer20240730_burmese.png"
    alt="WRITE ON - Home Poster Burmese">
 </figure> 
+{% endcomment %}
 
 {% comment %}
 <br><br>
