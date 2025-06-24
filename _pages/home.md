@@ -18,24 +18,23 @@ In the fall of 2025, we will offer workshops with our local homeless communities
 In the fall of 2025, we will offer a performance event to share our art (poetry, painting, dance).<br>
 In the winter of 2025, we will offer workshops welcoming these communities as well as our broader community.
 
+Anyone is welcome at any of these **[WRITE ON](/writeon/)** intuitive writing workshops, as we discover our common humanity by listening more deeply to ourselves and each other.
 
-Anyone is welcome at any of these workshops, as we discover our common humanity by listening more deeply to ourselves and each other.
-
-- Thursday, July 10, 2025 from 5:30pm to 8:30pm WRITE ON Workshop in Burmese & English
+- Thursday, July 10, 2025 from 5:30pm to 8:30pm in Burmese & English
 [ဆိုင်းအပ်](
 https://docs.google.com/forms/d/e/1FAIpQLSdudIG8fT2u5i_BmL2VwRwczaVoxLozgnoEqwNkGc7bt2x5Xw/viewform?usp=sf_link
 ){: .btn .btn--success}
 [Sign Up](
 https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
 ){: .btn .btn--success}
-- Thursday, July 24, 2025 from 5:30pm to 8:30pm WRITE ON Workshop in Spanish & English
+- Thursday, July 24, 2025 from 5:30pm to 8:30pm in Spanish & English
 [Inscribirse](
 https://docs.google.com/forms/d/e/1FAIpQLSfZ_T1jTv1M-WmPdsqv6-G5zBteNEKQoFVzN-iNw4Dl6OPkDQ/viewform?usp=sf_link
 ){: .btn .btn--success}
 [Sign Up](
 https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
 ){: .btn .btn--success}
-- Tuesday August 5, 2025 from 5:30pm to 8:30pm WRITE ON Workshop in Arabic, Spanish & English
+- Tuesday August 5, 2025 from 5:30pm to 8:30pm in Arabic, Spanish & English
 [التسجيل](
 https://docs.google.com/forms/d/e/1FAIpQLSerfVI86bF9G-PdLrSbkCPRUtIXxPMWOtPKLf2CSTTRAPjLKA/viewform?usp=sf_link
 ){: .btn .btn--success}
@@ -45,7 +44,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfZ_T1jTv1M-WmPdsqv6-G5zBteNEKQoFVzN-iN
 [Sign Up](
 https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
 ){: .btn .btn--success}
-- Tuesday August 19, 2025 from 5:30pm to 8:30pm WRITE ON Workshop in Arabic, Spanish & English
+- Tuesday August 19, 2025 from 5:30pm to 8:30pm in Arabic, Spanish & English
 [s'inscrire](
 https://docs.google.com/forms/d/e/1FAIpQLSclICzi9T8bZ2uHTiYaQSvrNoqb9ELCdQP7bVy8LlmF9NH2Tg/viewform?usp=sf_link
 ){: .btn .btn--success}
@@ -108,7 +107,7 @@ and [Community Canvases](https://communitycanvases.org)’ Kind Fools,
 or to explore hosting these workshops with your
 community, please reach out to<br>
 &nbsp; &nbsp; &nbsp; &nbsp; Anna Porter at
-[aporter@nyic.org](mailto:aporter@nyic.org) or [(315) 729-2308](tel:3157292308)<br>
+[aporter@nyic.org](mailto:aporter@nyic.org) or [(646-740-7768](tel:6467407768)<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;or to<br>
 &nbsp; &nbsp; &nbsp; &nbsp; Hy Carrel
 at [hy@communitycanvases.org](mailto:hy@communitycanvasess.org) or [(716) 259-2725](tel:7162592725)
