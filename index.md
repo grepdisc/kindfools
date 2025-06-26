@@ -19,9 +19,9 @@ all_posts:
 **WRITE ON - Home** - writing in your native language July 10th and 24th
     [Details](/home/){: .btn .btn--success}<br>
 Our partner - Recovery Stories at 5:30pm July 14th [Info/Sign-up](
+    /recoverystories/){: .btn .btn--success}<br>
 **WRITE ON - July 17th at 1pm** at Frank E. Merriweather Library
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
-    /recoverystories/){: .btn .btn--success}<br>
 The Moral Imperative - Celebration on July 19th
    [Details](/moralimperative/){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday
