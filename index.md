@@ -16,12 +16,17 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Our partner - **Recovery Stories at 5:30pm June 23rd** [Info/Sign-up](
+**WRITE ON - Home** - writing in your native language July 10th and 24th
+    [Details](/home/){: .btn .btn--success}<br>
+Our partner - Recovery Stories at 5:30pm July 14th [Info/Sign-up](
+**WRITE ON - July 17th at 1pm** at Frank E. Merriweather Library
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
     /recoverystories/){: .btn .btn--success}<br>
 The Moral Imperative - Celebration on July 19th
    [Details](/moralimperative/){: .btn .btn--info}<br>
-WRITE ON - Home - writing in your native language
-    [Details](/home/){: .btn .btn--info}<br>
+Community Swing 6pm to 9pm every Wednesday
+    [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Graduation Poem from Fund Development Bootcamp [read](
     https://communitycanvases.org/perspectives/Fund-Development/){: .btn .btn--info}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2025 [All the Details](
@@ -29,9 +34,6 @@ WNY Trash Mob's Earth Day Clean Up Challenge 2025 [All the Details](
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
-Community Swing 6pm to 9pm every Wednesday
-    [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 All Community Canvases [Events](
 https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}

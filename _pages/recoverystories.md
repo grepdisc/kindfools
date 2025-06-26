@@ -9,7 +9,7 @@ header:
 ---
 
 
-# Recovery Stories on Monday, June 23, 2025
+# Recovery Stories on Monday, July 14, 2025
 
 Recovery Stories - an accepting space to share poems and stories of recovery.
 
@@ -18,12 +18,12 @@ at **[mr.samuelfloyd@gmail.com](mailto:mr.samuelfloyd@gmail.com)**
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeoTPMQiO3i7e_k4_VWryUVdmGX3BVte0bc_Iv2sQxf92LARQ/viewform?embedded=true" width="100%" height="1650" frameborder="0" marginheight="0" marginwidth="0" onload = "window.parent.scrollTo(0,0)">Loading…</iframe>
 
-
+{% comment %}
 <figure style="max-width: 966px" class="align-center">
   <img src="/assets/images/recoverystoriesflyer20250623.jpg"
    alt="Recovery Stories Poster">
 </figure> 
-
+{% endcomment %}
 
 # Prior Recovery Stories
 
