@@ -29,9 +29,9 @@ The goal of this project is to provide community members a continuing
 opportunity to reflect deeply on their personal experiences and on how
 they relate to the topics in these books and this BABEL discussion.
 
-<figure style="max-width: 966px" class="align-center">
-  <img src="/assets/images/themoralimperativeprograms.png"
-   alt="The Moral Imperative Poster">
+<figure style="max-width: 1091px" class="align-center">
+  <img src="/assets/images/themoralimperativecelebration.png"
+   alt="The Moral Imperative Flyer">
 </figure>
 
 ### Activities:
@@ -45,11 +45,15 @@ they relate to the topics in these books and this BABEL discussion.
 - Monday, May 12 6:00pm-8:30pm WRITE ON intuitive writing group
 - Tuesday, May 20 6:00pm-8:30pm WRITE ON intuitive writing group
 - *Tuesday, May 27* 1:00pm-3:30pm [WRITE ON](/writeon/) intuitive writing group
-    [Sign Up](/signups/writeon20250527/){: .btn .btn--success}
-- *Friday, June 6* by 9:00pm Deadline to [Submit writings](https://docs.google.com/forms/d/e/1FAIpQLSfnayRIHWPVnW138NyooBNYm4EkPMlWbmdJ_DoDYFM0NfqCKg/viewform?usp=dialog)
+- *Friday, June 6* by 9:00pm Deadline to Submit writings
 - *Saturday, July 19* 1:00-3:00pm Celebration/Presentation of
    publication of writings by core group
 
+
+<figure style="max-width: 966px" class="align-center">
+  <img src="/assets/images/themoralimperativeprograms.png"
+   alt="The Moral Imperative Poster">
+</figure>
 
 <figure style="max-width: 800px" class="align-center">
   <img src="/assets/images/themoralimperativead.png"
