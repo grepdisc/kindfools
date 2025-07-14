@@ -21,12 +21,6 @@ In the winter of 2025, we will offer workshops welcoming these communities as we
 Anyone is welcome at any of these **[WRITE ON](/writeon/)** intuitive writing workshops, as we discover our common humanity by listening more deeply to ourselves and each other.
 
 - Thursday, July 10, 2025 from 5:30pm to 8:30pm in Burmese & English
-[ဆိုင်းအပ်](
-https://docs.google.com/forms/d/e/1FAIpQLSdudIG8fT2u5i_BmL2VwRwczaVoxLozgnoEqwNkGc7bt2x5Xw/viewform?usp=sf_link
-){: .btn .btn--success}
-[Sign Up](
-https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
-){: .btn .btn--success}
 - Thursday, July 24, 2025 from 5:30pm to 8:30pm in Spanish & English
 [Inscribirse](
 https://docs.google.com/forms/d/e/1FAIpQLSfZ_T1jTv1M-WmPdsqv6-G5zBteNEKQoFVzN-iNw4Dl6OPkDQ/viewform?usp=sf_link
