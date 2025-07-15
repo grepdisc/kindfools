@@ -16,8 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Our partner - Recovery Stories at 5:30pm July 14th [Info/Sign-up](
-    /recoverystories/){: .btn .btn--success}<br>
 WRITE ON - July 17th at 1pm at Frank E. Merriweather Library
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 **The Moral Imperative - Celebration on July 19th at 1pm**
@@ -33,6 +31,8 @@ Graduation Poem from Fund Development Bootcamp [read](
     https://communitycanvases.org/perspectives/Fund-Development/){: .btn .btn--info}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2025 [All the Details](
     https://communitycanvases.org/earthday2025/){: .btn .btn--success}<br>
+Our partner - Recovery Stories at 5:30pm August 18th [Info/Sign-up](
+    /recoverystories/){: .btn .btn--success}<br>
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
