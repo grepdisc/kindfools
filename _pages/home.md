@@ -101,7 +101,7 @@ and [Community Canvases](https://communitycanvases.org)’ Kind Fools,
 or to explore hosting these workshops with your
 community, please reach out to<br>
 &nbsp; &nbsp; &nbsp; &nbsp; Anna Porter at
-[aporter@nyic.org](mailto:aporter@nyic.org) or [(646-740-7768](tel:6467407768)<br>
+[aporter@nyic.org](mailto:aporter@nyic.org) or [(646) 740-7768](tel:6467407768)<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;or to<br>
 &nbsp; &nbsp; &nbsp; &nbsp; Hy Carrel
 at [hy@communitycanvases.org](mailto:hy@communitycanvasess.org) or [(716) 259-2725](tel:7162592725)
@@ -111,20 +111,29 @@ at [hy@communitycanvases.org](mailto:hy@communitycanvasess.org) or [(716) 259-27
 Funding is made possible through Arts Services Inc.’s Creative Impact Fund thanks to a New York State Senate Initiative supported by the NYS Legislature and the Office of the Governor, and administered by the New York State Council on the Arts.
 
 <figure style="max-width: 966px" class="align-center">
-  <img src="/assets/images/writeonhomeflyer20250710_english.png"
+  <img src="/assets/images/writeonhomeflyer2025_english.png"
    alt="WRITE ON - Home Poster English">
 </figure> 
 
 <figure style="max-width: 966px" class="align-center">
-  <img src="/assets/images/writeonhomeflyer20250710_burmese.png"
-   alt="WRITE ON - Home Poster Burmese">
-</figure> 
-
-<figure style="max-width: 966px" class="align-center">
-  <img src="/assets/images/writeonhomeflyer20250724_spanish.png"
+  <img src="/assets/images/writeonhomeflyer2025_spanish.png"
    alt="WRITE ON - Home Poster Spanish">
 </figure> 
 
+<figure style="max-width: 966px" class="align-center">
+  <img src="/assets/images/writeonhomeflyer2025_arabic.png"
+   alt="WRITE ON - Home Poster Spanish">
+</figure> 
+
+<figure style="max-width: 966px" class="align-center">
+  <img src="/assets/images/writeonhomeflyer2025_french.png"
+   alt="WRITE ON - Home Poster Spanish">
+</figure> 
+
+<figure style="max-width: 966px" class="align-center">
+  <img src="/assets/images/writeonhomeflyer2025_burmese.png"
+   alt="WRITE ON - Home Poster Burmese">
+</figure> 
 
 
 
