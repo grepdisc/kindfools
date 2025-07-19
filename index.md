@@ -16,10 +16,8 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-WRITE ON - July 17th at 1pm at Frank E. Merriweather Library
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 **The Moral Imperative - Celebration on July 19th at 1pm**
-   [Details](/moralimperative/){: .btn .btn--info}<br>
+   [Details](/moralimperative/){: .btn .btn--large .btn--success}<br>
 **WRITE ON - Home** - writing in your native language July 24th
     [Details](/home/){: .btn .btn--success}<br>
 WRITE ON - July 29th at 6pm at Grant Street Neighborhood Center

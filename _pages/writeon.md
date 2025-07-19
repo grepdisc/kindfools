@@ -10,9 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Thursday, July 17th 1:00pm-3:30pm* WRITE ON at the Frank E. Merriweather Library
-    [Sign Up](/signups/writeon20250717/){: .btn .btn--success}
-
 - **WRITE ON - Home** on July 24th and dates in August [Details](/home/){: .btn .btn--info}
 
 - *Tuesday, July 29th 6:00pm-8:30pm* WRITE ON at Grant Street Neighborhood Center
@@ -230,6 +227,8 @@ WRITE ON workshops as part of WRITE ON - Home are supported by [Art Services, In
     Fitz Books & Waffles](https://www.fitzbooks.net) at 1462 Main Street
 - Tuesday, June 12th WRITE ON at [
     King Urban Life Center](https://www.kingurbanlifecenter.org)
+- Thursday, July 17th WRITE ON at the Frank E. Merriweather Library
+
 
 
 
