@@ -16,8 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-**The Moral Imperative - Celebration on July 19th at 1pm**
-   [Details](/moralimperative/){: .btn .btn--large .btn--success}<br>
 **WRITE ON - Home** - writing in your native language July 24th
     [Details](/home/){: .btn .btn--success}<br>
 WRITE ON - July 29th at 6pm at Grant Street Neighborhood Center
@@ -25,6 +23,8 @@ WRITE ON - July 29th at 6pm at Grant Street Neighborhood Center
 Community Swing 6pm to 9pm every Wednesday
     [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+Thank you for attending **The Moral Imperative** - Celebration
+   [Details](/moralimperative/){: .btn .btn--large .btn--success}<br>
 Graduation Poem from Fund Development Bootcamp [read](
     https://communitycanvases.org/perspectives/Fund-Development/){: .btn .btn--info}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2025 [All the Details](

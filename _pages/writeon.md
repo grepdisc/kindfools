@@ -10,10 +10,14 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- **WRITE ON - Home** on July 24th and dates in August [Details](/home/){: .btn .btn--info}
+- **WRITE ON - Home** on July 24th in Spanish & English [Details](/home/){: .btn .btn--info}
 
 - *Tuesday, July 29th 6:00pm-8:30pm* WRITE ON at Grant Street Neighborhood Center
     [Sign Up](/signups/writeon20250729/){: .btn .btn--success}
+
+- **WRITE ON - Home** on August 5th in Arabic, Spanish & English [Details](/home/){: .btn .btn--info}
+
+- **WRITE ON - Home** on August 19th in French, Burmese & English [Details](/home/){: .btn .btn--info}
 
 {% comment %}
 Please check back soon for our July WRITE ON workshops.
