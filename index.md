@@ -16,21 +16,21 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-WRITE ON - July 29th at 6pm at Grant Street Neighborhood Center
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
-**WRITE ON - Home** - writing in your native language August 5th
-    [Details](/home/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday
     [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+**WRITE ON - Home** - writing in your native language August 5th
+    [Details](/home/){: .btn .btn--success}<br>
+WRITE ON - August 12th at 6pm at King Urban Life Center
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+Our partner - Recovery Stories at 5:30pm August 18th [Info/Sign-up](
+    /recoverystories/){: .btn .btn--success}<br>
 Thank you for attending **The Moral Imperative** - Celebration
    [Details](/moralimperative/){: .btn .btn--large .btn--success}<br>
 Graduation Poem from Fund Development Bootcamp [read](
     https://communitycanvases.org/perspectives/Fund-Development/){: .btn .btn--info}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2025 [All the Details](
     https://communitycanvases.org/earthday2025/){: .btn .btn--success}<br>
-Our partner - Recovery Stories at 5:30pm August 18th [Info/Sign-up](
-    /recoverystories/){: .btn .btn--success}<br>
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
