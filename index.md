@@ -19,7 +19,7 @@ all_posts:
 Community Swing 6pm to 9pm every Wednesday
     [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-**WRITE ON - Home** - writing in your native language August 5th
+**WRITE ON - Home** - writing in your preferred language August 5th
     [Details](/home/){: .btn .btn--success}<br>
 WRITE ON - August 12th at 6pm at King Urban Life Center
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
