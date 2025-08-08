@@ -16,9 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Community Swing 6pm to 9pm every Wednesday
-    [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 WRITE ON - August 12th at 6pm at King Urban Life Center
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Our partner - Recovery Stories at 5:30pm August 18th [Info/Sign-up](
@@ -29,6 +26,9 @@ Our partner - Recovery Stories at 5:30pm August 18th [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
 **Party in the Park** is September 6, 2025 11am to 2pm
     [Details](https://communitycanvases.org/events/partyinthepark2025/){: .btn .btn--info}<br>
+Community Swing 6pm to 9pm every Wednesday
+    [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Thank you for attending **The Moral Imperative** - Celebration
    [Details](/moralimperative/){: .btn .btn--large .btn--success}<br>
 Graduation Poem from Fund Development Bootcamp [read](
