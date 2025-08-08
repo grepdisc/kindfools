@@ -31,6 +31,11 @@ Community Swing 6pm to 9pm every Wednesday
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Thank you for attending **The Moral Imperative** - Celebration
    [Details](/moralimperative/){: .btn .btn--large .btn--success}<br>
+All Community Canvases [Events](
+https://communitycanvases.org/events/){: .btn .btn--info}
+{: .notice--info .maxwidthbox .align-center}
+
+{% comment %}
 Graduation Poem from Fund Development Bootcamp [read](
     https://communitycanvases.org/perspectives/Fund-Development/){: .btn .btn--info}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2025 [All the Details](
@@ -38,11 +43,6 @@ WNY Trash Mob's Earth Day Clean Up Challenge 2025 [All the Details](
 Signal Box Art Project [Info/Application](
     https://communitycanvases.org/signalboxes/northbuffalo/
     ){: .btn .btn--info}<br>
-All Community Canvases [Events](
-https://communitycanvases.org/events/){: .btn .btn--info}
-{: .notice--info .maxwidthbox .align-center}
-
-{% comment %}
 WNY Trash Mob's **Cleanup Day** on Grant Street 10am June 14th [Details](
     https://communitycanvases.org/events/cleanup20250614/
     ){: .btn .btn--success}<br>
