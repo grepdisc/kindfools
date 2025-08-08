@@ -11,8 +11,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 ## Upcoming workshops
 
 
-- **WRITE ON - Home** on August 5th in Arabic, Spanish & English [Details](/home/){: .btn .btn--info}
-
 - *Tuesday, August 12th 6:00pm-8:30pm* WRITE ON at [
     King Urban Life Center](https://www.kingurbanlifecenter.org)
     [Sign Up](/signups/writeon20250812/){: .btn .btn--success}

@@ -23,15 +23,6 @@ Anyone is welcome at any of these **[WRITE ON](/writeon/)** intuitive writing wo
 - Thursday, July 10, 2025 from 5:30pm to 8:30pm in Burmese & English
 - Thursday, July 24, 2025 from 5:30pm to 8:30pm in Spanish & English
 - Tuesday August 5, 2025 from 5:30pm to 8:30pm in Arabic, Spanish & English
-[التسجيل](
-https://docs.google.com/forms/d/e/1FAIpQLSerfVI86bF9G-PdLrSbkCPRUtIXxPMWOtPKLf2CSTTRAPjLKA/viewform?usp=sf_link
-){: .btn .btn--success}
-[Inscribirse](
-https://docs.google.com/forms/d/e/1FAIpQLSfZ_T1jTv1M-WmPdsqv6-G5zBteNEKQoFVzN-iNw4Dl6OPkDQ/viewform?usp=sf_link
-){: .btn .btn--success}
-[Sign Up](
-https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziYWRRHUkVing/viewform?usp=sf_link
-){: .btn .btn--success}
 - Tuesday August 19, 2025 from 5:30pm to 8:30pm in Arabic, Spanish & English
 [s'inscrire](
 https://docs.google.com/forms/d/e/1FAIpQLSclICzi9T8bZ2uHTiYaQSvrNoqb9ELCdQP7bVy8LlmF9NH2Tg/viewform?usp=sf_link
@@ -44,6 +35,12 @@ https://docs.google.com/forms/d/e/1FAIpQLSeLEdRzDn_djTI7fl-uwrzeIy_DKsX_Iz_tKziY
 ){: .btn .btn--success}
 
 {% comment %}
+[التسجيل](
+https://docs.google.com/forms/d/e/1FAIpQLSerfVI86bF9G-PdLrSbkCPRUtIXxPMWOtPKLf2CSTTRAPjLKA/viewform?usp=sf_link
+){: .btn .btn--success}
+[Inscribirse](
+https://docs.google.com/forms/d/e/1FAIpQLSfZ_T1jTv1M-WmPdsqv6-G5zBteNEKQoFVzN-iNw4Dl6OPkDQ/viewform?usp=sf_link
+){: .btn .btn--success}
 This will build on the four workshops we led in partnership with The NYIC last summer:
 
 - Workshop 1:00pm to 4:00pm, Wednesday July 17, 2024 at Raha Coffee House in Arabic and English
