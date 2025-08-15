@@ -23,7 +23,7 @@ Anyone is welcome at any of these **[WRITE ON](/writeon/)** intuitive writing wo
 - Thursday, July 10, 2025 from 5:30pm to 8:30pm in Burmese & English
 - Thursday, July 24, 2025 from 5:30pm to 8:30pm in Spanish & English
 - Tuesday August 5, 2025 from 5:30pm to 8:30pm in Arabic, Spanish & English
-- Tuesday August 19, 2025 from 5:30pm to 8:30pm in Arabic, Spanish & English
+- Tuesday August 19, 2025 from 5:30pm to 8:30pm in French, Burmese, Dari & English
 [s'inscrire](
 https://docs.google.com/forms/d/e/1FAIpQLSclICzi9T8bZ2uHTiYaQSvrNoqb9ELCdQP7bVy8LlmF9NH2Tg/viewform?usp=sf_link
 ){: .btn .btn--success}
