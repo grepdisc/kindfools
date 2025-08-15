@@ -25,10 +25,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 {% comment %}
 Please check back soon for our July WRITE ON workshops.
 
-- *Tuesday, August 12th 6:00pm-8:30pm* WRITE ON at [
-    King Urban Life Center](https://www.kingurbanlifecenter.org)
-    [Sign Up](/signups/writeon20250812/){: .btn .btn--success}
-
 - *Tuesday, June 12th 6:00pm-8:30pm* WRITE ON at [
     King Urban Life Center](https://www.kingurbanlifecenter.org)
     [Sign Up](/signups/writeon20250612/){: .btn .btn--success}
@@ -227,23 +223,28 @@ WRITE ON workshops as part of WRITE ON - Home are supported by [Art Services, In
 - Tuesday, April 17, 2025 at
   Frank E [Merriweather Library](
   https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
+- Tuesday, May 6, 2025 WRITE ON with Buffalo Urban Resiliency Center's Women's empowerment group
 - Thursday, May 8, 2025 at
   Frank E [Merriweather Library](
   https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
 - Monday, May 12, 2025 WRITE ON at [
     King Urban Life Center](https://www.kingurbanlifecenter.org)
-- Tuesday, May 20th WRITE ON at [
+- Tuesday, May 20, 2025 WRITE ON at [
     King Urban Life Center](https://www.kingurbanlifecenter.org)
-- Tuesday, May 27th WRITE ON at [
+- Tuesday, May 27, 2025 WRITE ON at [
     Fitz Books & Waffles](https://www.fitzbooks.net) at 1462 Main Street
-- Tuesday, June 12th WRITE ON at [
+- Tuesday, June 5, 2025, WRITE ON gathering on the shores of Lake Erie with Buffalo Urban
+    Resiliency Center's Women's Empowerment Group
+- Tuesday, June 12, 2025 WRITE ON at [
     King Urban Life Center](https://www.kingurbanlifecenter.org)
-- Thursday, July 10th WRITE ON - HOME with Burmese interpreters
-- Thursday, July 17th WRITE ON at the Frank E. Merriweather Library
-- Thursday, July 24th WRITE ON - HOME with Spanish interpreters
-- *Tuesday, July 29th 6:00pm-8:30pm* WRITE ON at Grant Street Neighborhood Center
-    [Sign Up](/signups/writeon20250729/){: .btn .btn--success}
-
+- Thursday, July 10, 2025 WRITE ON - HOME with Burmese interpreters
+- Thursday, July 17, 2025 WRITE ON at the Frank E. Merriweather Library
+- Thursday, July 24, 2025 WRITE ON - HOME with Spanish interpreters
+- Tuesday, July 29, 2025 WRITE ON at Grant Street Neighborhood Center
+- Thursday, July 31, 2025 WRITE ON at EOC with English language learners
+- Tuesday, August 5, 2025 WRITE ON - HOME with Arabic and Spanish interpreters
+- Tuesday, August 12, 2025 WRITE ON at [
+    King Urban Life Center](https://www.kingurbanlifecenter.org)
 
 
 
