@@ -10,15 +10,24 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
+- **WRITE ON - Home** on August 19th in French, Burmese, Dari & English [Details](/home/){: .btn .btn--info}
+
+- Direct Message -  a series of community workshops about collectively reclaiming our creative voices.
+    Participants will engage through poems and paintings in rich open-ended exchange with neighbors,
+    producing poems in WRITE ON-inspired workshops that will help shape a series of paintings.
+    Apply by September 19, 2025. This is a project by WNY figurative artist Claire Connolly in
+    collaboration with Community Canvases with the support of Art Services Inc. and Fitz Books.
+    [Details/Apply](
+        https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
+
+- Please check back soon for our September WRITE ON workshops.
+
+{% comment %}
+Please check back soon for our July WRITE ON workshops.
 
 - *Tuesday, August 12th 6:00pm-8:30pm* WRITE ON at [
     King Urban Life Center](https://www.kingurbanlifecenter.org)
     [Sign Up](/signups/writeon20250812/){: .btn .btn--success}
-
-- **WRITE ON - Home** on August 19th in French, Burmese & English [Details](/home/){: .btn .btn--info}
-
-{% comment %}
-Please check back soon for our July WRITE ON workshops.
 
 - *Tuesday, June 12th 6:00pm-8:30pm* WRITE ON at [
     King Urban Life Center](https://www.kingurbanlifecenter.org)
