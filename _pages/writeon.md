@@ -10,7 +10,14 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- **WRITE ON - Home** on August 19th in French, Burmese, Dari & English [Details](/home/){: .btn .btn--info}
+- *Thursday, September 18th 1:00pm-3:30pm* WRITE ON at
+    Frank E [Merriweather Library](
+    https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
+    [Sign Up](/signups/writeon20250918/){: .btn .btn--success}
+
+- *Tuesday, September 23rd 5:00pm-7:30pm* WRITE ON at [
+    UUCB](https://buffalouu.org/)
+    [Sign Up](/signups/writeon20250923/){: .btn .btn--success}
 
 - Direct Message -  a series of community workshops about collectively reclaiming our creative voices.
     Participants will engage through poems and paintings in rich open-ended exchange with neighbors,
@@ -245,6 +252,7 @@ WRITE ON workshops as part of WRITE ON - Home are supported by [Art Services, In
 - Tuesday, August 5, 2025 WRITE ON - HOME with Arabic and Spanish interpreters
 - Tuesday, August 12, 2025 WRITE ON at [
     King Urban Life Center](https://www.kingurbanlifecenter.org)
+- Tuesday, August 19, 2025 WRITE ON - Home in French, Burmese, Dari & English [Details](/home/){: .btn .btn--info}
 
 
 
