@@ -10,13 +10,13 @@ header:
 
 # Recovery Stories' 100 Thousand Poets for Change
 
-3:00pm to 6:00pm on Friday, September 6, 2025
+3:00pm to 6:00pm on Friday, September 5, 2025
 
 [Details and Signup Here](
 https://docs.google.com/forms/d/e/1FAIpQLSfz6GmHF8JsQfftlPl5737CsNeDNXLXarHFet_XYx8DFb0rig/viewform
 ){: .btn .btn--success .btn--large}<br>
 
-# Recovery Stories on Monday, August 18, 2025
+# Recovery Stories on Monday, September 15, 2025
 
 Recovery Stories - an accepting space to share poems and stories of recovery.
 
