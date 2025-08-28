@@ -27,8 +27,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
     [Details/Apply](
         https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
 
-- Please check back soon for our September WRITE ON workshops.
-
 {% comment %}
 Please check back soon for our July WRITE ON workshops.
 
