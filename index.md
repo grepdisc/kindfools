@@ -26,6 +26,10 @@ Direct Message - reclaim our creative voices [Details/Apply by Sept 19th](
     https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
 WRITE ON - September 23rd at 5pm with veterans at UUCB
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
+    [Details/Register](
+    https://www.annefrankproject.com/social-justice-festival
+    ){: .btn .btn--info}<br>
 Community Swing 6pm to 9pm every Wednesday
     [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
