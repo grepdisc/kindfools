@@ -24,6 +24,8 @@ WRITE ON - September 18th at 1pm at Merriweather Library
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Direct Message - reclaim our creative voices [Details/Apply by Sept 19th](
     https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
+Healing Programming at Project Homeless Connect Sept 19th [Details](
+    https://www.phcbuffalo.org/){: .btn .btn--info}<br>
 WRITE ON - September 23rd at 5pm with veterans at UUCB
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
