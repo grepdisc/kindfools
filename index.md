@@ -16,10 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-100,000 Poets for Change at 3pm September 5th [Info/Sign-up](
-    /recoverystories/){: .btn .btn--success}<br>
-**Party in the Park** is September 6, 2025 11am to 2pm
-    [Details](https://communitycanvases.org/events/partyinthepark2025/){: .btn .btn--success}<br>
 WRITE ON - September 18th at 1pm at Merriweather Library
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Direct Message - reclaim our creative voices [Details/Apply by Sept 19th](
@@ -32,6 +28,9 @@ Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
     [Details/Register](
     https://www.annefrankproject.com/social-justice-festival
     ){: .btn .btn--info}<br>
+Pumkin Carving & Film Fundraiser October 18th
+    [$20 Tickets/Info](https://www.chateaubuffalo.com/suite-16-cinema-series
+    ){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday
     [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
@@ -39,6 +38,11 @@ Our partner - Recovery Stories at 5:30pm September 15th [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
 Thank you for attending **The Moral Imperative** - Celebration
    [Details](/moralimperative/){: .btn .btn--large .btn--info}<br>
+Thank you for attending 100,000 Poets for Change [Info/Sign-up](
+    /recoverystories/){: .btn .btn--success}<br>
+Thank for attending **Party in the Park**
+    [Details](https://communitycanvases.org/events/partyinthepark2025/
+    ){: .btn .btn--success}<br>
 All Community Canvases [Events](
 https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
