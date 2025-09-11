@@ -8,14 +8,6 @@ header:
 
 ---
 
-# Recovery Stories' 100 Thousand Poets for Change
-
-3:00pm to 6:00pm on Friday, September 5, 2025
-
-[Details and Signup Here](
-https://docs.google.com/forms/d/e/1FAIpQLSfz6GmHF8JsQfftlPl5737CsNeDNXLXarHFet_XYx8DFb0rig/viewform
-){: .btn .btn--success .btn--large}<br>
-
 # Recovery Stories on Monday, September 15, 2025
 
 Recovery Stories - an accepting space to share poems and stories of recovery.
@@ -26,11 +18,19 @@ at **[mr.samuelfloyd@gmail.com](mailto:mr.samuelfloyd@gmail.com)**
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeoTPMQiO3i7e_k4_VWryUVdmGX3BVte0bc_Iv2sQxf92LARQ/viewform?embedded=true" width="100%" height="1650" frameborder="0" marginheight="0" marginwidth="0" onload = "window.parent.scrollTo(0,0)">Loading…</iframe>
 
 <figure style="max-width: 966px" class="align-center">
-  <img src="/assets/images/recoverystoriesflyer20250714.jpg"
+  <img src="/assets/images/recoverystoriesflyer20250915.jpg"
    alt="Recovery Stories Poster">
 </figure> 
 
+# Recovery Stories' 100 Thousand Poets for Change
+
+Thank you to everyone who joined us on Friday, September 5, 2025
+
 {% comment %}
+[Details and Signup Here](
+https://docs.google.com/forms/d/e/1FAIpQLSfz6GmHF8JsQfftlPl5737CsNeDNXLXarHFet_XYx8DFb0rig/viewform
+){: .btn .btn--success .btn--large}<br>
+
 <figure style="max-width: 966px" class="align-center">
   <img src="/assets/images/recoverystoriesflyer20250623.jpg"
    alt="Recovery Stories Poster">
