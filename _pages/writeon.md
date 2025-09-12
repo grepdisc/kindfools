@@ -15,6 +15,9 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
     https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
     [Sign Up](/signups/writeon20250918/){: .btn .btn--success}
 
+- Healing Programming at Project Homeless Connect Sept 19th - 10am to 4pm with WRITE ON beginning at 12:15pm [Details](
+    https://www.phcbuffalo.org/){: .btn .btn--info}<br>
+
 - *Tuesday, September 23rd 5:00pm-7:30pm* WRITE ON at [
     UUCB](https://buffalouu.org/)
     [Sign Up](/signups/writeon20250923/){: .btn .btn--success}
