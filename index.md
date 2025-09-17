@@ -34,7 +34,7 @@ Pumkin Carving & Film Fundraiser October 18th
 Community Swing 6pm to 9pm every Wednesday
     [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Our partner - Recovery Stories at 5:30pm September 15th [Info/Sign-up](
+Our partner - Recovery Stories at 5:30pm October 20th [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
 Thank you for attending **The Moral Imperative** - Celebration
    [Details](/moralimperative/){: .btn .btn--large .btn--info}<br>
