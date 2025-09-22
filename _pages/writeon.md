@@ -10,14 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Thursday, September 18th 1:00pm-3:30pm* WRITE ON at
-    Frank E [Merriweather Library](
-    https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
-    [Sign Up](/signups/writeon20250918/){: .btn .btn--success}
-
-- Healing Programming at Project Homeless Connect Sept 19th - 10am to 4pm with WRITE ON beginning at 12:15pm [Details](
-    https://www.phcbuffalo.org/){: .btn .btn--info}<br>
-
 - *Tuesday, September 23rd 5:00pm-7:30pm* WRITE ON at [
     UUCB](https://buffalouu.org/)
     [Sign Up](/signups/writeon20250923/){: .btn .btn--success}
@@ -27,7 +19,7 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
     producing poems in WRITE ON-inspired workshops that will help shape a series of paintings.
     Apply by September 19, 2025. This is a project by WNY figurative artist Claire Connolly in
     collaboration with Community Canvases with the support of Art Services Inc. and Fitz Books.
-    [Details/Apply](
+    [Details](
         https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
 
 {% comment %}
@@ -253,8 +245,13 @@ WRITE ON workshops as part of WRITE ON - Home are supported by [Art Services, In
 - Tuesday, August 5, 2025 WRITE ON - HOME with Arabic and Spanish interpreters
 - Tuesday, August 12, 2025 WRITE ON at [
     King Urban Life Center](https://www.kingurbanlifecenter.org)
-- Tuesday, August 19, 2025 WRITE ON - Home in French, Burmese, Dari & English [Details](/home/){: .btn .btn--info}
-
+- Tuesday, August 19, 2025 WRITE ON - Home in French, Burmese, Dari & English [
+    Details](/home/){: .btn .btn--info}
+- Thursday, September 18, 2025 WRITE ON at
+    Frank E [Merriweather Library](
+    https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
+- Healing Programming at Project Homeless Connect Sept 19, 2025 [Details](
+    https://www.phcbuffalo.org/)
 
 
 

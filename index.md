@@ -16,14 +16,13 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-WRITE ON - September 18th at 1pm at Merriweather Library
+WRITE ON - September 23rd at 5pm at UUCB
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
-Direct Message - reclaim our creative voices [Details/Apply by Sept 19th](
-    https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
+Community Swing September 24th at 6pm with Cami Clune
+    [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--success}<br>
 Healing Programming at Project Homeless Connect Sept 19th [Details](
     https://www.phcbuffalo.org/){: .btn .btn--info}<br>
-WRITE ON - September 23rd at 5pm with veterans at UUCB
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
     [Details/Register](
     https://www.annefrankproject.com/social-justice-festival
@@ -48,6 +47,8 @@ https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+Direct Message - reclaim our creative voices [Details/Apply by Sept 19th](
+    https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your preferred language August 19th
     [Details](/home/){: .btn .btn--success}<br>
 Graduation Poem from Fund Development Bootcamp [read](
