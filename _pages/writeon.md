@@ -10,7 +10,7 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Tuesday, September 23rd 5:00pm-7:30pm* WRITE ON at [
+- **POSTPONED** *Tuesday, September 23rd 5:00pm-7:30pm* WRITE ON at [
     UUCB](https://buffalouu.org/)
     [Sign Up](/signups/writeon20250923/){: .btn .btn--success}
 
@@ -81,7 +81,7 @@ Kind Fools' WRITE ON workshops are supported by Community Canvases, community pa
 
 Kind Fools, a program of Community Canvases, is made possible with the generous support of the David and Joan Rogers Foundation and the Ralph C. Wilson, Jr. Arts & Culture Initiative administered by the Community Foundation for Greater Buffalo.
 
-WRITE ON workshops from December 2024 through August 2024 have been sponsored by [Roswell Park](https://www.roswellpark.org)'s CARES Program. The purpose of this program is to share [literature/education](https://www.roswellpark.org/newsroom/publications) 
+WRITE ON workshops from December 2024 through August 2025 have been sponsored by [Roswell Park](https://www.roswellpark.org)'s CARES Program. The purpose of this program is to share [literature/education](https://www.roswellpark.org/newsroom/publications) 
 on cancer prevention and screening in the hope of reducing the impact of cancer in our communities. For example, there are [community programs](https://www.roswellpark.org/sites/default/files/2024-03/52925infosheet_communityengagement_2024_0.pdf) available at Michigan Ave. and specific info sheets on [Lung](https://www.roswellpark.org/sites/default/files/2024-10/53886-info-sheet_lung2024.pdf), [Breast](https://www.roswellpark.org/sites/default/files/2024-10/53842-info-sheet_breast.pdf), [Colorectal](https://www.roswellpark.org/sites/default/files/2024-03/52547-info-sheet_colorectal_0324.pdf) and [Prostate Cancer](https://www.roswellpark.org/sites/default/files/2024-09/53838-info-sheet_prostate-cancer.pdf).
 
 WRITE ON workshops as part of The Moral Imperative as supported in-part by Just Buffalo Literary Center's [Civil Writes Project](https://www.justbuffalo.org/literary-events-in-buffalo/civil-writes-project/).
