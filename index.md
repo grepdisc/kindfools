@@ -13,21 +13,12 @@ all_posts:
 
 ---
 
-The September 23rd WRITE ON is **postponed.** We apologize for any inconvenience.
-{: .notice--warning}
-
 # Upcoming Events
 {: .text-center}
 
-Community Swing 6pm to 9pm every Wednesday [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-**POSTPONED** WRITE ON - September 23rd at 5pm at UUCB
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Community Swing September 24th at 6pm with Cami Clune
     [Details](
     https://www.facebook.com/communityswing){: .btn .btn--success}<br>
-Healing Programming at Project Homeless Connect Sept 19th [Details](
-    https://www.phcbuffalo.org/){: .btn .btn--info}<br>
 Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
     [Details/Register](
     https://www.annefrankproject.com/social-justice-festival

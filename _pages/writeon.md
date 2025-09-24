@@ -10,9 +10,7 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- **POSTPONED** *Tuesday, September 23rd 5:00pm-7:30pm* WRITE ON at [
-    UUCB](https://buffalouu.org/)
-    [Sign Up](/signups/writeon20250923/){: .btn .btn--success}
+- Please check back soon for our October WRITE ON workshops.
 
 - Direct Message -  a series of community workshops about collectively reclaiming our creative voices.
     Participants will engage through poems and paintings in rich open-ended exchange with neighbors,
