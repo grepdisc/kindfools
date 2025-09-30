@@ -16,13 +16,12 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Community Swing September 24th at 6pm with Cami Clune
-    [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--success}<br>
 Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
     [Details/Register](
     https://www.annefrankproject.com/social-justice-festival
     ){: .btn .btn--info}<br>
+Kind Fools' WRITE ON - October 14th at 6pm at Rise of WNY
+    [Details](/writeon/){: .btn .btn--success}<br>
 Pumpkin Carving & Film Fundraiser October 18th
     [$25 Tickets/Info](https://www.chateaubuffalo.com/suite-16-cinema-series
     ){: .btn .btn--success}<br>
@@ -31,18 +30,26 @@ Community Swing 6pm to 9pm every Wednesday
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Our partner - Recovery Stories at 5:30pm October 20th [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
-Thank you for attending **The Moral Imperative** - Celebration
-   [Details](/moralimperative/){: .btn .btn--large .btn--info}<br>
-Thank you for attending 100,000 Poets for Change [Info/Sign-up](
-    /recoverystories/){: .btn .btn--success}<br>
+Kind Fools' WRITE ON - October 23rd at 1pm at TBD
+    [Details](/writeon/){: .btn .btn--success}<br>
+WNY Trash Mob's Happy Hallo-Clean - November 1st at 11am [Details](
+    https://communitycanvases.org/events/cleanup20251101/
+    ){: .btn .btn--info}<br>
 Thank for attending **Party in the Park**
     [Details](https://communitycanvases.org/events/partyinthepark2025/
-    ){: .btn .btn--success}<br>
+    ){: .btn .btn--info}<br>
 All Community Canvases [Events](
 https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+Thank you for attending **The Moral Imperative** - Celebration
+   [Details](/moralimperative/){: .btn .btn--large .btn--info}<br>
+Thank you for attending 100,000 Poets for Change [Info/Sign-up](
+    /recoverystories/){: .btn .btn--success}<br>
+Community Swing September 24th at 6pm with Cami Clune
+    [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--success}<br>
 Direct Message - reclaim our creative voices [Details/Apply by Sept 19th](
     https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
 WRITE ON - Home - writing in your preferred language August 19th

@@ -10,18 +10,26 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- Please check back soon for our October WRITE ON workshops.
+- *Wednesday, October 8th 2:00pm-3:30pm* WRITE ON at Anne Frank Project
+    [Sign Up](/signups/writeon20251008/){: .btn .btn--success}
+
+- *Tuesday, October 14th 6:00pm-8:30pm* WRITE ON at Rise of WNY
+    [Sign Up](/signups/writeon20251014/){: .btn .btn--success}
+
+- *Thursday, October 23rd 1:00pm-3:30pm* WRITE ON at TBD
+    [Sign Up](/signups/writeon20251023/){: .btn .btn--success}
 
 - Direct Message -  a series of community workshops about collectively reclaiming our creative voices.
     Participants will engage through poems and paintings in rich open-ended exchange with neighbors,
     producing poems in WRITE ON-inspired workshops that will help shape a series of paintings.
-    Apply by September 19, 2025. This is a project by WNY figurative artist Claire Connolly in
+    Applications are currently closed for this project by WNY figurative artist Claire Connolly in
     collaboration with Community Canvases with the support of Art Services Inc. and Fitz Books.
     [Details](
         https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
 
 {% comment %}
 Please check back soon for our July WRITE ON workshops.
+- Please check back soon for our October WRITE ON workshops.
 
 - *Tuesday, June 12th 6:00pm-8:30pm* WRITE ON at [
     King Urban Life Center](https://www.kingurbanlifecenter.org)
