@@ -16,9 +16,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 - *Tuesday, October 14th 6:00pm-8:30pm* WRITE ON at Rise of WNY
     [Sign Up](/signups/writeon20251014/){: .btn .btn--success}
 
-- *Thursday, October 23rd 1:00pm-3:30pm* WRITE ON at TBD
-    [Sign Up](/signups/writeon20251023/){: .btn .btn--success}
-
 - Direct Message -  a series of community workshops about collectively reclaiming our creative voices.
     Participants will engage through poems and paintings in rich open-ended exchange with neighbors,
     producing poems in WRITE ON-inspired workshops that will help shape a series of paintings.
@@ -28,6 +25,9 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
         https://www.clairemconnolly.com/directmessage){: .btn .btn--success}<br>
 
 {% comment %}
+- *Thursday, October 23rd 1:00pm-3:30pm* WRITE ON at TBD
+    [Sign Up](/signups/writeon20251023/){: .btn .btn--success}
+
 Please check back soon for our July WRITE ON workshops.
 - Please check back soon for our October WRITE ON workshops.
 
