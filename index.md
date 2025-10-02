@@ -30,6 +30,9 @@ Community Swing 6pm to 9pm every Wednesday
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Our partner - Recovery Stories at 5:30pm October 20th [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
+Kind Fools' WRITE ON - October 23rd at 1pm at Merriweather Library
+    [Details](/writeon/){: .btn .btn--success}<br>
+The Home Within - 6pm October 30th at Buffalo History Museum
 WNY Trash Mob's Happy Hallo-Clean - November 1st at 11am [Details](
     https://communitycanvases.org/events/cleanup20251101/
     ){: .btn .btn--info}<br>
