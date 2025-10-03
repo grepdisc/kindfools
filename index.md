@@ -24,7 +24,7 @@ Kind Fools' WRITE ON - October 14th at 6pm at Rise of WNY
     [Details](/writeon/){: .btn .btn--success}<br>
 Pumpkin Carving & Film Fundraiser October 18th
     [$25 Tickets/Info](
-    https://secure.givelively.org/event/community-canvases-incorporated/pumpkin-carving-and-film-night
+    https://www.chateaubuffalo.com/suite-16-cinema-series
     ){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday
     [Details](
@@ -45,6 +45,7 @@ https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+    https://secure.givelively.org/event/community-canvases-incorporated/pumpkin-carving-and-film-night
 Thank you for attending **The Moral Imperative** - Celebration
    [Details](/moralimperative/){: .btn .btn--large .btn--info}<br>
 Thank you for attending 100,000 Poets for Change [Info/Sign-up](
