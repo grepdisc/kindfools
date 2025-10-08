@@ -19,7 +19,7 @@ all_posts:
 Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
     [Details/Register](
     https://www.annefrankproject.com/social-justice-festival
-    ){: .btn .btn--info}<br>
+    ){: .btn .btn--success}<br>
 Kind Fools' WRITE ON - October 14th at 6pm at Rise of WNY
     [Details](/writeon/){: .btn .btn--success}<br>
 Pumpkin Carving & Film Fundraiser October 18th
