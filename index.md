@@ -16,27 +16,22 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
-    [Details/Register](
-    https://www.annefrankproject.com/social-justice-festival
-    ){: .btn .btn--success}<br>
-Kind Fools' WRITE ON - October 14th at 6pm at Rise of WNY
-    [Details](/writeon/){: .btn .btn--success}<br>
 Pumpkin Carving & Film Fundraiser October 18th
     [$25 Tickets/Info](
     https://www.chateaubuffalo.com/suite-16-cinema-series
     ){: .btn .btn--success}<br>
-Community Swing 6pm to 9pm every Wednesday
-    [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Our partner - Recovery Stories at 5:30pm October 20th [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
 Kind Fools' WRITE ON - October 23rd at 1pm at Merriweather Library
     [Details](/writeon/){: .btn .btn--success}<br>
-The Home Within - 6pm October 30th at Buffalo History Museum
+The Home Within - 6pm October 30th at the Buffalo History Museum [Details](
+    https://www.facebook.com/events/822486890376144){: .btn .btn--info}<br>
 WNY Trash Mob's Happy Hallo-Clean - November 1st at 11am [Details](
     https://communitycanvases.org/events/cleanup20251101/
-    ){: .btn .btn--info}<br>
+    ){: .btn .btn--success}<br>
+Community Swing 6pm to 9pm every Wednesday
+    [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Thank for attending **Party in the Park**
     [Details](https://communitycanvases.org/events/partyinthepark2025/
     ){: .btn .btn--info}<br>
@@ -45,6 +40,10 @@ https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
+    [Details/Register](
+    https://www.annefrankproject.com/social-justice-festival
+    ){: .btn .btn--success}<br>
     https://secure.givelively.org/event/community-canvases-incorporated/pumpkin-carving-and-film-night
 Thank you for attending **The Moral Imperative** - Celebration
    [Details](/moralimperative/){: .btn .btn--large .btn--info}<br>

@@ -22,8 +22,13 @@ Anyone is welcome at any of these **[WRITE ON](/writeon/)** intuitive writing wo
 
 - Thursday, July 10, 2025 from 5:30pm to 8:30pm in Burmese & English
 - Thursday, July 24, 2025 from 5:30pm to 8:30pm in Spanish & English
-- Tuesday August 5, 2025 from 5:30pm to 8:30pm in Arabic, Spanish & English
-- Tuesday August 19, 2025 from 5:30pm to 8:30pm in French, Burmese, Dari & English
+- Tuesday, August 5, 2025 from 5:30pm to 8:30pm in Arabic, Spanish & English
+- Tuesday, August 19, 2025 from 5:30pm to 8:30pm in French, Burmese, Dari & English
+- Friday, September 19, 2025 - Healing Programming at Project Homeless Connect Buffalo
+  including a WRITE ON - Home workshop
+- Thursday, October 30, 2025 - The Home Within - a multilingual performance event 
+  6pm at the Buffalo History Museum [Details](
+    https://www.facebook.com/events/822486890376144){: .btn .btn--info}
 
 {% comment %}
 [s'inscrire](

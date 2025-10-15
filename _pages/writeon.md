@@ -10,12 +10,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Wednesday, October 8th 2:00pm-3:30pm* WRITE ON at Anne Frank Project
-    [Sign Up](/signups/writeon20251008/){: .btn .btn--success}
-
-- *Tuesday, October 14th 6:00pm-8:30pm* WRITE ON at Rise of WNY
-    [Sign Up](/signups/writeon20251014/){: .btn .btn--success}
-
 - *Thursday, October 23rd 1:00pm-3:30pm* WRITE ON at Merriweather Library
     [Sign Up](/signups/writeon20251023/){: .btn .btn--success}
 
@@ -259,6 +253,11 @@ WRITE ON workshops as part of WRITE ON - Home are supported by [Art Services, In
     https://www.buffalolib.org/locations-hours/frank-e-merriweather-jr-branch)
 - Healing Programming at Project Homeless Connect Sept 19, 2025 [Details](
     https://www.phcbuffalo.org/)
+- Wednesday, October 8th WRITE ON at Anne Frank Project
+    [Details](
+    https://www.annefrankproject.com/social-justice-festival
+    ){: .btn .btn--info}<br>
+- Tuesday, October 14th WRITE ON at Rise of WNY
 
 
 
