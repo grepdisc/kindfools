@@ -16,12 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Pumpkin Carving & Film Fundraiser October 18th
-    [$25 Tickets/Info](
-    https://www.chateaubuffalo.com/suite-16-cinema-series
-    ){: .btn .btn--success}<br>
-Our partner - Recovery Stories at 5:30pm October 20th [Info/Sign-up](
-    /recoverystories/){: .btn .btn--success}<br>
 Kind Fools' WRITE ON - October 23rd at 1pm at Merriweather Library
     [Details](/writeon/){: .btn .btn--success}<br>
 The Home Within - 6pm October 30th at the Buffalo History Museum [Details](
@@ -40,6 +34,8 @@ https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+Our partner - Recovery Stories at 5:30pm October 20th [Info/Sign-up](
+    /recoverystories/){: .btn .btn--success}<br>
 Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
     [Details/Register](
     https://www.annefrankproject.com/social-justice-festival
