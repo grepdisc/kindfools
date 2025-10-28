@@ -16,13 +16,15 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Kind Fools' WRITE ON - October 23rd at 1pm at Merriweather Library
-    [Details](/writeon/){: .btn .btn--success}<br>
 The Home Within - 6pm October 30th at the Buffalo History Museum [Details](
-    https://www.facebook.com/events/822486890376144){: .btn .btn--info}<br>
+    https://www.facebook.com/events/822486890376144){: .btn .btn--success .btn--large}<br>
 WNY Trash Mob's Happy Hallo-Clean - November 1st at 11am [Details](
     https://communitycanvases.org/events/cleanup20251101/
-    ){: .btn .btn--success}<br>
+    ){: .btn .btn--success .btn--large}<br>
+Kind Fools' WRITE ON - November 13th at 6pm at Chicory House
+    [Details](/writeon/){: .btn .btn--success}<br>
+Kind Fools' WRITE ON - November 20th at 6pm at King Urban Life Center
+    [Details](/writeon/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday
     [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>

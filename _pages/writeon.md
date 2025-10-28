@@ -10,8 +10,11 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Thursday, October 23rd 1:00pm-3:30pm* WRITE ON at Merriweather Library
-    [Sign Up](/signups/writeon20251023/){: .btn .btn--success}
+- *Thursday, November 13th at 6:00pm-8:30pm* WRITE ON at Chicory House
+    [Sign Up](/signups/writeon20251113/){: .btn .btn--success}
+
+- *Thursday, November 20th at 6:00pm-8:30pm* WRITE ON at King Urban Life Center
+    [Sign Up](/signups/writeon20251120/){: .btn .btn--success}
 
 - Direct Message -  a series of community workshops about collectively reclaiming our creative voices.
     Participants will engage through poems and paintings in rich open-ended exchange with neighbors,
@@ -258,6 +261,7 @@ WRITE ON workshops as part of WRITE ON - Home are supported by [Art Services, In
     https://www.annefrankproject.com/social-justice-festival
     ){: .btn .btn--info}<br>
 - Tuesday, October 14th WRITE ON at Rise of WNY
+- Thursday, October 23rd WRITE ON at Merriweather Library
 
 
 
