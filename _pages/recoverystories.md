@@ -8,7 +8,7 @@ header:
 
 ---
 
-# Recovery Stories on Monday, October 20, 2025
+# Recovery Stories on Monday, January 26, 2026
 
 Recovery Stories - an accepting space to share poems and stories of recovery.
 
@@ -22,11 +22,11 @@ at **[mr.samuelfloyd@gmail.com](mailto:mr.samuelfloyd@gmail.com)**
    alt="Recovery Stories Poster">
 </figure> 
 
+{% comment %}
 # Recovery Stories' 100 Thousand Poets for Change
 
 Thank you to everyone who joined us on Friday, September 5, 2025
 
-{% comment %}
 [Details and Signup Here](
 https://docs.google.com/forms/d/e/1FAIpQLSfz6GmHF8JsQfftlPl5737CsNeDNXLXarHFet_XYx8DFb0rig/viewform
 ){: .btn .btn--success .btn--large}<br>

@@ -16,11 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-The Home Within - 6pm October 30th at the Buffalo History Museum [Details](
-    https://www.facebook.com/events/822486890376144){: .btn .btn--success .btn--large}<br>
-WNY Trash Mob's Happy Hallo-Clean - November 1st at 11am [Details](
-    https://communitycanvases.org/events/cleanup20251101/
-    ){: .btn .btn--success .btn--large}<br>
 Kind Fools' WRITE ON - November 13th at 6pm at Chicory House
     [Details](/writeon/){: .btn .btn--success}<br>
 Kind Fools' WRITE ON - November 20th at 6pm at King Urban Life Center
@@ -36,6 +31,11 @@ https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+The Home Within - 6pm October 30th at the Buffalo History Museum [Details](
+    https://www.facebook.com/events/822486890376144){: .btn .btn--success .btn--large}<br>
+WNY Trash Mob's Happy Hallo-Clean - November 1st at 11am [Details](
+    https://communitycanvases.org/events/cleanup20251101/
+    ){: .btn .btn--success .btn--large}<br>
 Our partner - Recovery Stories at 5:30pm October 20th [Info/Sign-up](
     /recoverystories/){: .btn .btn--success}<br>
 Anne Frank Project - Belonging - Kind Fools session 2pm Oct 8th
