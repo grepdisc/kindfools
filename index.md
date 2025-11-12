@@ -23,6 +23,8 @@ Kind Fools' WRITE ON - November 20th at 6pm at King Urban Life Center
 Community Swing 6pm to 9pm every Wednesday
     [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+Band Together for Food - December 7th at 1pm
+    [Details](https://www.facebook.com/events/1144182281198731){: .btn .btn--success}<br>
 Thank for attending **Party in the Park**
     [Details](https://communitycanvases.org/events/partyinthepark2025/
     ){: .btn .btn--info}<br>
