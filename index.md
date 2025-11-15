@@ -16,8 +16,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Kind Fools' WRITE ON - November 13th at 6pm at Chicory House
-    [Details](/writeon/){: .btn .btn--success}<br>
 Kind Fools' WRITE ON - November 20th at 6pm at King Urban Life Center
     [Details](/writeon/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday
