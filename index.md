@@ -16,16 +16,15 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Kind Fools' WRITE ON - November 20th at 6pm at King Urban Life Center
-    [Details](/writeon/){: .btn .btn--success}<br>
+Band Together for Food - December 7th at 1pm
+    [Details](https://www.facebook.com/events/1144182281198731){: .btn .btn--success}<br>
+Community Swing 6pm to 9pm every Wednesday [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+Kind Fools' WRITE ON - December 9th at 6pm at TBA
+    [Info/Sign-up](/writeon/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday
     [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Band Together for Food - December 7th at 1pm
-    [Details](https://www.facebook.com/events/1144182281198731){: .btn .btn--success}<br>
-Thank for attending **Party in the Park**
-    [Details](https://communitycanvases.org/events/partyinthepark2025/
-    ){: .btn .btn--info}<br>
 All Community Canvases [Events](
 https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}

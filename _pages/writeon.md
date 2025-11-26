@@ -10,8 +10,11 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Thursday, November 20th at 6:00pm-8:30pm* WRITE ON at King Urban Life Center
-    [Sign Up](/signups/writeon20251120/){: .btn .btn--success}
+- *Tuesday, December 9th at 6:00pm-8:30pm* WRITE ON at TBA
+    [Sign Up](/signups/writeon20251209/){: .btn .btn--success}
+
+- *Thursday, December 18th at 1:00pm-3:30pm* WRITE ON at TBA
+    [Sign Up](/signups/writeon20251218/){: .btn .btn--success}
 
 - Direct Message -  a series of community workshops about collectively reclaiming our creative voices.
     Participants will engage through poems and paintings in rich open-ended exchange with neighbors,
@@ -260,6 +263,7 @@ WRITE ON workshops as part of WRITE ON - Home are supported by [Art Services, In
 - Tuesday, October 14th WRITE ON at Rise of WNY
 - Thursday, October 23rd WRITE ON at Merriweather Library
 - Thursday, November 13th WRITE ON at Chicory House
+- Thursday, November 20th WRITE ON at King Urban Life Center
 
 
 
