@@ -10,10 +10,10 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Tuesday, December 9th at 6:00pm-8:30pm* WRITE ON at TBA
+- *Tuesday, December 9th at 6:00pm-8:30pm EST* WRITE ON on Zoom.
     [Sign Up](/signups/writeon20251209/){: .btn .btn--success}
 
-- *Thursday, December 18th at 1:00pm-3:30pm* WRITE ON at TBA
+- *Thursday, December 18th at 1:00pm-3:30pm* WRITE ON at the Frank E. Merriweather Library
     [Sign Up](/signups/writeon20251218/){: .btn .btn--success}
 
 - Direct Message -  a series of community workshops about collectively reclaiming our creative voices.

@@ -17,10 +17,18 @@ all_posts:
 {: .text-center}
 
 Band Together for Food - December 7th at 1pm
-    [Details](https://www.facebook.com/events/1144182281198731){: .btn .btn--success}<br>
+    [Details](
+        https://www.facebook.com/events/1144182281198731
+    ){: .btn .btn--large .btn--success}<br>
+Thank you for supporting Community Canvases' / Kind Fools' Annual Appeal
+    [Donate](
+        https://secure.givelively.org/donate/community-canvases-incorporated
+    ){: .btn .btn--large .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Kind Fools' WRITE ON - December 9th at 6pm at TBA
+Kind Fools' WRITE ON - December 9th at 6pm on Zoom
+    [Info/Sign-up](/writeon/){: .btn .btn--success}<br>
+Kind Fools' WRITE ON - December 18th at 1pm at Merriweather Library
     [Info/Sign-up](/writeon/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday
     [Details](
