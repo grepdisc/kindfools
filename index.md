@@ -13,10 +13,6 @@ all_posts:
 
 ---
 
-**Support Community Canvases' Kind Fools** this Giving Tuesday [Give](
-        https://secure.givelively.org/donate/community-canvases-incorporated
-    ){: .btn .btn--success}<br>
-{: .align-center}
 
 # Upcoming Events
 {: .text-center}
@@ -43,6 +39,10 @@ https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+**Support Community Canvases' Kind Fools** this Giving Tuesday [Give](
+        https://secure.givelively.org/donate/community-canvases-incorporated
+    ){: .btn .btn--success}<br>
+{: .align-center}
 The Home Within - 6pm October 30th at the Buffalo History Museum [Details](
     https://www.facebook.com/events/822486890376144){: .btn .btn--success .btn--large}<br>
 WNY Trash Mob's Happy Hallo-Clean - November 1st at 11am [Details](
