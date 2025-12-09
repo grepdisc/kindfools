@@ -17,10 +17,6 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Band Together for Food - December 7th at 1pm
-    [Details](
-        https://www.facebook.com/events/1144182281198731
-    ){: .btn .btn--large .btn--success}<br>
 Thank you for supporting Community Canvases' / Kind Fools' Annual Appeal
     [Donate](
         https://secure.givelively.org/donate/community-canvases-incorporated
@@ -34,6 +30,10 @@ Kind Fools' WRITE ON - December 18th at 1pm at Merriweather Library
 Community Swing 6pm to 9pm every Wednesday
     [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+Band Together for Food raised almost $2,000 for Journey's End. Thanks!!!
+    [Details](
+        https://www.facebook.com/events/1144182281198731
+    ){: .btn .btn--large .btn--success}<br>
 All Community Canvases [Events](
 https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
