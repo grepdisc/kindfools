@@ -23,8 +23,6 @@ Thank you for supporting Community Canvases' / Kind Fools' Annual Appeal
     ){: .btn .btn--large .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Kind Fools' WRITE ON - December 9th at 6pm on Zoom
-    [Info/Sign-up](/writeon/){: .btn .btn--success}<br>
 Kind Fools' WRITE ON - December 18th at 1pm at Merriweather Library
     [Info/Sign-up](/writeon/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday
