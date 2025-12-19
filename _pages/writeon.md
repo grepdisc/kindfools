@@ -10,8 +10,7 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Thursday, December 18th at 1:00pm-3:30pm* WRITE ON at the Frank E. Merriweather Library
-    [Sign Up](/signups/writeon20251218/){: .btn .btn--success}
+- Please check back soon for our January and February WRITE ON! workshops.
 
 - Direct Message -  a series of community workshops about collectively reclaiming our creative voices.
     Participants will engage through poems and paintings in rich open-ended exchange with neighbors,
@@ -262,7 +261,7 @@ WRITE ON workshops as part of WRITE ON - Home are supported by [Art Services, In
 - Thursday, November 13th WRITE ON at Chicory House
 - Thursday, November 20th WRITE ON at King Urban Life Center
 - Tuesday, December 9th WRITE ON on Zoom.
-
+- Thursday, December 18th WRITE ON at the Frank E. Merriweather Library
 
 
 
