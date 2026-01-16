@@ -17,18 +17,16 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Kind Fools' WRITE ON - January 13 at 6pm at Rise of WNY
-    [Info/Sign-up](/writeon/){: .btn .btn--success}<br>
 Kind Fools' WRITE ON - January 22nd at 1pm at Merriweather Library
     [Info/Sign-up](/writeon/){: .btn .btn--success}<br>
+Our partner - **Recovery Stories at 5:00pm January 26th** [Info/Sign-up](
+    /recoverystories/){: .btn .btn--info}<br>
 Thank you for supporting Community Canvases' / Kind Fools' Annual Appeal
     [Donate](
         https://secure.givelively.org/donate/community-canvases-incorporated
     ){: .btn .btn--large .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Kind Fools' WRITE ON - Thank you for another meaning-filled year!
-    [Info/Sign-up](/writeon/){: .btn .btn--info}<br>
 Band Together for Food raised almost $2,000 for Journey's End. Thanks!!!
     [Details](
         https://www.facebook.com/events/1144182281198731
