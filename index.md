@@ -17,10 +17,10 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Kind Fools' WRITE ON - January 22nd at 1pm at Merriweather Library
-    [Info/Sign-up](/writeon/){: .btn .btn--success}<br>
-Our partner - **Recovery Stories at 5:00pm January 26th** [Info/Sign-up](
+Our partner - **Recovery Stories at 5:30pm January 26th on Zoom** [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
+Kind Fools' WRITE ON - February 10th at 6pm at UUCB with L'Arche Buffalo
+    [Info/Sign-up](/writeon/){: .btn .btn--success}<br>
 Thank you for supporting Community Canvases' / Kind Fools' Annual Appeal
     [Donate](
         https://secure.givelively.org/donate/community-canvases-incorporated
