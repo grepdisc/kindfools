@@ -8,12 +8,11 @@ header:
 
 ---
 
-# Recovery Stories on Monday, January 26, 2026
+# Recovery Stories on Monday, February 16, 2026
 
 Recovery Stories - an accepting space to share poems and stories of recovery.
 
 Please RSVP below. Please note:
-- Recovery Stories on Monday, January 26th at 5:30pm will be held only virtually on Zoom
 - Recovery Stories on Monday, February 16th at 5:00pm will be held at Fitz Books
 - After February, Recovery Stories will return to the usual location at 907 Michigan Avenue.
 
@@ -40,6 +39,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSfz6GmHF8JsQfftlPl5737CsNeDNXLXarHFet_X
 
 # Prior Recovery Stories
 
+- January 26, 2025 on Zoom
+- October 20, 2025
+- September 16, 2025
+- September 5, 2025 100,000 Poets for Change
 - July 14, 2025 at Roswell Park's Community Outreach and Engagement Center
 - June 23, 2025 at Roswell Park's Community Outreach and Engagement Center
 - May 19, 2025 at Roswell Park's Community Outreach and Engagement Center

@@ -17,9 +17,15 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Our partner - **Recovery Stories at 5:30pm January 26th on Zoom** [Info/Sign-up](
+Community Swing live music **Hasting Duo 6pm January 28th** [Details](
+    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
+Kind Fools' WRITE ON! - February 10th at 5pm at UUCB with L'Arche Buffalo
+    [Info/Sign-up](/writeon/){: .btn .btn--success}<br>
+Our partner - **Recovery Stories at 5:30pm February 16th on Zoom** [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
-Kind Fools' WRITE ON - February 10th at 6pm at UUCB with L'Arche Buffalo
+Kind Fools' WRITE ON! - February 17th at 6pm at King Urban Life Center
+    [Info/Sign-up](/writeon/){: .btn .btn--success}<br>
+Kind Fools' WRITE ON! - February 26th at 6pm EST on Zoom
     [Info/Sign-up](/writeon/){: .btn .btn--success}<br>
 Thank you for supporting Community Canvases' / Kind Fools' Annual Appeal
     [Donate](
