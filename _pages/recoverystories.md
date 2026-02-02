@@ -24,7 +24,7 @@ at **[mr.samuelfloyd@gmail.com](mailto:mr.samuelfloyd@gmail.com)**
 
 {% comment %}
 <figure style="max-width: 966px" class="align-center">
-  <img src="/assets/images/recoverystoriesflyer20260126.jpg"
+  <img src="/assets/images/recoverystoriesflyer20260216.jpg"
    alt="Recovery Stories Poster">
 </figure> 
 # Recovery Stories' 100 Thousand Poets for Change
