@@ -22,11 +22,12 @@ at **[mr.samuelfloyd@gmail.com](mailto:mr.samuelfloyd@gmail.com)**
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeoTPMQiO3i7e_k4_VWryUVdmGX3BVte0bc_Iv2sQxf92LARQ/viewform?embedded=true" width="100%" height="1650" frameborder="0" marginheight="0" marginwidth="0" onload = "window.parent.scrollTo(0,0)">Loading…</iframe>
 
 
-{% comment %}
 <figure style="max-width: 966px" class="align-center">
   <img src="/assets/images/recoverystoriesflyer20260216.jpg"
    alt="Recovery Stories Poster">
 </figure> 
+
+{% comment %}
 # Recovery Stories' 100 Thousand Poets for Change
 
 Thank you to everyone who joined us on Friday, September 5, 2025
