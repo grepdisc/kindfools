@@ -11,9 +11,6 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 ## Upcoming workshops
 
 
-- *Tuesday, February 10th 5:00pm-8:00pm* WRITE ON - Home at the Unitarian Universalist Church of Buffalo with L'Arche Buffalo
-    [Sign Up](/signups/writeon20260210/){: .btn .btn--success}
-
 - *Tuesday, February 17th 6:00pm-8:30pm* WRITE ON! at King Urban Life Center
     [Sign Up](/signups/writeon20260217/){: .btn .btn--success}
 
@@ -274,6 +271,7 @@ WRITE ON workshops as part of WRITE ON - Home are supported by [Art Services, In
 - Tuesday, December 9th WRITE ON on Zoom.
 - Thursday, December 18th WRITE ON at the Frank E. Merriweather Library
 - Tuesday, January 13th WRITE ON at Rise of WNY
+- Tuesday, February 10th WRITE ON - Home at the Unitarian Universalist Church of Buffalo with L'Arche Buffalo
 
 
 
