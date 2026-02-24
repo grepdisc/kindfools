@@ -17,14 +17,12 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Our partner - **Recovery Stories at 5:00pm February 16th at Fitz Books** [Info/Sign-up](
-    /recoverystories/){: .btn .btn--info}<br>
-Kind Fools' WRITE ON! - February 17th at 6pm at King Urban Life Center
-    [Info/Sign-up](/writeon/){: .btn .btn--success}<br>
 Community Swing live music **Jack Civiletto & April Mazzone 6pm February 25th** [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Kind Fools' WRITE ON! - February 26th at 6pm EST on Zoom
     [Info/Sign-up](/writeon/){: .btn .btn--success}<br>
+Our partner - **Recovery Stories at 5:00pm March 23rd** [Info/Sign-up](
+    /recoverystories/){: .btn .btn--info}<br>
 Thank you for supporting Community Canvases' / Kind Fools' Annual Appeal
     [Donate](
         https://secure.givelively.org/donate/community-canvases-incorporated
