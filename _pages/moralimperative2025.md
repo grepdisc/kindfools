@@ -1,5 +1,5 @@
 ---
-permalink: /moralimperative/
+permalink: /moralimperative2025/
 title: "The Moral Imperative"
 layout: splash
 author_profile: false
