@@ -17,12 +17,12 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Community Swing live music **Jack Civiletto & April Mazzone 6pm February 25th** [Details](
-    https://www.facebook.com/communityswing){: .btn .btn--info}<br>
 Kind Fools' WRITE ON! - February 26th at 6pm EST on Zoom
     [Info/Sign-up](/writeon/){: .btn .btn--success}<br>
 Our partner - **Recovery Stories at 5:00pm March 23rd** [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
+Please check out **The Moral Imperative 2026** 
+   [Details](/moralimperative/){: .btn .btn--large .btn--info}<br>
 Thank you for supporting Community Canvases' / Kind Fools' Annual Appeal
     [Donate](
         https://secure.givelively.org/donate/community-canvases-incorporated
