@@ -9,58 +9,81 @@ header:
 ---
 
 
-# The Moral Imperative is a collaborative project for the Spring of 2025
+# The Moral Imperative is a collaborative project for the Spring of 2026
 
 This project is supported by Just Buffalo Literary Center as part
 of their Civil Writes Project in concert with their BABEL Series
-featuring author [James McBride](http://www.jamesmcbride.com), his book
-[*The Good Lord Bird*](http://www.jamesmcbride.com/good-lord-bird/) and his [BABEL
-discussion](https://www.justbuffalo.org/events/babel-james-mcbride-2025-04-30/)
-on Thursday, April 30, 2025.
+featuring author [Imani Perry](https://imaniperryauthor.com/) her book
+[*Black In Blues*](
+https://imaniperryauthor.com/books/black-in-blues-how-a-color-tells-the-story-of-my-people-imani-perry/9780062977397
+) and her [BABEL discussion](
+https://www.justbuffalo.org/events/babel-imani-perry-2026-04-23/
+) on Thursday, April 23, 2026.
 
-Together, we read and discuss *The Good Lord Bird* and *Where Do We Go From Here: Chaos or Community*.<br>
-Together, we attend James McBrides's BABEL discussion.<br>
+This project is the successor to [The Moral Imperative 2025](/moralimperative2025).
+
+Together, we read and discuss *Black in Blues* and *Make Me Rain*.<br>
+Together, we attend Imani Perry's BABEL discussion.<br>
 Together, we write our truth as it connects with these works and specifically when we have felt a moral imperative.<br>
 Together, we present our work and celebrate this experience.<br>
 
-Community Canvases' **The Moral Imperative:** We invite community members to read James McBride's "The Good Lord Bird" about John Brown's raid on Harpers Ferry. We are reading Rev. Martin Luther King, Jr.'s "Where Do We Go From Here: Chaos or Community?" In April, we participate in a book discussion and then attend James McBride's BABEL talk. In May, we will participate in Kind Fools' WRITE ON workshops to write reflections on when we have felt a moral imperative, when we have felt called by our values and conscience to take an action. In June, we will submit our poems and reflections for publication in a book. This project is organized by Kamau R.E. Fields, Hy Carrel, Samuel Floyd, and Chanda O'Donnell de Ramirez in collaboration with Just Buffalo Literary Center's Civil Writes Project, Buffalo Latino Village Press, and Vilardo Printing.
+Community Canvases' **The Moral Imperative:**
+
+In 2026, The Moral Imperative offers community members a continuing opportunity
+to reflect deeply on how their personal experiences relate to Imani Perry’s
+book *Black in Blues* and to her April 23, 2026 BABEL discussion.
+In the words of Henry Louis Gates, Jr., this book details the history of how
+“Black people became ‘Blues People.’” The group will reflect on this book as
+well as on *Make Me Rain* by poet Nikki Giovanni, who accessibly expressed
+the personal and the profound.
+
+This is an opportunity to gather with residents from across Buffalo for a
+gentle & encouraging space of witnessing each other and our world, and then
+expressing our truth though writing.
+
+The brief application to participate is open now and applications will be considered on a rolling basis through March 27, 2026. Gatherings will be on evenings (mainly Tuesdays): March 31, April 14, April 23, April 28, May 5, May 12, May 26. Learn more at https://kindfools.org/moralimperative/
+
+This project is organized by Kamau R.E. Fields, Hy Carrel, Dr. Steve Peraza, Samuel Floyd, and Chanda O'Donnell de Ramirez in collaboration with Just Buffalo Literary Center's Civil Writes Project and Buffalo Latino Village Press.
 
 The goal of this project is to provide community members a continuing
 opportunity to reflect deeply on their personal experiences and on how
 they relate to the topics in these books and this BABEL discussion.
+
+<figure style="max-width: 750px" class="align-center">
+  <img src="/assets/images/themoralimperativead2026.png"
+   alt="The Moral Imperative Flyer">
+</figure>
+
+
+### Activities:
+- Friday, March 31st apply anytime before 9pm [Apply](
+https://docs.google.com/forms/d/e/1FAIpQLSeDahLvo4AwYDrw4K3lpFZRqFHk9k1VstBpUEzBHJtT2C-1ew/viewform?usp=publish-editor
+){: .btn .btn--large .btn--success}<br>
+- Tuesday, March 31 at 6pm-7:30pm Welcome Gathering for core group (books distributed)
+- Tuesday, April 14 at 6pm-8pm Book Discussion
+- Thursday, April 23 7pm-10pm Imani Perry's [BABEL talk](
+    https://www.justbuffalo.org/events/babel-imani-perry-2026-04-23/
+   ) (complimentary admission for core group)
+- Tuesday, April 28 6:00pm-8:30pm [WRITE ON](/writeon/) intuitive writing group
+- Tuesday, May 5 6:00pm-8:30pm [WRITE ON](/writeon/) intuitive writing group
+- Tuesday, May 12 6:00pm-8:30pm [WRITE ON](/writeon/) intuitive writing group
+- Tuesday, May 26 6:00pm-8:30pm [WRITE ON](/writeon/) intuitive writing group
+- *Friday, June 5* by 9:00pm Deadline to Submit writings
+- *Saturday, July 18* 1:00-3:00pm Celebration/Presentation of
+   publication of writings by core group
+
+
 
 <figure style="max-width: 1091px" class="align-center">
   <img src="/assets/images/themoralimperativecelebration.png"
    alt="The Moral Imperative Flyer">
 </figure>
 
-### Activities:
-- 5pm Wednesday April 2nd (Extended from ~~Friday, March 28~~) Final date to apply
-- Thursday, April 3 6pm-7:30pm Welcome Gathering for core group (books distributed)
-- Thursday, April 24 at 6pm-8pm Book Discussion
-- Thursday, April 30 7pm-10pm James McBride's [BABEL talk](
-    https://www.justbuffalo.org/events/babel-james-mcbride-2025-04-30/
-   ) (complimentary admission for core group)
-- Thursday, May 8 1:00pm-3:30pm WRITE ON intuitive writing group
-- Monday, May 12 6:00pm-8:30pm WRITE ON intuitive writing group
-- Tuesday, May 20 6:00pm-8:30pm WRITE ON intuitive writing group
-- *Tuesday, May 27* 1:00pm-3:30pm [WRITE ON](/writeon/) intuitive writing group
-- *Friday, June 6* by 9:00pm Deadline to Submit writings
-- *Saturday, July 19* 1:00-3:00pm Celebration/Presentation of
-   publication of writings by core group
-
-
+{% comment %}
 <figure style="max-width: 966px" class="align-center">
   <img src="/assets/images/themoralimperativeprograms.png"
    alt="The Moral Imperative Poster">
 </figure>
-
-<figure style="max-width: 800px" class="align-center">
-  <img src="/assets/images/themoralimperativead.png"
-   alt="The Moral Imperative Flyer">
-</figure>
-
-{% comment %}
 [Apply Now](
 https://docs.google.com/forms/d/e/1FAIpQLSd21gT-rH1Qd63xuL8rKxj39oObIdXfNNNI42MFRiCH_dUAfg/viewform
 ){: .btn .btn--large .btn--success}
