@@ -9,6 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
+gem "csv"
 gem "jekyll", "~> 4.3.1"
 # https://github.com/mmistakes/minimal-mistakes/issues/4054#issuecomment-1371015867
 gem 'jekyll-sass-converter', '~> 2.2'   # locks to a pre-rust version
