@@ -17,8 +17,8 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Kind Fools' WRITE ON! - February 26th at 6pm EST on Zoom
-    [Info/Sign-up](/writeon/){: .btn .btn--success}<br>
+Kind Fools' WRITE ON! - March Dates
+    [Info/Sign-up](/writeon/){: .btn .btn--info}<br>
 Our partner - **Recovery Stories at 5:00pm March 23rd** [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
 Please check out **The Moral Imperative 2026** 

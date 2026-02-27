@@ -11,8 +11,8 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 ## Upcoming workshops
 
 
-- *Thursday, February 26th 6:00pm-8:30pm* WRITE ON! on Zoom
-    [Sign Up](/signups/writeon20260226/){: .btn .btn--success}
+Please check back soon for our March WRITE ON! workshops.
+
 
 - Direct Message -  a series of community workshops about collectively reclaiming our creative voices.
     Participants will engage through poems and paintings in rich open-ended exchange with neighbors,
@@ -24,6 +24,8 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 {% comment %}
 
+- *Thursday, February 26th 6:00pm-8:30pm* WRITE ON! on Zoom
+    [Sign Up](/signups/writeon20260226/){: .btn .btn--success}
 - *Thursday, January 22nd 1:00pm-3:30pm* WRITE ON at the Frank E. Merriweather Library
     [Sign Up](/signups/writeon20260122/){: .btn .btn--success}
 
@@ -270,6 +272,7 @@ WRITE ON workshops as part of WRITE ON - Home are supported by [Art Services, In
 - Tuesday, January 13th WRITE ON at Rise of WNY
 - Tuesday, February 10th WRITE ON - Home at the Unitarian Universalist Church of Buffalo with L'Arche Buffalo
 - Tuesday, February 17th WRITE ON! at King Urban Life Center
+- Thursday, February 26th 6:00pm-8:30pm WRITE ON! on Zoom
 
 
 
