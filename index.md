@@ -21,8 +21,8 @@ Kind Fools' WRITE ON! - March Dates
     [Info/Sign-up](/writeon/){: .btn .btn--info}<br>
 Our partner - **Recovery Stories at 5:00pm March 23rd** [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
-Please check out **The Moral Imperative 2026** 
-   [Details](/moralimperative/){: .btn .btn--large .btn--info}<br>
+**The Moral Imperative 2026** Application Open through March 27th
+   [Details](https://communitycanvases.org/moralimperative/){: .btn .btn--info}<br>
 Thank you for supporting Community Canvases' / Kind Fools' Annual Appeal
     [Donate](
         https://secure.givelively.org/donate/community-canvases-incorporated
