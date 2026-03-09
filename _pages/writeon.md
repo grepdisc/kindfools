@@ -10,9 +10,11 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
+- *Thursday, March 19th 1:00pm-3:30pm* WRITE ON at the Frank E. Merriweather Library
+    [Sign Up](/signups/writeon20260319/){: .btn .btn--success}
 
-Please check back soon for our March WRITE ON! workshops.
-
+- **The Moral Imperative 2026** Application Open through March 27th
+   [Details](https://communitycanvases.org/moralimperative/){: .btn .btn--success}<br>
 
 - Direct Message -  a series of community workshops about collectively reclaiming our creative voices.
     Participants will engage through poems and paintings in rich open-ended exchange with neighbors,

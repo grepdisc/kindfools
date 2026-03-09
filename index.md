@@ -3,6 +3,8 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
+
+- The Moral Imperative - 
   overlay_image: /assets/images/wk-home-page-feature.jpg
 excerpt: "expressing our truth, and having it listened to, heals us"
 
@@ -17,12 +19,14 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Kind Fools' WRITE ON! - March Dates
+Kind Fools' WRITE ON! - March 19th at 1pm
     [Info/Sign-up](/writeon/){: .btn .btn--info}<br>
 Our partner - **Recovery Stories at 5:00pm March 23rd** [Info/Sign-up](
     /recoverystories/){: .btn .btn--info}<br>
 **The Moral Imperative 2026** Application Open through March 27th
-   [Details](https://communitycanvases.org/moralimperative/){: .btn .btn--info}<br>
+   [Details](https://communitycanvases.org/moralimperative/){: .btn .btn--success}<br>
+WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Details](
+   https://communitycanvases.org/earthday2026/){: .btn .btn--success}<br>
 Thank you for supporting Community Canvases' / Kind Fools' Annual Appeal
     [Donate](
         https://secure.givelively.org/donate/community-canvases-incorporated
