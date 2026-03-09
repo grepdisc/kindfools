@@ -8,13 +8,11 @@ header:
 
 ---
 
-# Recovery Stories on Monday, February 16, 2026
+# Recovery Stories on Monday, March 23rd
 
 Recovery Stories - an accepting space to share poems and stories of recovery.
 
-Please RSVP below. Please note:
-- Recovery Stories on Monday, February 16th at 5:00pm will be held at Fitz Books
-- After February, Recovery Stories will return to the usual location at 907 Michigan Avenue.
+Please RSVP below.
 
 Thoughts? Please reach out to Recovery Stories founder Samuel Floyd
 at **[mr.samuelfloyd@gmail.com](mailto:mr.samuelfloyd@gmail.com)**
@@ -23,7 +21,7 @@ at **[mr.samuelfloyd@gmail.com](mailto:mr.samuelfloyd@gmail.com)**
 
 
 <figure style="max-width: 966px" class="align-center">
-  <img src="/assets/images/recoverystoriesflyer20260216.jpg"
+  <img src="/assets/images/recoverystoriesflyer202600323.jpg"
    alt="Recovery Stories Poster">
 </figure> 
 
