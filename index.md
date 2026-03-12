@@ -3,8 +3,6 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-
-- The Moral Imperative - 
   overlay_image: /assets/images/wk-home-page-feature.jpg
 excerpt: "expressing our truth, and having it listened to, heals us"
 
