@@ -10,10 +10,9 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- *Thursday, March 19th 1:00pm-3:30pm* WRITE ON at the Frank E. Merriweather Library
-    [Sign Up](/signups/writeon20260319/){: .btn .btn--success}
+- Please check back soon for our May WRITE ON! workshops.
 
-- **The Moral Imperative 2026** Application Open through March 27th
+- **The Moral Imperative 2026** - our current cohort is full but please reach out to express interest
    [Details](https://communitycanvases.org/moralimperative/){: .btn .btn--success}<br>
 
 - Direct Message -  a series of community workshops about collectively reclaiming our creative voices.
@@ -40,6 +39,10 @@ Please check back soon for our July WRITE ON workshops.
 
 - *Tuesday, December 17th 6:00pm-8:30pm* WRITE ON at TBA
     [Sign Up](/signups/writeon20241217/){: .btn .btn--success}
+
+- *Thursday, March 19th 1:00pm-3:30pm* WRITE ON at the Frank E. Merriweather Library
+    [Sign Up](/signups/writeon20260319/){: .btn .btn--success}
+
 
 
 - **WRITE ON - Home** on August 27th [Details](/home/){: .btn .btn--info}
@@ -274,7 +277,8 @@ WRITE ON workshops as part of WRITE ON - Home are supported by [Art Services, In
 - Tuesday, January 13th WRITE ON at Rise of WNY
 - Tuesday, February 10th WRITE ON - Home at the Unitarian Universalist Church of Buffalo with L'Arche Buffalo
 - Tuesday, February 17th WRITE ON! at King Urban Life Center
-- Thursday, February 26th 6:00pm-8:30pm WRITE ON! on Zoom
+- Thursday, February 26th WRITE ON! on Zoom
+- Thursday, March 19th WRITE ON! at the Frank E. Merriweather Library
 
 
 

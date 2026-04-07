@@ -8,7 +8,7 @@ header:
 
 ---
 
-# Recovery Stories on Monday, March 23rd
+# Recovery Stories on Monday, April 20th
 
 Recovery Stories - an accepting space to share poems and stories of recovery.
 
@@ -21,7 +21,7 @@ at **[mr.samuelfloyd@gmail.com](mailto:mr.samuelfloyd@gmail.com)**
 
 
 <figure style="max-width: 966px" class="align-center">
-  <img src="/assets/images/recoverystoriesflyer202600323.jpg"
+  <img src="/assets/images/recoverystoriesflyer20260420.png"
    alt="Recovery Stories Poster">
 </figure> 
 
@@ -38,9 +38,11 @@ https://docs.google.com/forms/d/e/1FAIpQLSfz6GmHF8JsQfftlPl5737CsNeDNXLXarHFet_X
 
 # Prior Recovery Stories
 
-- January 26, 2025 on Zoom
-- October 20, 2025
-- September 16, 2025
+- March 23, 2026 at Roswell Park
+- February 16, 2026 at Fitz Books
+- January 26, 2026 on Zoom
+- October 20, 2025 at Roswell Park
+- September 16, 2025 at Roswell Park
 - September 5, 2025 100,000 Poets for Change
 - July 14, 2025 at Roswell Park's Community Outreach and Engagement Center
 - June 23, 2025 at Roswell Park's Community Outreach and Engagement Center
