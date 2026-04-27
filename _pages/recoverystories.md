@@ -8,7 +8,7 @@ header:
 
 ---
 
-# Recovery Stories on Monday, April 20th
+# Recovery Stories
 
 Recovery Stories - an accepting space to share poems and stories of recovery.
 
