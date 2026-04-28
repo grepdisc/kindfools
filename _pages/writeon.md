@@ -10,7 +10,8 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 ## Upcoming workshops
 
-- Please check back soon for our May WRITE ON! workshops.
+- *Thursday, May 21st 6:00pm-9:00pm* WRITE ON! at To Be Determined
+    [Sign Up](/signups/writeon20260521/){: .btn .btn--success}
 
 - **The Moral Imperative 2026** - our current cohort is full but please reach out to express interest
    [Details](https://communitycanvases.org/moralimperative/){: .btn .btn--success}<br>
@@ -25,6 +26,7 @@ Kind Fools, a program of Community Canvases, presents WRITE ON! (an intuitive wr
 
 {% comment %}
 
+- Please check back soon for our May WRITE ON! workshops.
 - *Thursday, February 26th 6:00pm-8:30pm* WRITE ON! on Zoom
     [Sign Up](/signups/writeon20260226/){: .btn .btn--success}
 - *Thursday, January 22nd 1:00pm-3:30pm* WRITE ON at the Frank E. Merriweather Library

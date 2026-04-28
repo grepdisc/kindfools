@@ -21,7 +21,7 @@ all_posts:
    [Details](https://communitycanvases.org/moralimperative/){: .btn .btn--success}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Details](
    https://communitycanvases.org/earthday2026/){: .btn .btn--success}<br>
-Our partner - **Recovery Stories at 5:30pm April 20th** [Info/Sign-up](
+Our partner - **Recovery Stories at 5:30pm May 18th** [Info/Sign-up](
     https://communitycanvases.org/recoverystories/){: .btn .btn--info}<br>
 Thank you for supporting Community Canvases' / Kind Fools' Annual Appeal
     [Donate](
