@@ -129,6 +129,9 @@ Our partner - **Recovery Stories at 5:30pm Nov 27th** [Info/Sign-up](
 Please check back here soon for more WRITE ON workshops.
 {% endcomment %}
 
+**Kind Fools is program of [Community Canvases](https://communitycanvases.org/), a Western New York arts nonprofit devoted to building community through the arts.**
+
+{% comment %}
  Programs
 {: .text-center}
 
@@ -146,6 +149,7 @@ Please check back here soon for more WRITE ON workshops.
         </div>
     {% endfor %}
 </div>
+{% endcomment %}
 
 # Recent Stories
 {: .text-center .clear-left}
