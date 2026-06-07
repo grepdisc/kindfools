@@ -10,8 +10,8 @@ Kind Fools, a program of [Community Canvases](https://communitycanvases.org/), p
 
 ## Upcoming workshops
 
-- *Thursday, May 21st 6:00pm-8:30pm* WRITE ON! at First Presbyterian Church
-    [Sign Up](/signups/writeon20260521/){: .btn .btn--success}
+- *Thursday, June 23rd 6:00pm-8:30pm* WRITE ON - Home at NAMI Buffalo & WNY
+    [Sign Up](/signups/writeon20260623/){: .btn .btn--success}
 
 - **The Moral Imperative 2026** - our current cohort is full but please reach out to express interest
    [Details](https://communitycanvases.org/moralimperative/){: .btn .btn--success}<br>

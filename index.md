@@ -17,9 +17,13 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Our partner - Recovery Stories at 5:30pm May 18th [Info/Sign-up](
+Check our our panel at ASI's CPX Conference June 10th [Info/Sign-up](
+    https://www.asicpx.org/){: .btn .btn--success}<br>
+Our partner - Recovery Stories at 5:30pm June 15th [Info/Sign-up](
     https://communitycanvases.org/recoverystories/){: .btn .btn--success}<br>
-Kind Fools' WRITE ON! at the First Presbyterian Church at 6:00pm May 21st
+WNY Trash Mob's Clean Up Grant Street [Details](
+   https://communitycanvases.org/events/cleanup20260620/){: .btn .btn--success}<br>
+Kind Fools' *WRITE ON - Home* at NAMI Buffalo & WNY at 6:00pm June 23rd
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 **The Moral Imperative 2026**
    [Details](https://communitycanvases.org/moralimperative/){: .btn .btn--info}<br>
@@ -27,15 +31,15 @@ WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Details](
    https://communitycanvases.org/earthday2026/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
     https://www.facebook.com/communityswing){: .btn .btn--info}<br>
-Band Together for Food raised almost $2,000 for Journey's End. Thanks!!!
-    [Details](
-        https://www.facebook.com/events/1144182281198731
-    ){: .btn .btn--large .btn--success}<br>
 All Community Canvases [Events](
 https://communitycanvases.org/events/){: .btn .btn--info}
 {: .notice--info .maxwidthbox .align-center}
 
 {% comment %}
+Band Together for Food raised almost $2,000 for Journey's End. Thanks!!!
+    [Details](
+        https://www.facebook.com/events/1144182281198731
+    ){: .btn .btn--large .btn--success}<br>
 Thank you for supporting Community Canvases' Kind Fools' Annual Appeal
     [Donate](
         https://secure.givelively.org/donate/community-canvases-incorporated
