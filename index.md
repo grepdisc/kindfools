@@ -17,16 +17,14 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Check our our panel at ASI's CPX Conference June 10th [Info/Sign-up](
-    https://www.asicpx.org/){: .btn .btn--success}<br>
-Our partner - Recovery Stories at 5:30pm June 15th [Info/Sign-up](
-    https://communitycanvases.org/recoverystories/){: .btn .btn--success}<br>
-WNY Trash Mob's Clean Up Grant Street [Details](
+WNY Trash Mob's Clean Up Grant Street 11am June 20th [Details](
    https://communitycanvases.org/events/cleanup20260620/){: .btn .btn--success}<br>
 Kind Fools' *WRITE ON - Home* at NAMI Buffalo & WNY at 6:00pm June 23rd
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
-**The Moral Imperative 2026**
+**The Moral Imperative 2026** celebration at Fitz Books 1pm July 18th
    [Details](https://communitycanvases.org/moralimperative/){: .btn .btn--info}<br>
+Our partner - Recovery Stories at 5:30pm July 20th [Info/Sign-up](
+    https://communitycanvases.org/recoverystories/){: .btn .btn--success}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Details](
    https://communitycanvases.org/earthday2026/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
