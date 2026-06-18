@@ -10,10 +10,10 @@ Kind Fools, a program of [Community Canvases](https://communitycanvases.org/), p
 
 ## Upcoming workshops
 
-- *Thursday, June 23rd 6:00pm-8:30pm* WRITE ON - Home at NAMI Buffalo & WNY
+- *Tuesday, June 23rd 6:00pm-8:30pm* WRITE ON - Home at NAMI Buffalo & WNY
     [Sign Up](/signups/writeon20260623/){: .btn .btn--success}
 
-- **The Moral Imperative 2026** - our current cohort is full but please reach out to express interest
+- **The Moral Imperative 2026** - book release and celebration 1pm to 3pm Saturday, July 18, 2026
    [Details](https://communitycanvases.org/moralimperative/){: .btn .btn--success}<br>
 
 - Direct Message -  a series of community workshops about collectively reclaiming our creative voices.
