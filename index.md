@@ -17,9 +17,11 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-WNY Trash Mob's Clean Up Grant Street 11am June 20th [Details](
-   https://communitycanvases.org/events/cleanup20260620/){: .btn .btn--success}<br>
-Kind Fools' *WRITE ON - Home* at NAMI Buffalo & WNY at 6:00pm June 23rd
+Kind Fools' **WRITE ON - Home** - writing in your preferred language
+    [Details](https://communitycanvases.org/home/){: .btn .btn--success}<br>
+Kind Fools' *WRITE ON!* at the Merriweather Library at 2:00pm August 13th
+    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+Kind Fools' *WRITE ON!* at NAMI Buffalo & WNY at 6:00pm August 25th
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 **The Moral Imperative 2026** celebration at Fitz Books 1pm July 18th
    [Details](https://communitycanvases.org/moralimperative/){: .btn .btn--info}<br>
