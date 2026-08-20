@@ -10,9 +10,6 @@ Kind Fools, a program of [Community Canvases](https://communitycanvases.org/), p
 
 ## Upcoming workshops
 
-- *Thursday, August 13th 2:00pm-4:30pm* WRITE ON at the Frank E. Merriweather Library
-    [Sign Up](/signups/writeon20260813/){: .btn .btn--success}
-
 - *Tuesday, August 25th 6:00pm-8:30pm* WRITE ON - Home at NAMI Buffalo & WNY
     [Sign Up](/signups/writeon20260825/){: .btn .btn--success}
 
@@ -284,6 +281,8 @@ WRITE ON workshops as part of WRITE ON - Home are supported by [Art Services, In
 - Tuesday, February 17th WRITE ON! at King Urban Life Center
 - Thursday, February 26th WRITE ON! on Zoom
 - Thursday, March 19th WRITE ON! at the Frank E. Merriweather Library
+- Tuesday, June 23, 2026 WRITE ON! at NAMI Buffalo & WNY
+- Thursday, August 13, 2026 WRITE ON! at the Frank E. Merriweather Library
 
 
 

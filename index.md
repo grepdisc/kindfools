@@ -17,16 +17,16 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Kind Fools' **WRITE ON - Home** - writing in your preferred language
-    [Details](https://communitycanvases.org/home/){: .btn .btn--success}<br>
-Kind Fools' *WRITE ON!* at the Merriweather Library at 2:00pm August 13th
-    [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Kind Fools' *WRITE ON!* at NAMI Buffalo & WNY at 6:00pm August 25th
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
+Kind Fools' **WRITE ON - Home** - writing in your preferred language
+    [Details](https://communitycanvases.org/home/){: .btn .btn--success}<br>
+WNY Trash Mob!'s Party in the Park
+    [Details](https://communitycanvases.org/events/partyinthepark2026/){: .btn .btn--info}<br>
 **The Moral Imperative 2026** celebration at Fitz Books 1pm July 18th
    [Details](https://communitycanvases.org/moralimperative/){: .btn .btn--info}<br>
-Our partner - Recovery Stories at 5:30pm July 20th [Info/Sign-up](
-    https://communitycanvases.org/recoverystories/){: .btn .btn--success}<br>
+Our partner - Recovery Stories' 100 Thousand Poets for Change at 3:30pm September 28th [Info/Sign-up](
+    https://communitycanvases.org/recoverystories/){: .btn .btn--info}<br>
 WNY Trash Mob's Earth Day Clean Up Challenge 2026 [Details](
    https://communitycanvases.org/earthday2026/){: .btn .btn--success}<br>
 Community Swing 6pm to 9pm every Wednesday [Details](
