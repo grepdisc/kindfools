@@ -17,7 +17,7 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Kind Fools' *WRITE ON!* at NAMI Buffalo & WNY at 6:00pm August 25th
+Kind Fools' *WRITE ON!* at UUCB 6:00pm September 22nd
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Kind Fools' **WRITE ON - Home** - writing in your preferred language
     [Details](https://communitycanvases.org/home/){: .btn .btn--success}<br>

@@ -10,8 +10,8 @@ Kind Fools, a program of [Community Canvases](https://communitycanvases.org/), p
 
 ## Upcoming workshops
 
-- *Tuesday, August 25th 6:00pm-8:30pm* WRITE ON - Home at NAMI Buffalo & WNY
-    [Sign Up](/signups/writeon20260825/){: .btn .btn--success}
+- *Tuesday, September 22nd 6:00pm-8:30pm* WRITE ON! at the Unitarian Universalist Church of Buffalo
+    [Sign Up](/signups/writeon20260922/){: .btn .btn--success}
 
 - **The Moral Imperative 2026** - book release and celebration 1pm to 3pm Saturday, July 18, 2026
    [Details](https://communitycanvases.org/moralimperative/){: .btn .btn--success}<br>
@@ -283,6 +283,7 @@ WRITE ON workshops as part of WRITE ON - Home are supported by [Art Services, In
 - Thursday, March 19th WRITE ON! at the Frank E. Merriweather Library
 - Tuesday, June 23, 2026 WRITE ON! at NAMI Buffalo & WNY
 - Thursday, August 13, 2026 WRITE ON! at the Frank E. Merriweather Library
+- Tuesday, August 25th WRITE ON! at NAMI Buffalo & WNY
 
 
 
