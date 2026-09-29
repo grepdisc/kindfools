@@ -17,7 +17,7 @@ all_posts:
 # Upcoming Events
 {: .text-center}
 
-Kind Fools' *WRITE ON!* at UUCB 6:00pm September 22nd
+*WRITE ON!* at Buffalo State's AFP's Social Justice Festival 4:30pm October 6th
     [Sign Up/Info](/writeon/){: .btn .btn--success}<br>
 Kind Fools' **WRITE ON - Home** - writing in your preferred language
     [Details](https://communitycanvases.org/home/){: .btn .btn--success}<br>
