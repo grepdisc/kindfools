@@ -10,7 +10,7 @@ Kind Fools, a program of [Community Canvases](https://communitycanvases.org/), p
 
 ## Upcoming workshops
 
-- *Tuesday, October 6th 4:30pm-5:45pm* WRITE ON! at the Social Hall in Buffalo State's Student Union as part of their [
+- *Tuesday, October 6th 4:30pm-5:45pm* WRITE ON! at the Social Hall in Buffalo State's Student Union as part of their **[
 Anne Frank Project's](https://www.annefrankproject.com/social-justice-festival)**
 Social Justice Festival [Sign Up](/signups/writeon20261006/){: .btn .btn--success}
 
